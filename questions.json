@@ -46,7 +46,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": false,
   "hardestOverall15pct": false,
-  "methodNote": "Find missing probabilities from a total of [value] then use a known count to scale up to the total number of cubes."
+  "methodNote": "Question-specific working omitted from the public note; see the marks, scheme file and PDF page cited."
  },
  {
   "id": "jun2019-1h-2",
@@ -94,7 +94,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Scale amounts proportionally from [value] biscuits, find flour and butter from the sugar multiples, then convert butter to whole packs."
+  "methodNote": "Scale amounts proportionally from the given value biscuits, find flour and butter from the sugar multiples, then convert butter to whole packs."
  },
  {
   "id": "jun2019-1h-3",
@@ -1876,7 +1876,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": true,
-  "methodNote": "Combine right-angled triangle trig with Pythagoras in a [value] solid to find the angle."
+  "methodNote": "Combine right-angled triangle trig with Pythagoras in a given value solid to find the angle."
  },
  {
   "id": "jun2019-2h-20",
@@ -3095,7 +3095,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Split [value] in ratio [value] take fractions of the cars for each fuel type, add them, and combine."
+  "methodNote": "Question-specific working omitted from the public note; see the marks, scheme file and PDF page cited."
  },
  {
   "id": "jun2022-1h-4",
@@ -3923,7 +3923,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": true,
-  "methodNote": "Find sector area and triangle area using angles of [value] and subtract for the segment."
+  "methodNote": "Find sector area and triangle area using angles of the given value and subtract for the segment."
  },
  {
   "id": "jun2022-2h-1",
@@ -6546,7 +6546,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Write a fraction as a power of [value] and evaluate fractional powers."
+  "methodNote": "Write a fraction as a power of the given value and evaluate fractional powers."
  },
  {
   "id": "jun2023-1h-15",
@@ -6899,7 +6899,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Use a right-angled triangle in the [value] solid, set up sine of the angle from two known lengths."
+  "methodNote": "Use a right-angled triangle in the given value solid, set up sine of the angle from two known lengths."
  },
  {
   "id": "jun2023-1h-23",
@@ -8165,7 +8165,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Work with [value] of the number of people, then scale for two groups and total."
+  "methodNote": "Work with the given value of the number of people, then scale for two groups and total."
  },
  {
   "id": "jun2023-3h-3",
@@ -10067,7 +10067,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Write each variable as a power of [value] and add the indices."
+  "methodNote": "Write each variable as a power of the given value and add the indices."
  },
  {
   "id": "jun2024-1h-21",
@@ -10302,7 +10302,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Prime factorisation of [value] and LCM using the given factorisations."
+  "methodNote": "Prime factorisation of the given value and LCM using the given factorisations."
  },
  {
   "id": "jun2024-2h-3",
@@ -12623,7 +12623,7 @@
   ],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": true,
-  "methodNote": "Write consecutive even numbers as [value] form the expression and show a result."
+  "methodNote": "Write consecutive even numbers as the given value form the expression and show a result."
  },
  {
   "id": "jun2025-1h-11",
@@ -17549,7 +17549,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Multiply both sides by [value] first and solve the linear equation."
+  "methodNote": "Multiply both sides by the given value first and solve the linear equation."
  },
  {
   "id": "nov2019-3h-11",
@@ -17764,7 +17764,7 @@
   ],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Write two consecutive even numbers, expand the sum of squares and show it is divisible by [value]"
+  "methodNote": "Write two consecutive even numbers, expand the sum of squares and show it is divisible by the given value"
  },
  {
   "id": "nov2019-3h-16",
@@ -17850,7 +17850,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Draw the line [value] on the grid and read the intersections for the equation's solutions."
+  "methodNote": "Draw the line the given value on the grid and read the intersections for the equation's solutions."
  },
  {
   "id": "nov2019-3h-18",
@@ -17944,7 +17944,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Draw a tangent at [value] and find its gradient as change in y over change in x."
+  "methodNote": "Draw a tangent at the given value and find its gradient as change in y over change in x."
  },
  {
   "id": "nov2019-3h-20",
@@ -19196,7 +19196,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": true,
-  "methodNote": "Use the fractions of the total number of cards and a common total of [value]"
+  "methodNote": "Use the fractions of the total number of cards and a common total of the given value"
  },
  {
   "id": "nov2020-2h-1",
@@ -20705,7 +20705,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Rotate [value] about the given centre and place the image."
+  "methodNote": "Rotate the given value about the given centre and place the image."
  },
  {
   "id": "nov2020-3h-12",
@@ -21024,7 +21024,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": true,
-  "methodNote": "Use bounds with Pythagoras in [value] for the diagonal and give the length to a stated accuracy."
+  "methodNote": "Use bounds with Pythagoras in the given value for the diagonal and give the length to a stated accuracy."
  },
  {
   "id": "nov2020-3h-19",
@@ -22026,7 +22026,7 @@
   ],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": true,
-  "methodNote": "Rationalise the denominator and write the surd [value] as [value] root [value]"
+  "methodNote": "Question-specific working omitted from the public note; see the marks, scheme file and PDF page cited."
  },
  {
   "id": "nov2021-1h-20",
@@ -22810,7 +22810,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": true,
-  "methodNote": "Divide [value] by the ratio parts to find angles, then circle theorem reasoning."
+  "methodNote": "Divide the given expression or value by the ratio parts to find angles, then circle theorem reasoning."
  },
  {
   "id": "nov2021-2h-15",
@@ -23816,7 +23816,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": false,
   "hardestOverall15pct": false,
-  "methodNote": "Draw a tangent at [value] and find the gradient for the rate of change."
+  "methodNote": "Draw a tangent at the given value and find the gradient for the rate of change."
  },
  {
   "id": "nov2021-3h-16",
@@ -25168,7 +25168,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": true,
-  "methodNote": "Use the sine rule with the known sine of [value] for the angle."
+  "methodNote": "Use the sine rule with the known sine of the given value for the angle."
  },
  {
   "id": "nov2022-1h-23",
@@ -26163,7 +26163,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": true,
-  "methodNote": "Use Pythagoras to find a side, then trig for the angle in [value]"
+  "methodNote": "Use Pythagoras to find a side, then trig for the angle in the given value"
  },
  {
   "id": "nov2022-2h-21",
@@ -26213,7 +26213,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Draw a tangent at [value] and find its gradient."
+  "methodNote": "Draw a tangent at the given value and find its gradient."
  },
  {
   "id": "nov2022-2h-22",
@@ -27803,7 +27803,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Share [value] in the ratio for the angle."
+  "methodNote": "Share the given value in the ratio for the angle."
  },
  {
   "id": "nov2023-1h-7",
@@ -28218,7 +28218,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Draw a tangent at [value] and find its gradient."
+  "methodNote": "Draw a tangent at the given value and find its gradient."
  },
  {
   "id": "nov2023-1h-16",
@@ -30576,7 +30576,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": true,
-  "methodNote": "Use trig in the [value] right-angled triangle to find the length."
+  "methodNote": "Use trig in the given value right-angled triangle to find the length."
  },
  {
   "id": "nov2024-1h-1",
@@ -31234,7 +31234,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Use the sine rule with the known sines of [value]."
+  "methodNote": "Use the sine rule with the known sines of the given value."
  },
  {
   "id": "nov2024-1h-15",
@@ -31683,7 +31683,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Explain the Venn diagram error for the number [value] in terms of set regions."
+  "methodNote": "Explain the Venn diagram error for the number the given value in terms of set regions."
  },
  {
   "id": "nov2024-2h-5",
