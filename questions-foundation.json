@@ -542,7 +542,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "No mark if any incorrect reason is also given).",
+  "methodNote": "(a) Angle by subtracting known angles from a right angle: method mark for the subtraction, accuracy mark. (b)(i) One mark for choosing the correct angle label(s) (the value written beside a correct angle implies it, but not beside an incorrect one), then one dependent communication mark for the appropriate reason, with key words underlined in the scheme; no mark if an incorrect reason is also given.",
   "methodNoteStatus": "written from scheme (full entry read)"
  },
  {
@@ -2945,7 +2945,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": false,
   "hardestOverall15pct": false,
-  "methodNote": "Accuracy mark; a special-case mark exists for a wrong-direction answer.",
+  "methodNote": "Percentage of an amount. Method mark for a complete method (multiply by the decimal, or find one tenth and double). Accuracy mark. A special case gives one mark for the answer that adds or subtracts the amount instead.",
   "methodNoteStatus": "written from scheme (full entry read)"
  },
  {
@@ -3034,7 +3034,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": false,
   "hardestOverall15pct": false,
-  "methodNote": "Complete method; accuracy mark for the correct value",
+  "methodNote": "Fraction of a quantity remaining. Method mark for finding one fraction of the total (divide by the denominator), or the fraction still to fill. Method mark for a complete method (subtract from the total, or multiply the part by the rest). Accuracy mark.",
   "methodNoteStatus": "written from scheme (full entry read)"
  },
  {
@@ -3448,7 +3448,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Method mark for the scale factor from measured lengths.",
+  "methodNote": "Scale factor between similar shapes. Method mark for finding the scaling factor from measured lengths (any form; the scheme gives tolerance ranges for the measurements and the factor). Accuracy mark for the required length, within its allowed range.",
   "methodNoteStatus": "written from scheme (full entry read)"
  },
  {
@@ -4369,7 +4369,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Candles. accuracy mark for the correct value A build-up method is allowed.",
+  "methodNote": "Candles (a build-up method is allowed). Process mark for the difference between the total and the amount used, or for halving both. Process mark for dividing by the per-item amount to reach the count. Accuracy mark.",
   "methodNoteStatus": "written from scheme (full entry read)"
  },
  {
@@ -8106,7 +8106,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": false,
   "hardestOverall15pct": false,
-  "methodNote": "Reverse percentage: method mark for the correct value accuracy mark for the correct value",
+  "methodNote": "Reverse percentage. Method mark for dividing the new amount by the multiplier for the change (for example the final price divided by the decimal remaining after a percentage decrease). Accuracy mark for the original amount.",
   "methodNoteStatus": "written from scheme (full entry read)"
  },
  {
@@ -8466,7 +8466,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Contradictions or just restating are rejected.",
+  "methodNote": "(a) Angle around a point: method mark for subtracting from a full turn, accuracy mark. (b) One communication mark for an explanation about the type of angle (a value below a right angle is acute, so it cannot be obtuse).",
   "methodNoteStatus": "written from scheme (full entry read)"
  },
  {
@@ -8835,7 +8835,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Accuracy mark for the correct value flour.",
+  "methodNote": "Scaling a recipe. Method mark for the scale multiplier applied to one ingredient quantity (the quantities for different ingredients can be used for the first mark). Accuracy mark for the amount of flour.",
   "methodNoteStatus": "written from scheme (full entry read)"
  },
  {
@@ -10119,7 +10119,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Accuracy mark for the correct value.",
+  "methodNote": "Fraction of a number then a further step. Method mark for working with the fraction and the other figure (for example multiplying out, then adding or subtracting). Accuracy mark. A correct final answer with no working scores no marks.",
   "methodNoteStatus": "written from scheme (full entry read)"
  },
  {
@@ -11589,7 +11589,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "A cross, dot or end of a line is accepted.",
+  "methodNote": "Locating a point: one mark for a point at the stated distance from the given point; one mark for a point on the stated bearing from it. A cross, dot or end of a drawn line is accepted.",
   "methodNoteStatus": "written from scheme (full entry read)"
  },
  {
@@ -12891,7 +12891,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Method marks for the first step and for isolating x; accuracy mark.",
+  "methodNote": "Linear equation with a bracket. Method mark for a correct expansion or for dividing both sides first (the step must be carried out). Method mark for isolating the x terms. Accuracy mark.",
   "methodNoteStatus": "written from scheme (full entry read)"
  },
  {
@@ -14087,7 +14087,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": false,
   "hardestOverall15pct": false,
-  "methodNote": "Accuracy mark for the correct value",
+  "methodNote": "Simple interest. Method mark for the interest after one year (a percentage of the sum), or for a complete method over the whole period; a method mark is also available for the total in compound-style form. Accuracy mark for the interest.",
   "methodNoteStatus": "written from scheme (full entry read)"
  },
  {
@@ -14216,7 +14216,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": true,
-  "methodNote": "Process marks: the part the children pay or a per-child cost; accuracy mark for the correct value",
+  "methodNote": "Percentage split in a group. Process mark for a start (the share of the group, or the value per person). Process mark for a complete process to the number needed. Accuracy mark.",
   "methodNoteStatus": "written from scheme (full entry read)"
  },
  {
@@ -14707,7 +14707,7 @@
   ],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": true,
-  "methodNote": "An alternative incorrect method loses the first mark.",
+  "methodNote": "(a) Modal class from a grouped table, one mark. (b) Estimate of the mean: method mark for finding products of the midpoints and the frequencies (at least five, with no more than one error; not awarded if the answer comes from an alternative method such as dividing the total by the number of classes). Method mark for dividing by the total frequency. Accuracy mark.",
   "methodNoteStatus": "written from scheme (full entry read)"
  },
  {
@@ -14970,7 +14970,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Accuracy mark only with correct units.",
+  "methodNote": "(a) Process mark for the length from a product, accuracy mark. (b) Process mark for a length from a division, accuracy mark for the value with the correct unit (equivalent units accepted; the unit is required).",
   "methodNoteStatus": "written from scheme (full entry read)"
  },
  {
@@ -15061,7 +15061,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Election years from a birth year. the later election years or ages at elections.",
+  "methodNote": "Years of elections from a birth year. Process mark for the year of an anniversary or age at a later date. Process mark for listing the election years (at least three correct) or adding multiples of the interval. A conclusion mark follows from correct figures.",
   "methodNoteStatus": "written from scheme (full entry read)"
  },
  {
@@ -15199,7 +15199,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Accuracy mark for the correct value",
+  "methodNote": "Time and rate. Method mark for a start (multiplying the rate by the number of items, or converting the time to hours). Accuracy mark.",
   "methodNoteStatus": "written from scheme (full entry read)"
  },
  {
@@ -15384,7 +15384,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": false,
   "hardestOverall15pct": true,
-  "methodNote": "Both comparable values; A wrong difference after a correct decision is ignored.",
+  "methodNote": "Compare two percentages of different amounts. Process mark for a first step towards comparable figures (a percentage of one amount). Process mark for both comparable figures. Communication mark for the correct decision from correct figures; a wrong difference after a correct decision is not penalised in the scheme read.",
   "methodNoteStatus": "written from scheme (full entry read)"
  },
  {
@@ -15476,7 +15476,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Second method mark for complete method for at least two ingredients; accuracy mark for all three amounts.",
+  "methodNote": "Scaling a recipe. Method mark for the amount of one ingredient for the new quantity (or for a scale factor, or the amount for a smaller unit quantity for two ingredients). Method mark for a complete method for at least two ingredients. Accuracy mark for all the amounts.",
   "methodNoteStatus": "written from scheme (full entry read)"
  },
  {
@@ -15610,7 +15610,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Angle chase to a ratio. angles marked on the diagram earn these.",
+  "methodNote": "Angle chase to a ratio. Method mark for the first angle (an isosceles triangle). Method mark for a second angle using a stated multiple. Method mark for a third angle by angle sum (angles marked unambiguously on the diagram earn the first three). Method mark, dependent, for writing the two angles as a ratio. Accuracy mark for the ratio in its simplest form.",
   "methodNoteStatus": "written from scheme (full entry read)"
  },
  {
@@ -16585,7 +16585,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Accuracy mark for the correct value with an embedded answer scoring the process mark only.",
+  "methodNote": "(a) Train timetable. Method mark for the journey time of one train (subtraction in the right order, no misread of the timetable). Method mark for a complete method to the answer. Accuracy mark. (b) Further timetable steps with a communication mark for the supported conclusion; an answer written as an embedded value earns the process mark only.",
   "methodNoteStatus": "written from scheme (full entry read)"
  },
  {
@@ -16631,7 +16631,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": false,
   "hardestOverall15pct": false,
-  "methodNote": "(b) Method mark for starting to reverse the machine, accuracy mark for the correct value.",
+  "methodNote": "(a) One mark for the output of a function machine. (b) Method mark for starting to reverse the machine with the inverse operations (do not allow a misread). Accuracy mark for the input; an embedded answer scores the method mark only.",
   "methodNoteStatus": "written from scheme (full entry read)"
  },
  {
@@ -17553,7 +17553,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": false,
   "hardestOverall15pct": false,
-  "methodNote": "Accuracy mark for the correct value.",
+  "methodNote": "Division by a unit rate. Method mark for dividing the total by the rate (build-up allowed, one error condoned). Accuracy mark. A value only on the answer line (the total or the rate) scores the method mark only.",
   "methodNoteStatus": "written from scheme (full entry read)"
  },
  {
@@ -18864,7 +18864,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Notes of two values. accuracy mark for the correct value.",
+  "methodNote": "Notes of two values. Process mark for the value of the notes of one type (build-up allowed, one error condoned). Process mark for the value of the other notes by subtracting from the total. Accuracy mark for the number of the other notes.",
   "methodNoteStatus": "written from scheme (full entry read)"
  },
  {
@@ -19130,7 +19130,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Contradicting statements lose the mark.",
+  "methodNote": "(a) One mark for a term of a sequence. (b) Method mark for showing whether a stated number is in the sequence (list at least three correct terms, or use the nth term). Accuracy mark for Yes with the supporting terms or working; contradicting statements lose the mark.",
   "methodNoteStatus": "written from scheme (full entry read)"
  },
  {
@@ -19225,7 +19225,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Accuracy mark for the correct value.",
+  "methodNote": "(a) One mark for a measured angle within a tolerance. (b) Method mark for measuring a side within a tolerance and scaling it. Accuracy mark in a tolerance range.",
   "methodNoteStatus": "written from scheme (full entry read)"
  },
  {
@@ -19314,7 +19314,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "A correct next step; accuracy mark for the correct value",
+  "methodNote": "Fractions of a total. Process mark for the number in one category (a fraction of the total, or the total minus the other known number, which must be a whole number below the total). Process mark for a correct next step. Accuracy mark.",
   "methodNoteStatus": "written from scheme (full entry read)"
  },
  {
@@ -20300,7 +20300,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": false,
   "hardestOverall15pct": false,
-  "methodNote": "Accuracy mark for the correct value",
+  "methodNote": "Time conversion. Method mark for converting the hours and minutes to minutes (units may be omitted in working). Accuracy mark.",
   "methodNoteStatus": "written from scheme (full entry read)"
  },
  {
@@ -20389,7 +20389,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": false,
   "hardestOverall15pct": false,
-  "methodNote": "Accuracy mark; answer may be on the diagram.",
+  "methodNote": "Angle on a straight line. Method mark for subtracting the known angles from 180. Accuracy mark (the answer may be written on the diagram).",
   "methodNoteStatus": "written from scheme (full entry read)"
  },
  {
@@ -21311,7 +21311,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": true,
-  "methodNote": "(a) Similar triangles: method mark for a correct ratio or scale factor of the corresponding sides, accuracy mark for the correct value (b) Congruent triangles: process mark for showing that matching sides are equal (EG with KG, or HG with FG) and using that to get an unknown length, accuracy mark for the correct value",
+  "methodNote": "(a) Similar triangles: method mark for a correct statement of the corresponding sides or a scale factor in fraction form (equivalent fractions or decimals to two places accepted), accuracy mark for the length. (b) Congruent triangles: process mark for showing that matching sides are equal and using that to find an unknown length (any unambiguous statement, or matching of corresponding angles), accuracy mark for the length.",
   "methodNoteStatus": "written from scheme (full entry read)"
  },
  {
@@ -21738,7 +21738,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "The scheme shows the working). Process marks: the length of stay; accuracy mark for the correct value pm.",
+  "methodNote": "Time in a car park from a charge. Process mark for the length of stay (total cost divided by the rate per minute, or the rate per hour then divide). Process mark for adding that time to the start time (do not accept decimal hours read as minutes). Accuracy mark for the finishing time.",
   "methodNoteStatus": "written from scheme (full entry read)"
  },
  {
@@ -22905,7 +22905,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Method mark for the correct value; accuracy mark.",
+  "methodNote": "Multiplication in a context. Method mark for the product that gives the total (it counts even if used ambiguously, as long as it is stated). Accuracy mark.",
   "methodNoteStatus": "written from scheme (full entry read)"
  },
  {
@@ -23982,7 +23982,7 @@
   ],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": true,
-  "methodNote": "Method mark for the area of A or of B (with or without pi); second method mark for both areas.",
+  "methodNote": "Show that an area relation holds with two quarter or part circles. Method mark for the area of one circle part (with or without pi, or an approximation). Method mark for the area of both. Communication mark for a complete argument reaching the stated result.",
   "methodNoteStatus": "written from scheme (full entry read)"
  },
  {
@@ -24756,7 +24756,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": false,
   "hardestOverall15pct": true,
-  "methodNote": "Two successive percentage reductions.",
+  "methodNote": "Two successive percentage reductions. Process mark for finding the first percentage of the starting price (or its multiplier). Dependent process mark for applying the reduction. Process mark for the second percentage of the new price (or its multiplier). Further marks for the final price and the conclusion.",
   "methodNoteStatus": "written from scheme (full entry read)"
  },
  {
@@ -25955,7 +25955,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Multiply the whole-number quotient back or take the fractional part; accuracy mark for the correct value",
+  "methodNote": "Division with a remainder. Process mark for dividing the total by the group size (build-up to at least a large multiple allowed). Process mark for multiplying back the whole number of groups (or taking the fractional part). Accuracy mark for the remainder or the number left.",
   "methodNoteStatus": "written from scheme (full entry read)"
  },
  {
@@ -27009,7 +27009,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Accuracy mark for the correct value",
+  "methodNote": "Fraction of a shape shaded. Method mark for the fraction shaded (any form, for example 12 out of 16 squares) or one minus the unshaded fraction. Accuracy mark for the simplified fraction.",
   "methodNoteStatus": "written from scheme (full entry read)"
  },
  {
@@ -27478,7 +27478,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Accuracy mark for the correct triangle.",
+  "methodNote": "Constructing a triangle accurately. Method mark for drawing one side of the correct length. Accuracy mark for the correct triangle.",
   "methodNoteStatus": "written from scheme (full entry read)"
  },
  {
@@ -27707,7 +27707,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Accuracy mark for the correct plan.",
+  "methodNote": "Drawing a plan. Method mark for a square of the stated side, or a complete plan at the wrong scale. Accuracy mark for the correct plan; not awarded if the square is drawn with a triangle attached externally.",
   "methodNoteStatus": "written from scheme (full entry read)"
  },
  {
@@ -28352,7 +28352,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": false,
   "hardestOverall15pct": false,
-  "methodNote": "Accuracy mark for the correct value",
+  "methodNote": "Method mark for dividing the total by the number of equal parts. Accuracy mark.",
   "methodNoteStatus": "written from scheme (full entry read)"
  },
  {
@@ -29652,7 +29652,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Flour in three bags. accuracy mark for the correct value",
+  "methodNote": "Flour in three bags. Process mark for the total minus the known mass (or halving both). Process mark for dividing by two (or subtracting the halves). Accuracy mark.",
   "methodNoteStatus": "written from scheme (full entry read)"
  },
  {
@@ -30164,7 +30164,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": true,
-  "methodNote": "Process marks: at least two of the products length times count; accuracy mark for the correct value",
+  "methodNote": "Total length of planks. Process mark for at least two products of length times count (a total on its own also earns it). Process mark for the length of planks of one type by subtracting from the total. Accuracy mark for the number.",
   "methodNoteStatus": "written from scheme (full entry read)"
  },
  {
@@ -30638,7 +30638,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Accuracy mark for the correct value",
+  "methodNote": "Reverse percentage. Method mark for a complete method (the value divided by the multiplier for the stated change). Accuracy mark.",
   "methodNoteStatus": "written from scheme (full entry read)"
  },
  {
@@ -30988,7 +30988,7 @@
   ],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Method mark for the cost of one item group; method mark for the full process.",
+  "methodNote": "Total cost of several items. Method mark for the cost of one group of items (quantity times price). Method mark for a full process (the sum of the groups, or the budget minus each group). Accuracy mark for the total or the shortfall (a positive or negative difference accepted).",
   "methodNoteStatus": "written from scheme (full entry read)"
  },
  {
@@ -31084,7 +31084,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Process mark for the correct value or a build-up.",
+  "methodNote": "Number of items from a budget. Process mark for dividing the total by the unit price (build-up accepted). Accuracy mark for the exact quotient or a rounded value; the final accuracy mark needs the whole number of items. Embedded answers lose a mark.",
   "methodNoteStatus": "written from scheme (full entry read)"
  },
  {
@@ -32716,7 +32716,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": false,
   "hardestOverall15pct": false,
-  "methodNote": "Equivalent fractions, decimals and percentages accepted. numerical evidence must be accurate.",
+  "methodNote": "(a) Percentage remaining: method mark for subtracting from the whole, accuracy mark (equivalent forms accepted). (b) Process mark for a start (halving or a similar part of a percentage), accuracy mark. (c) Communication mark for No with a reason supported by figures.",
   "methodNoteStatus": "written from scheme (full entry read)"
  },
  {
@@ -33490,7 +33490,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": false,
   "hardestOverall15pct": false,
-  "methodNote": "Method mark for the correct product from the context; accuracy mark for the final value.",
+  "methodNote": "Method mark for the product from the context (quantity times rate). Accuracy mark.",
   "methodNoteStatus": "written from scheme (full entry read)"
  },
  {
@@ -34341,7 +34341,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": false,
   "hardestOverall15pct": false,
-  "methodNote": "Accuracy mark for the correct value",
+  "methodNote": "Reverse percentage. Method mark for dividing the final amount by the multiplier for the increase (or its percentage form). Accuracy mark.",
   "methodNoteStatus": "written from scheme (full entry read)"
  },
  {
@@ -36860,7 +36860,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Accuracy mark for the correct value",
+  "methodNote": "Density. Method mark for mass divided by volume. Accuracy mark.",
   "methodNoteStatus": "written from scheme (full entry read)"
  },
  {
@@ -37217,7 +37217,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": false,
   "hardestOverall15pct": false,
-  "methodNote": "Rate: method mark for the correct value accuracy mark for the correct value",
+  "methodNote": "Rate per unit. Method mark for dividing the total by the number. Accuracy mark.",
   "methodNoteStatus": "written from scheme (full entry read)"
  },
  {
@@ -37490,7 +37490,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Distance from speed and time: method mark for the correct value accuracy mark for the correct value",
+  "methodNote": "Distance from speed and time. Method mark for a complete method (speed times time). Accuracy mark.",
   "methodNoteStatus": "written from scheme (full entry read)"
  },
  {
@@ -38838,7 +38838,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Accuracy mark for the correct value",
+  "methodNote": "Probability from counts. Method mark for a fraction with an integer numerator below the total. Accuracy mark for the correct value.",
   "methodNoteStatus": "written from scheme (full entry read)"
  },
  {
@@ -38878,7 +38878,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": false,
   "hardestOverall15pct": false,
-  "methodNote": "Accuracy mark for the correct value (am).",
+  "methodNote": "Time conversion and arrival time. Method mark for starting to work with time (converting hours or fractions of an hour to minutes, or an answer that is a close wrong time). Accuracy mark for the correct time (am or pm shown).",
   "methodNoteStatus": "written from scheme (full entry read)"
  },
  {
@@ -39060,7 +39060,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Accuracy mark for the correct value",
+  "methodNote": "Solve a one-step equation after adding a constant. Method mark for a correct first step (clearing the fraction or the constant on both sides). Accuracy mark.",
   "methodNoteStatus": "written from scheme (full entry read)"
  },
  {
@@ -40825,7 +40825,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Accuracy mark for the full expression for w.",
+  "methodNote": "Rearranging a formula to make w the subject. Method mark for the correct first step (multiplying through, or an equivalent equation). Accuracy mark for the full expression for w.",
   "methodNoteStatus": "written from scheme (full entry read)"
  },
  {
@@ -41321,7 +41321,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": false,
   "hardestOverall15pct": false,
-  "methodNote": "Accuracy mark for the correct value",
+  "methodNote": "Perimeter from a side relationship. Process mark for working with a length (dividing or multiplying a stated length). Process mark for working with the perimeter. Accuracy mark.",
   "methodNoteStatus": "written from scheme (full entry read)"
  },
  {
@@ -42176,7 +42176,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": true,
-  "methodNote": "Method mark for the volume, method mark for mass divided by volume, accuracy mark for the correct value",
+  "methodNote": "Density of a cylinder. Method mark for the volume of the cylinder. Method mark for mass divided by volume (any value they clearly believe is the volume). Accuracy mark.",
   "methodNoteStatus": "written from scheme (full entry read)"
  },
  {
@@ -42702,7 +42702,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": false,
   "hardestOverall15pct": false,
-  "methodNote": "Accuracy mark for the correct value",
+  "methodNote": "Forming an expression for a total. Method mark for a single term or a linear expression in two letters with positive coefficients. Accuracy mark for the full expression (a formula starting with T equals scores the method mark only).",
   "methodNoteStatus": "written from scheme (full entry read)"
  },
  {
@@ -43373,7 +43373,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": true,
-  "methodNote": "Accuracy mark for the correct value Special case: one mark for the correct value",
+  "methodNote": "Compound interest over three years. Method mark for the value or interest after one year (multiplier or percentage). Method mark for the value after three years (repeated multiplication or a power; seeing the interest figure implies both method marks). Accuracy mark for the interest, allowing a truncated value. A special case gives one mark for a close wrong value if no method mark was scored.",
   "methodNoteStatus": "written from scheme (full entry read)"
  },
  {
