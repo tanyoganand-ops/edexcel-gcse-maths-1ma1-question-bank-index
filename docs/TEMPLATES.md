@@ -14,8 +14,8 @@ Seen-in counts: "narrow" is the number of questions whose primary topic is in th
 - When it appears: A multi-step setting-up question (areas, perimeters) that ends in a linear equation, or a plain equation with fractions.
 - Teaching advice (ours, set-out skeleton): 1 Write each quantity as an expression. 2 Form one equation. 3 Clear fractions or brackets first. 4 Collect terms in x on one side. 5 Solve and state the value. 6 Substitute back to check.
 - What the example schemes show (each line is one scheme; conditions apply to that scheme only):
-    - jun2023-2h-5 (scheme file June-2023__1ma1-2h-rms-20230824.pdf, PDF page 9; marks P1 P1 P1 A1): Process mark for an expression for one area (missing brackets condoned for the rectangle), process mark for both areas, process mark for a correct equation, then an accuracy mark.
-    - nov2019-3h-10 (scheme file November-2019__1ma1-3h-msc-20200116.pdf, PDF page 10; marks M1 M1 A1 B1): Method mark for multiplying both sides by the given value as a first step (writing the multiplier beside the equation alone is not enough), dependent method mark for isolating the x terms, accuracy mark; a separate independent mark for an expression in y.
+    - jun2023-2h-5 (scheme file June-2023__1ma1-2h-rms-20230824.pdf, PDF page 9; marks P1 P1 P1 A1): Write the area of each shape in x, equate them using the stated difference and solve the linear equation.
+    - nov2019-3h-10 (scheme file November-2019__1ma1-3h-msc-20200116.pdf, PDF page 10; marks M1 M1 A1 B1): Multiply both sides to clear the fraction first and solve the linear equation.
 - Common errors: No Higher-tier report evidence found (UNVERIFIED as advice).
 
 </section>
@@ -56,7 +56,7 @@ Seen-in counts: "narrow" is the number of questions whose primary topic is in th
 - Teaching advice (ours, set-out skeleton): 1 Match coefficients or substitute. 2 Eliminate one variable. 3 Solve it. 4 Substitute back for the other. 5 Check in the other equation.
 - What the example schemes show (each line is one scheme; conditions apply to that scheme only):
     - jun2024-1h-10 (scheme file June-2024__1ma1-1h-rms-20240822.pdf, PDF page 14; marks M1 A1 M1 A1): Method mark for eliminating or rearranging for substitution (one arithmetic error condoned), accuracy for one value, dependent method mark for finding the second (one arithmetic error condoned), accuracy for both. Trial and improvement scores nothing unless both values are correct.
-    - nov2022-1h-12 (scheme file November-2022__1ma1-1h-rms-20230112.pdf, PDF page 11; marks M1 A1 M1 A1): Same four-mark structure and the same trial-and-improvement condition as jun2024-1h-10
+    - nov2022-1h-12 (scheme file November-2022__1ma1-1h-rms-20230112.pdf, PDF page 10; marks M1 A1 M1 A1): Method mark for eliminating one variable (or rearranging and substituting), accuracy mark for one correct value, dependent method mark for substituting back, accuracy mark for both values; in the scheme read, trial and improvement scores no marks unless both values are correct
 - Common errors: Negative signs and order of steps (report, p15 of general report; not a per-question id).
 
 </section>
@@ -110,9 +110,9 @@ Seen-in counts: "narrow" is the number of questions whose primary topic is in th
 - When it appears: Find the nth term when the second difference is constant.
 - Teaching advice (ours, set-out skeleton): 1 Take differences twice and check the second difference is constant. 2 The n squared coefficient is half of the second difference. 3 Subtract that part from each term. 4 Find the linear nth term of what is left. 5 Add the two parts and check with a term.
 - What the example schemes show (each line is one scheme; conditions apply to that scheme only):
-    - jun2019-3h-16 (scheme file June-2019__1ma1-3h-rms-20190822.pdf, PDF page 16; marks M1 M1 A1): Method mark for starting to work with second differences, method mark for identifying the given value as part of the expression (a quadratic with the right n squared term can earn the first two marks), accuracy mark.
-    - nov2020-2h-16 (scheme file November-2020__1ma1-2h-msc-20210114.pdf, PDF page 13; marks M1 M1 A1): Method mark for a correct start (the constant second difference must be seen and implies an n squared term), method mark for working with the given value and the remaining sequence, accuracy for the full expression.
-    - nov2024-2h-15 (scheme file November-2024__1ma1-2h-rms-20250109.pdf, PDF page 16; marks M1 M1 A1 M1 M1 A1): Six marks in two stages: method marks for the constant second difference and for working with the given value, accuracy for the nth term; then a second three-mark stage on a different sequence (the scheme read here shows its method and accuracy marks for substituting values).
+    - jun2019-3h-16 (scheme file June-2019__1ma1-3h-rms-20190822.pdf, PDF page 16; marks M1 M1 A1): Method mark for starting to work with second differences, method mark for identifying the stated value as part of the expression (a quadratic with the right n squared term can earn the first two marks), accuracy mark.
+    - nov2020-2h-16 (scheme file November-2020__1ma1-2h-msc-20210114.pdf, PDF page 13; marks M1 M1 A1): Method mark for a correct start (the constant second difference must be seen and implies an n squared term), method mark for working with the stated value and the remaining sequence, accuracy for the full expression.
+    - nov2024-2h-15 (scheme file November-2024__1ma1-2h-rms-20250109.pdf, PDF page 16; marks M1 M1 A1 M1 M1 A1): Six marks in two stages: method marks for the constant second difference and for working with the stated value, accuracy for the nth term; then a second three-mark stage on a different sequence (the scheme read here shows its method and accuracy marks for substituting values).
 - Common errors: Checking quadratic sequences by substitution (T14). (evidence T14)
 
 </section>
@@ -209,7 +209,7 @@ Seen-in counts: "narrow" is the number of questions whose primary topic is in th
 - When it appears: Repeated percentage change over years.
 - Teaching advice (ours, set-out skeleton): 1 Write the multiplier^n. 2 Work year by year if unsure. 3 Subtract if only interest is asked for. 4 Compare totals if two deals.
 - What the example schemes show (each line is one scheme; conditions apply to that scheme only):
-    - jun2023-2h-8 (scheme file June-2023__1ma1-2h-rms-20230824.pdf, PDF page 10; marks P1 P1 P1 C1): Process mark for the relevant year for either person (may be implied), process mark for compounding, process mark to compare both, communication mark for the supported conclusion; values may be rounded or truncated to the given value.
+    - jun2023-2h-8 (scheme file June-2023__1ma1-2h-rms-20230824.pdf, PDF page 10; marks P1 P1 P1 C1): Process mark for the relevant year for either person (may be implied), process mark for compounding, process mark to compare both, communication mark for the supported conclusion; values may be rounded or truncated to the stated value.
     - jun2024-3h-14 (scheme file June-2024__1ma1-3h-rms-20240822.pdf, PDF page 15, 16; marks P1 P1 P1 A1): Process marks for starting (adding the withdrawals or writing an equation), for the amount at the start of the second year, and for the complete process; accuracy mark.
 - Common errors: Giving total instead of interest (T17). (evidence T17)
 
@@ -266,7 +266,7 @@ Seen-in counts: "narrow" is the number of questions whose primary topic is in th
 - Teaching advice (ours, set-out skeleton): 1 Write lower and upper bounds of each input. 2 Choose the bound that gives the maximum or minimum. 3 Compute. 4 Give the answer to a justified accuracy.
 - What the example schemes show (each line is one scheme; conditions apply to that scheme only):
     - nov2019-2h-20 (scheme file November-2019__1ma1-2h-msc-20200116.pdf, PDF page 13; marks B1 M1 A1 C1): Independent mark for a correct bound, method mark for using both upper and lower bounds, accuracy mark for both resulting bounds, communication mark for the conclusion.
-    - nov2020-3h-18 (scheme file November-2020__1ma1-3h-msc-20210114.pdf, PDF page 16; marks B1 M1 M1 A1): Independent mark for a bound, two method marks (square of the diagonal, then an equation for the side), accuracy mark in a range. An answer in the range with no supporting evidence scores nothing.
+    - nov2020-3h-18 (scheme file November-2020__1ma1-3h-msc-20210114.pdf, PDF page 16; marks B1 M1 M1 A1): Use bounds with Pythagoras for the diagonal and give the length to a stated accuracy.
 - Common errors: Wrong bound or average-of-bounds (T05). (evidence T05)
 
 </section>
@@ -349,7 +349,7 @@ Seen-in counts: "narrow" is the number of questions whose primary topic is in th
 - When it appears: Missing sides or angles; multi-step.
 - Teaching advice (ours, set-out skeleton): 1 Label opposite, adjacent, hypotenuse. 2 Pick sin, cos or tan. 3 Substitute and rearrange. 4 Use inverse for angles. 5 Give to the accuracy asked.
 - What the example schemes show (each line is one scheme; conditions apply to that scheme only):
-    - nov2019-2h-12 (scheme file November-2019__1ma1-2h-msc-20200116.pdf, PDF page 10; marks P1 P1 P1 A1): Three process marks (a first length by sine, the next length, then the angle by inverse tangent) and an accuracy mark in a range; values to the given value are accepted; a correct value that is later rounded wrongly still earns full marks.
+    - nov2019-2h-12 (scheme file November-2019__1ma1-2h-msc-20200116.pdf, PDF page 10; marks P1 P1 P1 A1): Three process marks (a first length by sine, the next length, then the angle by inverse tangent) and an accuracy mark in a range; values to the stated value are accepted; a correct value that is later rounded wrongly still earns full marks.
     - nov2021-2h-6 (scheme file November-2021__1ma1-2h-rms-20220113.pdf, PDF page 9; marks M1 A1 M1 A1): Method mark for a tangent ratio accuracy in a range; a second part with method and accuracy marks. Any other method must reach an equation with the one unknown.
 - Common errors: Exact values known (T29). (evidence T29)
 
@@ -378,7 +378,7 @@ Seen-in counts: "narrow" is the number of questions whose primary topic is in th
 - Teaching advice (ours, set-out skeleton): 1 Draw the right-angled triangle inside the solid. 2 Find any needed length by Pythagoras. 3 Use a trigonometric ratio. 4 State the angle asked.
 - What the example schemes show (each line is one scheme; conditions apply to that scheme only):
     - jun2019-2h-19 (scheme file June-2019__1ma1-2h-rms-20190822.pdf, PDF page 18; marks P1 P1 P1 A1): Process marks for a correct trigonometric statement, for a length by Pythagoras, and for the complete process (a clearly marked angle on a diagram can help); accuracy mark.
-    - nov2022-2h-20 (scheme file November-2022__1ma1-2h-rms-20230112.pdf, PDF page 14; marks P1 P1 P1 A1): Process marks for one length, a second length, and a correct trigonometric statement for the angle; accuracy mark in a range.
+    - nov2022-2h-20 (scheme file November-2022__1ma1-2h-rms-20230112.pdf, PDF page 14; marks P1 P1 P1 A1): Use Pythagoras to find a side, then trigonometry for the angle.
 - Common errors: Not knowing which angle to find (T24); bearing from the wrong point (T26). (evidence T24, T26)
 
 </section>
@@ -420,7 +420,7 @@ Seen-in counts: "narrow" is the number of questions whose primary topic is in th
 - Teaching advice (ours, set-out skeleton): 1 Name the single transformation. 2 Give all aspects (angle, direction, centre; scale factor, centre; mirror line; vector). 3 Draw to a clear position.
 - What the example schemes show (each line is one scheme; conditions apply to that scheme only):
     - jun2025-1h-9 (scheme file June-2025__1ma1-1h-rms-20250821.pdf, PDF page 13; marks B2 B2): Two independent marks for describing the rotation (a clockwise equivalent is accepted; more than one transformation gives no marks), two for the enlargement drawn (clear intention is enough, shading not needed).
-    - nov2020-3h-11 (scheme file November-2020__1ma1-3h-msc-20210114.pdf, PDF page 12; marks M1 A2 B1): Method mark for positioning the shape, two accuracy marks for the rotation description, independent mark for a further stage; the method mark can be earned without working if at least two of three aspects are right.
+    - nov2020-3h-11 (scheme file November-2020__1ma1-3h-msc-20210114.pdf, PDF page 12; marks M1 A2 B1): Rotate the shape about the stated centre and place the image.
 - Common errors: Translations weak (report).
 
 </section>
@@ -433,7 +433,7 @@ Seen-in counts: "narrow" is the number of questions whose primary topic is in th
 - When it appears: Compare lengths, areas, volumes.
 - Teaching advice (ours, set-out skeleton): 1 Find the length scale factor. 2 Square for area, cube for volume. 3 Apply. 4 State the ratio in simplest form.
 - What the example schemes show (each line is one scheme; conditions apply to that scheme only):
-    - jun2019-2h-9 (scheme file June-2019__1ma1-2h-rms-20190822.pdf, PDF page 10; marks M1 A1 P1 A1): Method mark for a scale factor of the given value (or equivalent), accuracy for the area ratio, process mark for the correct value accuracy for the second ratio; equivalent ratios accepted.
+    - jun2019-2h-9 (scheme file June-2019__1ma1-2h-rms-20190822.pdf, PDF page 10; marks M1 A1 P1 A1): Method mark for a scale factor of the stated value (or equivalent), accuracy for the area ratio, process mark for the correct value accuracy for the second ratio; equivalent ratios accepted.
     - jun2024-2h-17 (scheme file June-2024__1ma1-2h-rms-20240822.pdf, PDF page 18, 19; marks P1 P1 P1 A1): Process marks for the height ratio of the first pair and of the second pair (neither needs to be written as a ratio if clear), a third process mark dependent on the second for combining all three, accuracy mark.
 - Common errors: Linking scale factors in unfamiliar settings (T22). (evidence T22)
 
@@ -531,7 +531,7 @@ Seen-in counts: "narrow" is the number of questions whose primary topic is in th
 - When it appears: Correlation, line of best fit, estimate.
 - Teaching advice (ours, set-out skeleton): 1 Describe correlation in words. 2 Draw a line of best fit. 3 Read from the line. 4 Comment on reliability or outliers.
 - What the example schemes show (each line is one scheme; conditions apply to that scheme only):
-    - nov2021-3h-1 (scheme file November-2021__1ma1-3h-rms-20220113.pdf, PDF page 7; marks B1 M1 A1 C1): Independent mark for plotting the point, method mark for reading from the line of best fit, accuracy for a value in a range, communication mark for the decision and statement; the scheme lists acceptable statements.
+    - nov2021-3h-1 (scheme file November-2021__1ma1-3h-rms-20220113.pdf, PDF page 7; marks B1 M1 A1 C1): Draw a line of best fit and read an estimate from it.
     - nov2022-2h-1 (scheme file November-2022__1ma1-2h-rms-20230112.pdf, PDF page 7; marks B1 C1 M1 A1): Independent mark for the point, communication mark for describing correlation (comments about strength ignored), method mark for the line of best fit or reading, accuracy mark.
 - Common errors: None found.
 
