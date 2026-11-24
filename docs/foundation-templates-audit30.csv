@@ -1,0 +1,31 @@
+n,question_id,pattern,result,what_changed
+1,jun2024-2f-17,Measuring and loci,supported,
+2,nov2021-3f-12,"Maps, scale and bearings",supported,
+3,nov2024-3f-26,Compound interest,corrected,special-case wording was my inference; now quotes the listed values
+4,nov2022-1f-20,Fractions and mixed numbers,supported,
+5,nov2024-3f-17,Frequency polygons,corrected,B1 conditions were vague; now lists the three listed conditions
+6,nov2019-2f-29,Volume and surface area,supported,
+7,jun2019-1f-22,Probability: tables and unknown probabilities,supported,
+8,jun2022-3f-27,"Speed, distance and time",supported,
+9,nov2020-3f-9,"Powers, roots and indices",corrected,"called a part a ""product"" although the symbols were lost; now states values"
+10,jun2025-3f-8,Listing outcomes and counting,supported,
+11,nov2019-2f-26,Sequences and nth term,supported,
+12,jun2022-3f-25,"Units, currency and best-value comparisons",supported,
+13,jun2025-2f-16,Travel graphs,supported,
+14,jun2023-3f-21,"Percentages: amount, change and reverse",corrected,communication mark described as about the assumption; scheme asks for a statement on the effect on the amount
+15,nov2021-1f-16,Properties of shapes and polygons,supported,
+16,jun2025-1f-20,Probability: tables and unknown probabilities,supported,
+17,jun2023-1f-11,"Whole-number and decimal arithmetic, bills and estimates",corrected,wrongly said some answers outside the range get no marks; scheme gives 0 for an in-range answer with no working; communication mark now described
+18,jun2025-3f-25,"Units, currency and best-value comparisons",supported,
+19,jun2024-1f-25,"Coordinates, gradients and line graphs",supported,
+20,jun2022-1f-15,Estimating by rounding,corrected,B1 described loosely; now 947.2
+21,nov2020-3f-28,Inequalities and graph solutions,corrected,"first B1 mis-described as a root pair in a range; now the first answers, method for intercepts, ranges for the final"
+22,nov2023-1f-21,Averages and the range,supported,
+23,jun2022-1f-29,Density and compound measures,supported,
+24,jun2019-1f-23,Ratio sharing and recipes,supported,
+25,jun2019-3f-29,Volume and surface area,supported,
+26,nov2024-3f-21,"Percentages: amount, change and reverse",corrected,sequence of process marks mis-ordered; now follows the scheme
+27,nov2020-3f-23,"Simplify, expand and factorise",supported,
+28,nov2019-3f-30,Circles: area and circumference,supported,
+29,nov2022-2f-18,Charts and scatter graphs,supported,
+30,jun2019-2f-20,Inequalities and graph solutions,supported,

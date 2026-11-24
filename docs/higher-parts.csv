@@ -1,0 +1,1243 @@
+row_id,question_id,row_type,part,marks_counted,roman_subparts_detected,topic,topic_source,confidence,ms_aligned
+jun2019-1h-1-stem,jun2019-1h-1,stem (no marks),,0,0,P01,"inherited-from-question, provisional",medium,
+jun2019-1h-1-a,jun2019-1h-1,lettered part,a,2,0,P01,part-level review: confirmed,medium,yes
+jun2019-1h-1-b,jun2019-1h-1,lettered part,b,2,0,P01,part-level review: confirmed,medium,yes
+jun2019-1h-2-stem,jun2019-1h-2,stem (no marks),,0,0,R03,"inherited-from-question, provisional",medium,
+jun2019-1h-2-a,jun2019-1h-2,lettered part,a,3,0,R03,part-level review: confirmed,medium,yes
+jun2019-1h-2-b,jun2019-1h-2,lettered part,b,2,0,R03,part-level review: confirmed,medium,yes
+jun2019-1h-3-whole,jun2019-1h-3,whole question,,2,0,N02,"inherited-from-question, provisional",high,
+jun2019-1h-4-whole,jun2019-1h-4,whole question,,2,0,G14,"inherited-from-question, provisional",medium,
+jun2019-1h-5-whole,jun2019-1h-5,whole question,,3,0,G11,"inherited-from-question, provisional",high,
+jun2019-1h-6-whole,jun2019-1h-6,whole question,,4,0,R01,"inherited-from-question, provisional",medium,
+jun2019-1h-7-whole,jun2019-1h-7,whole question,,4,0,G02,"inherited-from-question, provisional",high,
+jun2019-1h-8-stem,jun2019-1h-8,stem (no marks),,0,0,N10,"inherited-from-question, provisional",medium,
+jun2019-1h-8-a,jun2019-1h-8,lettered part,a,2,0,N10,part-level review: confirmed,medium,yes
+jun2019-1h-8-b,jun2019-1h-8,lettered part,b,1,0,N11,part-level review: overridden,medium,yes
+jun2019-1h-8-c,jun2019-1h-8,lettered part,c,1,0,N04,part-level review: overridden,medium,yes
+jun2019-1h-9-whole,jun2019-1h-9,whole question,,3,0,N07,"inherited-from-question, provisional",high,
+jun2019-1h-10-whole,jun2019-1h-10,whole question,,2,0,A11,"inherited-from-question, provisional",medium,
+jun2019-1h-11-stem,jun2019-1h-11,stem (no marks),,0,0,S04,"inherited-from-question, provisional",high,
+jun2019-1h-11-a,jun2019-1h-11,lettered part,a,2,0,S04,part-level review: confirmed,high,yes
+jun2019-1h-11-b,jun2019-1h-11,lettered part,b,1,0,S04,part-level review: confirmed,high,yes
+jun2019-1h-11-c,jun2019-1h-11,lettered part,c,1,0,S04,part-level review: confirmed,high,yes
+jun2019-1h-12-whole,jun2019-1h-12,whole question,,3,0,G04,"inherited-from-question, provisional",high,
+jun2019-1h-13-whole,jun2019-1h-13,whole question,,2,0,A15,"inherited-from-question, provisional",high,
+jun2019-1h-14-whole,jun2019-1h-14,whole question,,2,0,G06,"inherited-from-question, provisional",medium,
+jun2019-1h-15-whole,jun2019-1h-15,whole question,,4,0,G04,"inherited-from-question, provisional",high,
+jun2019-1h-16-stem,jun2019-1h-16,stem (no marks),,0,0,N03,"inherited-from-question, provisional",medium,
+jun2019-1h-16-a,jun2019-1h-16,lettered part,a,2,0,N03,part-level review: confirmed,medium,yes
+jun2019-1h-16-b,jun2019-1h-16,lettered part,b,2,0,N03,part-level review: confirmed,medium,yes
+jun2019-1h-17-whole,jun2019-1h-17,whole question,,4,0,A06,"inherited-from-question, provisional",medium,
+jun2019-1h-18-stem,jun2019-1h-18,stem (no marks),,0,0,N05,"inherited-from-question, provisional",medium,
+jun2019-1h-18-a,jun2019-1h-18,lettered part,a,2,0,N05,part-level review: confirmed,medium,yes
+jun2019-1h-18-b,jun2019-1h-18,lettered part,b,3,0,N05,part-level review: confirmed,medium,yes
+jun2019-1h-19-stem,jun2019-1h-19,stem (no marks),,0,0,A18,"inherited-from-question, provisional",medium,
+jun2019-1h-19-i,jun2019-1h-19,roman subpart (no letter),(i),2,1,A18,part-level review: confirmed,medium,yes
+jun2019-1h-19-ii,jun2019-1h-19,roman subpart (no letter),(ii),1,1,A18,part-level review: confirmed,medium,yes
+jun2019-1h-20-whole,jun2019-1h-20,whole question,,4,0,R02,"inherited-from-question, provisional",medium,
+jun2019-1h-21-stem,jun2019-1h-21,stem (no marks),,0,0,A13,"inherited-from-question, provisional",high,
+jun2019-1h-21-a,jun2019-1h-21,lettered part,a,2,0,A13,part-level review: confirmed,high,yes
+jun2019-1h-21-b,jun2019-1h-21,lettered part,b,5,0,A13,part-level review: overridden,high,yes
+jun2019-1h-22-whole,jun2019-1h-22,whole question,,5,0,P01,"inherited-from-question, provisional",medium,
+jun2019-2h-1-stem,jun2019-2h-1,stem (no marks),,0,0,A08,"inherited-from-question, provisional",medium,
+jun2019-2h-1-a,jun2019-2h-1,lettered part,a,2,0,A08,part-level review: confirmed,medium,yes
+jun2019-2h-1-b,jun2019-2h-1,lettered part,b,3,0,A08,part-level review: confirmed,medium,yes
+jun2019-2h-2-whole,jun2019-2h-2,whole question,,3,0,A09,"inherited-from-question, provisional",medium,
+jun2019-2h-3-stem,jun2019-2h-3,stem (no marks),,0,0,S06,"inherited-from-question, provisional",high,
+jun2019-2h-3-i,jun2019-2h-3,roman subpart (no letter),(i),2,1,S06,part-level review: confirmed,high,yes
+jun2019-2h-3-ii,jun2019-2h-3,roman subpart (no letter),(ii),1,1,S06,part-level review: confirmed,high,yes
+jun2019-2h-4-whole,jun2019-2h-4,whole question,,4,0,G04,"inherited-from-question, provisional",medium,
+jun2019-2h-5-whole,jun2019-2h-5,whole question,,2,0,G06,"inherited-from-question, provisional",medium,
+jun2019-2h-6-whole,jun2019-2h-6,whole question,,2,0,N11,"inherited-from-question, provisional",medium,
+jun2019-2h-7-whole,jun2019-2h-7,whole question,,4,0,R01,"inherited-from-question, provisional",high,
+jun2019-2h-8-stem,jun2019-2h-8,stem (no marks),,0,0,N06,"inherited-from-question, provisional",high,
+jun2019-2h-8-a,jun2019-2h-8,lettered part,a,1,0,N06,part-level review: confirmed,high,yes
+jun2019-2h-8-b,jun2019-2h-8,lettered part,b,1,0,N06,part-level review: confirmed,high,yes
+jun2019-2h-9-stem,jun2019-2h-9,stem (no marks),,0,0,R07,"inherited-from-question, provisional",medium,
+jun2019-2h-9-a,jun2019-2h-9,lettered part,a,2,0,R07,part-level review: confirmed,medium,yes
+jun2019-2h-9-b,jun2019-2h-9,lettered part,b,2,0,R07,part-level review: confirmed,medium,yes
+jun2019-2h-10-stem,jun2019-2h-10,stem (no marks),,0,0,P02,"inherited-from-question, provisional",medium,
+jun2019-2h-10-a,jun2019-2h-10,lettered part,a,2,0,P02,part-level review: confirmed,medium,yes
+jun2019-2h-10-b,jun2019-2h-10,lettered part,b,3,0,P02,part-level review: confirmed,medium,yes
+jun2019-2h-11-stem,jun2019-2h-11,stem (no marks),,0,0,S04,"inherited-from-question, provisional",medium,
+jun2019-2h-11-a,jun2019-2h-11,lettered part,a,1,0,S04,part-level review: confirmed,medium,yes
+jun2019-2h-11-b,jun2019-2h-11,lettered part,b,2,0,S04,part-level review: confirmed,medium,yes
+jun2019-2h-11-c,jun2019-2h-11,lettered part,c,3,0,S04,part-level review: confirmed,medium,yes
+jun2019-2h-12-whole,jun2019-2h-12,whole question,,4,0,G03,"inherited-from-question, provisional",high,
+jun2019-2h-13-whole,jun2019-2h-13,whole question,,4,0,A14,"inherited-from-question, provisional",medium,
+jun2019-2h-14-stem,jun2019-2h-14,stem (no marks),,0,0,R09,"inherited-from-question, provisional",medium,
+jun2019-2h-14-a,jun2019-2h-14,parent of subparts (no marks),a,0,0,R09,part-level review: confirmed,medium,
+jun2019-2h-14-ai,jun2019-2h-14,roman subpart,a(i),3,1,R09,part-level review: confirmed,medium,yes
+jun2019-2h-14-aii,jun2019-2h-14,roman subpart,a(ii),1,1,R09,part-level review: confirmed,medium,yes
+jun2019-2h-14-b,jun2019-2h-14,lettered part,b,3,0,R09,part-level review: confirmed,medium,yes
+jun2019-2h-15-whole,jun2019-2h-15,whole question,,3,0,A05,"inherited-from-question, provisional",high,
+jun2019-2h-16-whole,jun2019-2h-16,whole question,,3,0,A09,"inherited-from-question, provisional",high,
+jun2019-2h-17-stem,jun2019-2h-17,stem (no marks),,0,0,R01,"inherited-from-question, provisional",medium,
+jun2019-2h-17-a,jun2019-2h-17,lettered part,a,1,0,N02,part-level review: overridden,medium,yes
+jun2019-2h-17-b,jun2019-2h-17,lettered part,b,3,0,R01,part-level review: confirmed,medium,yes
+jun2019-2h-18-whole,jun2019-2h-18,whole question,,5,0,G09,"inherited-from-question, provisional",medium,
+jun2019-2h-19-whole,jun2019-2h-19,whole question,,4,0,G08,"inherited-from-question, provisional",medium,
+jun2019-2h-20-stem,jun2019-2h-20,stem (no marks),,0,0,G13,"inherited-from-question, provisional",high,
+jun2019-2h-20-a,jun2019-2h-20,lettered part,a,2,0,G13,part-level review: confirmed,high,"yes: checked on scheme page; alternative-method block repeats the marks of (b), counted once"
+jun2019-2h-20-b,jun2019-2h-20,lettered part,b,4,0,G13,part-level review: confirmed,high,"yes: checked on scheme page; alternative-method block repeats the marks of (b), counted once"
+jun2019-3h-1-stem,jun2019-3h-1,stem (no marks),,0,0,P03,"inherited-from-question, provisional",high,
+jun2019-3h-1-a,jun2019-3h-1,lettered part,a,3,0,P03,part-level review: confirmed,high,yes
+jun2019-3h-1-b,jun2019-3h-1,lettered part,b,2,0,P03,part-level review: confirmed,high,yes
+jun2019-3h-2-whole,jun2019-3h-2,whole question,,3,0,N09,"inherited-from-question, provisional",high,
+jun2019-3h-3-stem,jun2019-3h-3,stem (no marks),,0,0,S02,"inherited-from-question, provisional",high,
+jun2019-3h-3-a,jun2019-3h-3,lettered part,a,1,0,S01,part-level review: overridden,high,yes
+jun2019-3h-3-b,jun2019-3h-3,lettered part,b,2,0,S02,part-level review: confirmed,high,yes
+jun2019-3h-4-whole,jun2019-3h-4,whole question,,2,0,S02,"inherited-from-question, provisional",medium,
+jun2019-3h-5-whole,jun2019-3h-5,whole question,,4,0,G01,"inherited-from-question, provisional",high,
+jun2019-3h-6-whole,jun2019-3h-6,whole question,,5,0,G04,"inherited-from-question, provisional",high,
+jun2019-3h-7-whole,jun2019-3h-7,whole question,,2,0,N11,"inherited-from-question, provisional",medium,
+jun2019-3h-8-stem,jun2019-3h-8,stem (no marks),,0,0,G05,"inherited-from-question, provisional",high,
+jun2019-3h-8-a,jun2019-3h-8,lettered part,a,1,0,G05,part-level review: confirmed,high,yes
+jun2019-3h-8-b,jun2019-3h-8,lettered part,b,1,0,R07,part-level review: overridden,high,yes
+jun2019-3h-9-whole,jun2019-3h-9,whole question,,3,0,R02,"inherited-from-question, provisional",medium,
+jun2019-3h-10-whole,jun2019-3h-10,whole question,,3,0,N09,"inherited-from-question, provisional",medium,
+jun2019-3h-11-stem,jun2019-3h-11,stem (no marks),,0,0,R04,"inherited-from-question, provisional",medium,
+jun2019-3h-11-a,jun2019-3h-11,lettered part,a,2,0,R04,part-level review: confirmed,medium,yes
+jun2019-3h-11-b,jun2019-3h-11,lettered part,b,1,0,R04,part-level review: confirmed,medium,yes
+jun2019-3h-12-whole,jun2019-3h-12,whole question,,1,0,N04,"inherited-from-question, provisional",medium,
+jun2019-3h-13-whole,jun2019-3h-13,whole question,,4,0,R05,"inherited-from-question, provisional",high,
+jun2019-3h-14-whole,jun2019-3h-14,whole question,,4,0,G06,"inherited-from-question, provisional",medium,
+jun2019-3h-15-whole,jun2019-3h-15,whole question,,2,0,A10,"inherited-from-question, provisional",medium,
+jun2019-3h-16-whole,jun2019-3h-16,whole question,,3,0,A12,"inherited-from-question, provisional",high,
+jun2019-3h-17-whole,jun2019-3h-17,whole question,,2,0,A10,"inherited-from-question, provisional",medium,
+jun2019-3h-18-stem,jun2019-3h-18,stem (no marks),,0,0,A02,"inherited-from-question, provisional",medium,
+jun2019-3h-18-a,jun2019-3h-18,lettered part,a,3,0,A02,part-level review: confirmed,medium,yes
+jun2019-3h-18-b,jun2019-3h-18,lettered part,b,3,0,A08,part-level review: overridden,medium,yes
+jun2019-3h-19-stem,jun2019-3h-19,stem (no marks),,0,0,N12,"inherited-from-question, provisional",high,
+jun2019-3h-19-a,jun2019-3h-19,lettered part,a,3,0,N12,part-level review: confirmed,high,yes
+jun2019-3h-19-b,jun2019-3h-19,lettered part,b,2,0,N12,part-level review: confirmed,high,yes
+jun2019-3h-20-whole,jun2019-3h-20,whole question,,5,0,A07,"inherited-from-question, provisional",medium,
+jun2019-3h-21-whole,jun2019-3h-21,whole question,,4,0,S05,"inherited-from-question, provisional",medium,
+jun2019-3h-22-whole,jun2019-3h-22,whole question,,4,0,A17,"inherited-from-question, provisional",high,
+jun2019-3h-23-whole,jun2019-3h-23,whole question,,5,0,G07,"inherited-from-question, provisional",medium,
+jun2022-1h-1-whole,jun2022-1h-1,whole question,,2,0,A08,"inherited-from-question, provisional",medium,
+jun2022-1h-2-whole,jun2022-1h-2,whole question,,2,0,N02,"inherited-from-question, provisional",high,
+jun2022-1h-3-whole,jun2022-1h-3,whole question,,5,0,R01,"inherited-from-question, provisional",medium,
+jun2022-1h-4-stem,jun2022-1h-4,stem (no marks),,0,0,N06,"inherited-from-question, provisional",high,
+jun2022-1h-4-a,jun2022-1h-4,lettered part,a,1,0,N06,part-level review: confirmed,high,yes
+jun2022-1h-4-b,jun2022-1h-4,lettered part,b,1,0,N06,part-level review: confirmed,high,yes
+jun2022-1h-4-c,jun2022-1h-4,lettered part,c,2,0,N06,part-level review: confirmed,high,yes
+jun2022-1h-5-whole,jun2022-1h-5,whole question,,3,0,G01,"inherited-from-question, provisional",high,
+jun2022-1h-6-stem,jun2022-1h-6,stem (no marks),,0,0,A10,"inherited-from-question, provisional",medium,
+jun2022-1h-6-a,jun2022-1h-6,lettered part,a,2,0,A10,part-level review: confirmed,medium,yes
+jun2022-1h-6-b,jun2022-1h-6,lettered part,b,2,0,A10,part-level review: confirmed,medium,yes
+jun2022-1h-6-c,jun2022-1h-6,lettered part,c,2,0,A11,part-level review: overridden,medium,yes
+jun2022-1h-7-whole,jun2022-1h-7,whole question,,3,0,R05,"inherited-from-question, provisional",high,
+jun2022-1h-8-whole,jun2022-1h-8,whole question,,3,0,S01,"inherited-from-question, provisional",medium,
+jun2022-1h-9-whole,jun2022-1h-9,whole question,,3,0,G04,"inherited-from-question, provisional",high,
+jun2022-1h-10-stem,jun2022-1h-10,stem (no marks),,0,0,S04,"inherited-from-question, provisional",medium,
+jun2022-1h-10-a,jun2022-1h-10,lettered part,a,1,0,S04,part-level review: confirmed,medium,yes
+jun2022-1h-10-b,jun2022-1h-10,lettered part,b,2,0,S04,part-level review: confirmed,medium,yes
+jun2022-1h-10-c,jun2022-1h-10,lettered part,c,1,0,S04,part-level review: confirmed,medium,yes
+jun2022-1h-10-d,jun2022-1h-10,lettered part,d,2,0,S04,part-level review: confirmed,medium,yes
+jun2022-1h-11-whole,jun2022-1h-11,whole question,,3,0,P01,"inherited-from-question, provisional",medium,
+jun2022-1h-12-whole,jun2022-1h-12,whole question,,3,0,N08,"inherited-from-question, provisional",medium,
+jun2022-1h-13-whole,jun2022-1h-13,whole question,,3,0,G05,"inherited-from-question, provisional",medium,
+jun2022-1h-14-stem,jun2022-1h-14,stem (no marks),,0,0,R09,"inherited-from-question, provisional",medium,
+jun2022-1h-14-a,jun2022-1h-14,lettered part,a,3,0,R09,part-level review: confirmed,medium,yes
+jun2022-1h-14-b,jun2022-1h-14,lettered part,b,1,0,R09,part-level review: confirmed,medium,yes
+jun2022-1h-15-stem,jun2022-1h-15,stem (no marks),,0,0,G13,"inherited-from-question, provisional",medium,
+jun2022-1h-15-a,jun2022-1h-15,lettered part,a,2,0,G13,part-level review: confirmed,medium,yes
+jun2022-1h-15-b,jun2022-1h-15,lettered part,b,3,0,G13,part-level review: confirmed,medium,yes
+jun2022-1h-16-whole,jun2022-1h-16,whole question,,4,0,P04,"inherited-from-question, provisional",medium,
+jun2022-1h-17-whole,jun2022-1h-17,whole question,,4,0,R02,"inherited-from-question, provisional",medium,
+jun2022-1h-18-whole,jun2022-1h-18,whole question,,4,0,N04,"inherited-from-question, provisional",high,
+jun2022-1h-19-whole,jun2022-1h-19,whole question,,4,0,A06,"inherited-from-question, provisional",medium,
+jun2022-1h-20-whole,jun2022-1h-20,whole question,,4,0,A17,"inherited-from-question, provisional",medium,
+jun2022-1h-21-whole,jun2022-1h-21,whole question,,5,0,G03,"inherited-from-question, provisional",high,
+jun2022-2h-1-stem,jun2022-2h-1,stem (no marks),,0,0,A02,"inherited-from-question, provisional",high,
+jun2022-2h-1-a,jun2022-2h-1,lettered part,a,1,0,A01,part-level review: overridden,high,yes
+jun2022-2h-1-b,jun2022-2h-1,lettered part,b,2,0,A02,part-level review: confirmed,high,yes
+jun2022-2h-1-c,jun2022-2h-1,lettered part,c,2,0,A02,part-level review: confirmed,high,yes
+jun2022-2h-2-whole,jun2022-2h-2,whole question,,2,0,G11,"inherited-from-question, provisional",high,
+jun2022-2h-3-whole,jun2022-2h-3,whole question,,2,0,N11,"inherited-from-question, provisional",medium,
+jun2022-2h-4-stem,jun2022-2h-4,stem (no marks),,0,0,N06,"inherited-from-question, provisional",medium,
+jun2022-2h-4-a,jun2022-2h-4,lettered part,a,4,0,N06,part-level review: confirmed,medium,yes
+jun2022-2h-4-b,jun2022-2h-4,lettered part,b,1,0,N13,part-level review: overridden,medium,yes
+jun2022-2h-5-whole,jun2022-2h-5,whole question,,4,0,A09,"inherited-from-question, provisional",medium,
+jun2022-2h-6-whole,jun2022-2h-6,whole question,,3,0,N09,"inherited-from-question, provisional",medium,
+jun2022-2h-7-whole,jun2022-2h-7,whole question,,4,0,N13,"inherited-from-question, provisional",medium,
+jun2022-2h-8-whole,jun2022-2h-8,whole question,,2,0,N11,"inherited-from-question, provisional",medium,
+jun2022-2h-9-whole,jun2022-2h-9,whole question,,3,0,R05,"inherited-from-question, provisional",medium,
+jun2022-2h-10-stem,jun2022-2h-10,stem (no marks),,0,0,S04,"inherited-from-question, provisional",high,
+jun2022-2h-10-a,jun2022-2h-10,lettered part,a,1,0,S04,part-level review: confirmed,high,yes
+jun2022-2h-10-b,jun2022-2h-10,lettered part,b,2,0,S04,part-level review: confirmed,high,yes
+jun2022-2h-10-c,jun2022-2h-10,lettered part,c,2,0,S04,part-level review: confirmed,high,yes
+jun2022-2h-11-whole,jun2022-2h-11,whole question,,3,0,R02,"inherited-from-question, provisional",medium,
+jun2022-2h-12-whole,jun2022-2h-12,whole question,,2,0,A09,"inherited-from-question, provisional",high,
+jun2022-2h-13-whole,jun2022-2h-13,whole question,,2,0,G11,"inherited-from-question, provisional",high,
+jun2022-2h-14-whole,jun2022-2h-14,whole question,,3,0,S06,"inherited-from-question, provisional",medium,
+jun2022-2h-15-whole,jun2022-2h-15,whole question,,4,0,R01,"inherited-from-question, provisional",high,
+jun2022-2h-16-stem,jun2022-2h-16,stem (no marks),,0,0,P03,"inherited-from-question, provisional",high,
+jun2022-2h-16-a,jun2022-2h-16,lettered part,a,4,0,P03,part-level review: confirmed,high,yes
+jun2022-2h-16-b,jun2022-2h-16,lettered part,b,2,0,P03,part-level review: confirmed,high,yes
+jun2022-2h-17-stem,jun2022-2h-17,stem (no marks),,0,0,G04,"inherited-from-question, provisional",high,
+jun2022-2h-17-a,jun2022-2h-17,lettered part,a,4,0,G04,part-level review: confirmed,high,yes
+jun2022-2h-17-b,jun2022-2h-17,lettered part,b,1,0,G04,part-level review: confirmed,high,yes
+jun2022-2h-18-whole,jun2022-2h-18,whole question,,4,0,G07,"inherited-from-question, provisional",medium,
+jun2022-2h-19-stem,jun2022-2h-19,stem (no marks),,0,0,A13,"inherited-from-question, provisional",high,
+jun2022-2h-19-a,jun2022-2h-19,lettered part,a,1,0,A13,part-level review: confirmed,high,yes
+jun2022-2h-19-b,jun2022-2h-19,lettered part,b,3,0,A13,part-level review: confirmed,high,yes
+jun2022-2h-20-whole,jun2022-2h-20,whole question,,4,0,G09,"inherited-from-question, provisional",medium,
+jun2022-2h-21-stem,jun2022-2h-21,stem (no marks),,0,0,A13,"inherited-from-question, provisional",medium,
+jun2022-2h-21-a,jun2022-2h-21,lettered part,a,1,0,A13,part-level review: confirmed,medium,yes
+jun2022-2h-21-b,jun2022-2h-21,lettered part,b,2,0,A13,part-level review: confirmed,medium,yes
+jun2022-2h-22-whole,jun2022-2h-22,whole question,,5,0,A08,"inherited-from-question, provisional",medium,
+jun2022-3h-1-whole,jun2022-3h-1,whole question,,2,0,G05,"inherited-from-question, provisional",high,
+jun2022-3h-2-stem,jun2022-3h-2,stem (no marks),,0,0,A05,"inherited-from-question, provisional",medium,
+jun2022-3h-2-a,jun2022-3h-2,lettered part,a,2,0,A01,part-level review: overridden,medium,yes
+jun2022-3h-2-b,jun2022-3h-2,lettered part,b,2,0,A05,part-level review: confirmed,medium,yes
+jun2022-3h-3-whole,jun2022-3h-3,whole question,,5,0,A04,"inherited-from-question, provisional",medium,
+jun2022-3h-4-whole,jun2022-3h-4,whole question,,4,0,R03,"inherited-from-question, provisional",medium,
+jun2022-3h-5-whole,jun2022-3h-5,whole question,,2,0,S02,"inherited-from-question, provisional",medium,
+jun2022-3h-6-whole,jun2022-3h-6,whole question,,4,0,R04,"inherited-from-question, provisional",high,
+jun2022-3h-7-whole,jun2022-3h-7,whole question,,3,0,G02,"inherited-from-question, provisional",high,
+jun2022-3h-8-stem,jun2022-3h-8,stem (no marks),,0,0,A09,"inherited-from-question, provisional",high,
+jun2022-3h-8-a,jun2022-3h-8,lettered part,a,2,0,A09,part-level review: confirmed,high,yes
+jun2022-3h-8-b,jun2022-3h-8,lettered part,b,1,0,A09,part-level review: confirmed,high,yes
+jun2022-3h-9-stem,jun2022-3h-9,stem (no marks),,0,0,N04,"inherited-from-question, provisional",high,
+jun2022-3h-9-a,jun2022-3h-9,lettered part,a,3,0,N04,part-level review: confirmed,high,yes
+jun2022-3h-9-b,jun2022-3h-9,lettered part,b,1,0,N04,part-level review: confirmed,high,yes
+jun2022-3h-10-whole,jun2022-3h-10,whole question,,3,0,N09,"inherited-from-question, provisional",medium,
+jun2022-3h-11-whole,jun2022-3h-11,whole question,,2,0,N03,"inherited-from-question, provisional",medium,
+jun2022-3h-12-whole,jun2022-3h-12,whole question,,3,0,G06,"inherited-from-question, provisional",medium,
+jun2022-3h-13-whole,jun2022-3h-13,whole question,,3,0,G13,"inherited-from-question, provisional",medium,
+jun2022-3h-14-stem,jun2022-3h-14,stem (no marks),,0,0,A02,"inherited-from-question, provisional",medium,
+jun2022-3h-14-a,jun2022-3h-14,lettered part,a,2,0,A03,part-level review: overridden,medium,yes
+jun2022-3h-14-b,jun2022-3h-14,lettered part,b,3,0,A02,part-level review: confirmed,medium,yes
+jun2022-3h-15-whole,jun2022-3h-15,whole question,,3,0,G10,"inherited-from-question, provisional",medium,
+jun2022-3h-16-whole,jun2022-3h-16,whole question,,3,0,N12,"inherited-from-question, provisional",medium,
+jun2022-3h-17-stem,jun2022-3h-17,stem (no marks),,0,0,S05,"inherited-from-question, provisional",high,
+jun2022-3h-17-a,jun2022-3h-17,lettered part,a,3,0,S05,part-level review: confirmed,high,yes
+jun2022-3h-17-b,jun2022-3h-17,lettered part,b,2,0,S05,part-level review: confirmed,high,yes
+jun2022-3h-18-whole,jun2022-3h-18,whole question,,5,0,G08,"inherited-from-question, provisional",medium,
+jun2022-3h-19-whole,jun2022-3h-19,whole question,,4,0,A14,"inherited-from-question, provisional",medium,
+jun2022-3h-20-whole,jun2022-3h-20,whole question,,4,0,A12,"inherited-from-question, provisional",medium,
+jun2022-3h-21-whole,jun2022-3h-21,whole question,,4,0,P02,"inherited-from-question, provisional",medium,
+jun2022-3h-22-whole,jun2022-3h-22,whole question,,5,0,A07,"inherited-from-question, provisional",medium,
+jun2023-1h-1-whole,jun2023-1h-1,whole question,,3,0,N01,"inherited-from-question, provisional",medium,
+jun2023-1h-2-whole,jun2023-1h-2,whole question,,3,0,N07,"inherited-from-question, provisional",high,
+jun2023-1h-3-whole,jun2023-1h-3,whole question,,4,0,G04,"inherited-from-question, provisional",high,
+jun2023-1h-4-whole,jun2023-1h-4,whole question,,2,0,S02,"inherited-from-question, provisional",high,
+jun2023-1h-5-stem,jun2023-1h-5,stem (no marks),,0,0,P03,"inherited-from-question, provisional",high,
+jun2023-1h-5-a,jun2023-1h-5,lettered part,a,3,0,P03,part-level review: confirmed,high,yes
+jun2023-1h-5-b,jun2023-1h-5,lettered part,b,2,0,P03,part-level review: confirmed,high,yes
+jun2023-1h-6-stem,jun2023-1h-6,stem (no marks),,0,0,S03,"inherited-from-question, provisional",high,
+jun2023-1h-6-a,jun2023-1h-6,lettered part,a,1,0,S03,part-level review: confirmed,high,yes
+jun2023-1h-6-b,jun2023-1h-6,lettered part,b,2,0,S03,part-level review: confirmed,high,yes
+jun2023-1h-7-whole,jun2023-1h-7,whole question,,2,0,N09,"inherited-from-question, provisional",medium,
+jun2023-1h-8-whole,jun2023-1h-8,whole question,,3,0,R05,"inherited-from-question, provisional",high,
+jun2023-1h-9-whole,jun2023-1h-9,whole question,,1,0,A07,"inherited-from-question, provisional",medium,
+jun2023-1h-10-whole,jun2023-1h-10,whole question,,4,0,G01,"inherited-from-question, provisional",high,
+jun2023-1h-11-whole,jun2023-1h-11,whole question,,3,0,A01,"inherited-from-question, provisional",high,
+jun2023-1h-12-whole,jun2023-1h-12,whole question,,3,0,P02,"inherited-from-question, provisional",medium,
+jun2023-1h-13-whole,jun2023-1h-13,whole question,,3,0,R02,"inherited-from-question, provisional",high,
+jun2023-1h-14-stem,jun2023-1h-14,stem (no marks),,0,0,N04,"inherited-from-question, provisional",high,
+jun2023-1h-14-a,jun2023-1h-14,lettered part,a,1,0,N04,part-level review: confirmed,high,yes
+jun2023-1h-14-b,jun2023-1h-14,lettered part,b,3,0,N04,part-level review: confirmed,high,yes
+jun2023-1h-15-whole,jun2023-1h-15,whole question,,3,0,A09,"inherited-from-question, provisional",high,
+jun2023-1h-16-whole,jun2023-1h-16,whole question,,4,0,G04,"inherited-from-question, provisional",high,
+jun2023-1h-17-whole,jun2023-1h-17,whole question,,4,0,A05,"inherited-from-question, provisional",medium,
+jun2023-1h-18-whole,jun2023-1h-18,whole question,,4,0,R01,"inherited-from-question, provisional",medium,
+jun2023-1h-19-whole,jun2023-1h-19,whole question,,2,0,N03,"inherited-from-question, provisional",medium,
+jun2023-1h-20-stem,jun2023-1h-20,stem (no marks),,0,0,A13,"inherited-from-question, provisional",high,
+jun2023-1h-20-a,jun2023-1h-20,lettered part,a,2,0,A13,part-level review: confirmed,high,yes
+jun2023-1h-20-b,jun2023-1h-20,lettered part,b,3,0,A13,part-level review: confirmed,high,yes
+jun2023-1h-21-whole,jun2023-1h-21,whole question,,4,0,G09,"inherited-from-question, provisional",high,
+jun2023-1h-22-whole,jun2023-1h-22,whole question,,2,0,G08,"inherited-from-question, provisional",medium,
+jun2023-1h-23-whole,jun2023-1h-23,whole question,,4,0,N05,"inherited-from-question, provisional",medium,
+jun2023-1h-24-whole,jun2023-1h-24,whole question,,5,0,A08,"inherited-from-question, provisional",medium,
+jun2023-2h-1-stem,jun2023-2h-1,stem (no marks),,0,0,N01,"inherited-from-question, provisional",medium,
+jun2023-2h-1-a,jun2023-2h-1,lettered part,a,2,0,N01,part-level review: confirmed,medium,yes
+jun2023-2h-1-b,jun2023-2h-1,lettered part,b,1,0,N01,part-level review: confirmed,medium,yes
+jun2023-2h-2-whole,jun2023-2h-2,whole question,,2,0,N02,"inherited-from-question, provisional",high,
+jun2023-2h-3-whole,jun2023-2h-3,whole question,,1,0,R01,"inherited-from-question, provisional",medium,
+jun2023-2h-4-stem,jun2023-2h-4,stem (no marks),,0,0,A08,"inherited-from-question, provisional",high,
+jun2023-2h-4-a,jun2023-2h-4,lettered part,a,1,0,A08,part-level review: confirmed,high,yes
+jun2023-2h-4-b,jun2023-2h-4,lettered part,b,2,0,A08,part-level review: confirmed,high,yes
+jun2023-2h-4-c,jun2023-2h-4,lettered part,c,3,0,A08,part-level review: confirmed,high,yes
+jun2023-2h-5-whole,jun2023-2h-5,whole question,,4,0,A04,"inherited-from-question, provisional",medium,
+jun2023-2h-6-whole,jun2023-2h-6,whole question,,3,0,N09,"inherited-from-question, provisional",high,
+jun2023-2h-7-whole,jun2023-2h-7,whole question,,2,0,N11,"inherited-from-question, provisional",medium,
+jun2023-2h-8-whole,jun2023-2h-8,whole question,,4,0,N09,"inherited-from-question, provisional",high,
+jun2023-2h-9-stem,jun2023-2h-9,stem (no marks),,0,0,S04,"inherited-from-question, provisional",high,
+jun2023-2h-9-a,jun2023-2h-9,lettered part,a,2,0,S04,part-level review: confirmed,high,yes
+jun2023-2h-9-b,jun2023-2h-9,lettered part,b,1,0,S04,part-level review: confirmed,high,yes
+jun2023-2h-10-stem,jun2023-2h-10,stem (no marks),,0,0,P05,"inherited-from-question, provisional",high,
+jun2023-2h-10-a,jun2023-2h-10,lettered part,a,3,0,P05,part-level review: confirmed,high,yes
+jun2023-2h-10-b,jun2023-2h-10,lettered part,b,1,0,P05,part-level review: confirmed,high,yes
+jun2023-2h-11-whole,jun2023-2h-11,whole question,,4,0,A07,"inherited-from-question, provisional",medium,
+jun2023-2h-12-whole,jun2023-2h-12,whole question,,4,0,G03,"inherited-from-question, provisional",high,
+jun2023-2h-13-whole,jun2023-2h-13,whole question,,4,0,G07,"inherited-from-question, provisional",medium,
+jun2023-2h-14-whole,jun2023-2h-14,whole question,,3,0,A14,"inherited-from-question, provisional",medium,
+jun2023-2h-15-whole,jun2023-2h-15,whole question,,3,0,A12,"inherited-from-question, provisional",high,
+jun2023-2h-16-stem,jun2023-2h-16,stem (no marks),,0,0,S05,"inherited-from-question, provisional",high,
+jun2023-2h-16-a,jun2023-2h-16,lettered part,a,2,0,S05,part-level review: confirmed,high,yes
+jun2023-2h-16-b,jun2023-2h-16,lettered part,b,2,0,S05,part-level review: confirmed,high,yes
+jun2023-2h-17-stem,jun2023-2h-17,stem (no marks),,0,0,A16,"inherited-from-question, provisional",medium,
+jun2023-2h-17-a,jun2023-2h-17,lettered part,a,1,0,A16,part-level review: confirmed,medium,yes
+jun2023-2h-17-b,jun2023-2h-17,lettered part,b,3,0,A16,part-level review: confirmed,medium,yes
+jun2023-2h-18-whole,jun2023-2h-18,whole question,,3,0,A15,"inherited-from-question, provisional",medium,
+jun2023-2h-19-whole,jun2023-2h-19,whole question,,3,0,N12,"inherited-from-question, provisional",medium,
+jun2023-2h-20-whole,jun2023-2h-20,whole question,,4,0,G13,"inherited-from-question, provisional",medium,
+jun2023-2h-21-stem,jun2023-2h-21,stem (no marks),,0,0,A13,"inherited-from-question, provisional",medium,
+jun2023-2h-21-a,jun2023-2h-21,lettered part,a,1,0,A13,part-level review: confirmed,medium,yes
+jun2023-2h-21-b,jun2023-2h-21,lettered part,b,1,0,A13,part-level review: confirmed,medium,yes
+jun2023-2h-22-whole,jun2023-2h-22,whole question,,2,0,P01,"inherited-from-question, provisional",medium,
+jun2023-2h-23-whole,jun2023-2h-23,whole question,,3,0,R07,"inherited-from-question, provisional",medium,
+jun2023-2h-24-whole,jun2023-2h-24,whole question,,5,0,G02,"inherited-from-question, provisional",high,
+jun2023-3h-1-stem,jun2023-3h-1,stem (no marks),,0,0,A01,"inherited-from-question, provisional",medium,
+jun2023-3h-1-a,jun2023-3h-1,lettered part,a,1,0,A01,part-level review: confirmed,medium,yes
+jun2023-3h-1-b,jun2023-3h-1,lettered part,b,1,0,A01,part-level review: confirmed,medium,yes
+jun2023-3h-1-c,jun2023-3h-1,lettered part,c,2,0,A02,part-level review: overridden,medium,yes
+jun2023-3h-2-stem,jun2023-3h-2,stem (no marks),,0,0,N09,"inherited-from-question, provisional",high,
+jun2023-3h-2-a,jun2023-3h-2,lettered part,a,4,0,N09,part-level review: confirmed,high,yes
+jun2023-3h-2-b,jun2023-3h-2,lettered part,b,1,0,N09,part-level review: confirmed,high,yes
+jun2023-3h-3-whole,jun2023-3h-3,whole question,,5,0,G01,"inherited-from-question, provisional",high,
+jun2023-3h-4-whole,jun2023-3h-4,whole question,,2,0,R02,"inherited-from-question, provisional",medium,
+jun2023-3h-5-stem,jun2023-3h-5,stem (no marks),,0,0,N02,"inherited-from-question, provisional",high,
+jun2023-3h-5-a,jun2023-3h-5,lettered part,a,1,0,N02,part-level review: confirmed,high,yes
+jun2023-3h-5-b,jun2023-3h-5,lettered part,b,2,0,N02,part-level review: confirmed,high,yes
+jun2023-3h-6-whole,jun2023-3h-6,whole question,,3,0,N06,"inherited-from-question, provisional",medium,
+jun2023-3h-7-stem,jun2023-3h-7,stem (no marks),,0,0,A10,"inherited-from-question, provisional",medium,
+jun2023-3h-7-a,jun2023-3h-7,lettered part,a,1,0,A10,part-level review: confirmed,medium,yes
+jun2023-3h-7-b,jun2023-3h-7,lettered part,b,1,0,A11,part-level review: overridden,medium,yes
+jun2023-3h-8-whole,jun2023-3h-8,whole question,,2,0,R05,"inherited-from-question, provisional",high,
+jun2023-3h-9-whole,jun2023-3h-9,whole question,,2,0,N09,"inherited-from-question, provisional",medium,
+jun2023-3h-10-whole,jun2023-3h-10,whole question,,3,0,G07,"inherited-from-question, provisional",medium,
+jun2023-3h-11-stem,jun2023-3h-11,stem (no marks),,0,0,S04,"inherited-from-question, provisional",high,
+jun2023-3h-11-a,jun2023-3h-11,lettered part,a,3,0,S04,part-level review: confirmed,high,yes
+jun2023-3h-11-b,jun2023-3h-11,lettered part,b,2,0,S04,part-level review: confirmed,high,yes
+jun2023-3h-12-whole,jun2023-3h-12,whole question,,3,0,A02,"inherited-from-question, provisional",medium,
+jun2023-3h-13-whole,jun2023-3h-13,whole question,,3,0,A15,"inherited-from-question, provisional",high,
+jun2023-3h-14-whole,jun2023-3h-14,whole question,,4,0,G03,"inherited-from-question, provisional",high,
+jun2023-3h-15-stem,jun2023-3h-15,stem (no marks),,0,0,A15,"inherited-from-question, provisional",medium,
+jun2023-3h-15-a,jun2023-3h-15,lettered part,a,1,0,A03,part-level review: overridden,medium,yes
+jun2023-3h-15-b,jun2023-3h-15,lettered part,b,2,0,A15,part-level review: confirmed,medium,yes
+jun2023-3h-16-whole,jun2023-3h-16,whole question,,2,0,G11,"inherited-from-question, provisional",medium,
+jun2023-3h-17-stem,jun2023-3h-17,stem (no marks),,0,0,R09,"inherited-from-question, provisional",medium,
+jun2023-3h-17-a,jun2023-3h-17,lettered part,a,3,0,R09,part-level review: confirmed,medium,yes
+jun2023-3h-17-b,jun2023-3h-17,lettered part,b,1,0,R09,part-level review: confirmed,medium,yes
+jun2023-3h-18-whole,jun2023-3h-18,whole question,,5,0,G04,"inherited-from-question, provisional",high,
+jun2023-3h-19-whole,jun2023-3h-19,whole question,,1,0,A10,"inherited-from-question, provisional",medium,
+jun2023-3h-20-whole,jun2023-3h-20,whole question,,3,0,N08,"inherited-from-question, provisional",medium,
+jun2023-3h-21-whole,jun2023-3h-21,whole question,,4,0,A14,"inherited-from-question, provisional",medium,
+jun2023-3h-22-whole,jun2023-3h-22,whole question,,3,0,G13,"inherited-from-question, provisional",medium,
+jun2023-3h-23-whole,jun2023-3h-23,whole question,,4,0,A17,"inherited-from-question, provisional",high,
+jun2023-3h-24-whole,jun2023-3h-24,whole question,,5,0,P02,"inherited-from-question, provisional",medium,
+jun2024-1h-1-whole,jun2024-1h-1,whole question,,2,0,A12,"inherited-from-question, provisional",medium,
+jun2024-1h-2-stem,jun2024-1h-2,stem (no marks),,0,0,N07,"inherited-from-question, provisional",medium,
+jun2024-1h-2-a,jun2024-1h-2,lettered part,a,2,0,N07,part-level review: confirmed,medium,yes
+jun2024-1h-2-b,jun2024-1h-2,lettered part,b,1,0,N07,part-level review: confirmed,medium,yes
+jun2024-1h-3-stem,jun2024-1h-3,stem (no marks),,0,0,G02,"inherited-from-question, provisional",medium,
+jun2024-1h-3-a,jun2024-1h-3,lettered part,a,4,0,G02,part-level review: confirmed,medium,yes
+jun2024-1h-3-b,jun2024-1h-3,lettered part,b,1,0,G02,part-level review: confirmed,medium,yes
+jun2024-1h-4-stem,jun2024-1h-4,stem (no marks),,0,0,P03,"inherited-from-question, provisional",medium,
+jun2024-1h-4-a,jun2024-1h-4,lettered part,a,1,0,P03,part-level review: confirmed,medium,yes
+jun2024-1h-4-b,jun2024-1h-4,lettered part,b,2,0,P03,part-level review: confirmed,medium,yes
+jun2024-1h-5-stem,jun2024-1h-5,stem (no marks),,0,0,N10,"inherited-from-question, provisional",high,
+jun2024-1h-5-a,jun2024-1h-5,lettered part,a,3,0,N10,part-level review: confirmed,high,yes
+jun2024-1h-5-b,jun2024-1h-5,lettered part,b,1,0,N10,part-level review: confirmed,high,yes
+jun2024-1h-6-stem,jun2024-1h-6,stem (no marks),,0,0,A09,"inherited-from-question, provisional",high,
+jun2024-1h-6-a,jun2024-1h-6,lettered part,a,3,0,A09,part-level review: confirmed,high,yes
+jun2024-1h-6-b,jun2024-1h-6,lettered part,b,1,0,A09,part-level review: confirmed,high,yes
+jun2024-1h-7-whole,jun2024-1h-7,whole question,,5,0,R01,"inherited-from-question, provisional",medium,
+jun2024-1h-8-whole,jun2024-1h-8,whole question,,3,0,S01,"inherited-from-question, provisional",medium,
+jun2024-1h-9-whole,jun2024-1h-9,whole question,,1,0,N09,"inherited-from-question, provisional",medium,
+jun2024-1h-10-whole,jun2024-1h-10,whole question,,4,0,A07,"inherited-from-question, provisional",medium,
+jun2024-1h-11-whole,jun2024-1h-11,whole question,,3,0,G11,"inherited-from-question, provisional",high,
+jun2024-1h-12-stem,jun2024-1h-12,stem (no marks),,0,0,A10,"inherited-from-question, provisional",medium,
+jun2024-1h-12-i,jun2024-1h-12,roman subpart (no letter),(i),1,1,A10,part-level review: confirmed,medium,yes
+jun2024-1h-12-ii,jun2024-1h-12,roman subpart (no letter),(ii),1,1,A10,part-level review: confirmed,medium,yes
+jun2024-1h-12-iii,jun2024-1h-12,roman subpart (no letter),(iii),1,1,A10,part-level review: confirmed,medium,yes
+jun2024-1h-13-stem,jun2024-1h-13,stem (no marks),,0,0,S05,"inherited-from-question, provisional",high,
+jun2024-1h-13-a,jun2024-1h-13,lettered part,a,3,0,S05,part-level review: confirmed,high,yes
+jun2024-1h-13-b,jun2024-1h-13,lettered part,b,2,0,S05,part-level review: confirmed,high,yes
+jun2024-1h-14-whole,jun2024-1h-14,whole question,,3,0,A02,"inherited-from-question, provisional",medium,
+jun2024-1h-15-whole,jun2024-1h-15,whole question,,4,0,G03,"inherited-from-question, provisional",medium,
+jun2024-1h-16-whole,jun2024-1h-16,whole question,,2,0,P02,"inherited-from-question, provisional",medium,
+jun2024-1h-17-stem,jun2024-1h-17,stem (no marks),,0,0,N05,"inherited-from-question, provisional",medium,
+jun2024-1h-17-a,jun2024-1h-17,lettered part,a,1,0,N05,part-level review: confirmed,medium,yes
+jun2024-1h-17-b,jun2024-1h-17,lettered part,b,2,0,N05,part-level review: confirmed,medium,yes
+jun2024-1h-18-whole,jun2024-1h-18,whole question,,3,0,N08,"inherited-from-question, provisional",medium,
+jun2024-1h-19-whole,jun2024-1h-19,whole question,,3,0,R07,"inherited-from-question, provisional",high,
+jun2024-1h-20-whole,jun2024-1h-20,whole question,,3,0,N04,"inherited-from-question, provisional",high,
+jun2024-1h-21-whole,jun2024-1h-21,whole question,,5,0,G04,"inherited-from-question, provisional",high,
+jun2024-1h-22-stem,jun2024-1h-22,stem (no marks),,0,0,A10,"inherited-from-question, provisional",medium,
+jun2024-1h-22-a,jun2024-1h-22,lettered part,a,2,0,A10,part-level review: confirmed,medium,yes
+jun2024-1h-22-b,jun2024-1h-22,lettered part,b,2,0,A10,part-level review: confirmed,medium,yes
+jun2024-1h-23-whole,jun2024-1h-23,whole question,,5,0,A17,"inherited-from-question, provisional",medium,
+jun2024-2h-1-whole,jun2024-2h-1,whole question,,2,0,G05,"inherited-from-question, provisional",medium,
+jun2024-2h-2-stem,jun2024-2h-2,stem (no marks),,0,0,N02,"inherited-from-question, provisional",high,
+jun2024-2h-2-a,jun2024-2h-2,lettered part,a,2,0,N02,part-level review: confirmed,high,yes
+jun2024-2h-2-b,jun2024-2h-2,lettered part,b,1,0,N02,part-level review: confirmed,high,yes
+jun2024-2h-3-whole,jun2024-2h-3,whole question,,2,0,R02,"inherited-from-question, provisional",medium,
+jun2024-2h-4-whole,jun2024-2h-4,whole question,,4,0,P01,"inherited-from-question, provisional",high,
+jun2024-2h-5-stem,jun2024-2h-5,stem (no marks),,0,0,A11,"inherited-from-question, provisional",medium,
+jun2024-2h-5-a,jun2024-2h-5,lettered part,a,2,0,A10,part-level review: overridden,medium,yes
+jun2024-2h-5-b,jun2024-2h-5,lettered part,b,2,0,A10,part-level review: overridden,medium,yes
+jun2024-2h-5-c,jun2024-2h-5,lettered part,c,2,0,A11,part-level review: confirmed,medium,yes
+jun2024-2h-6-whole,jun2024-2h-6,whole question,,4,0,R01,"inherited-from-question, provisional",high,
+jun2024-2h-7-whole,jun2024-2h-7,whole question,,4,0,G01,"inherited-from-question, provisional",high,
+jun2024-2h-8-whole,jun2024-2h-8,whole question,,3,0,R08,"inherited-from-question, provisional",high,
+jun2024-2h-9-stem,jun2024-2h-9,stem (no marks),,0,0,N11,"inherited-from-question, provisional",high,
+jun2024-2h-9-a,jun2024-2h-9,lettered part,a,1,0,N11,part-level review: confirmed,high,yes
+jun2024-2h-9-b,jun2024-2h-9,lettered part,b,1,0,N11,part-level review: confirmed,high,yes
+jun2024-2h-10-whole,jun2024-2h-10,whole question,,3,0,G06,"inherited-from-question, provisional",high,
+jun2024-2h-11-stem,jun2024-2h-11,stem (no marks),,0,0,S04,"inherited-from-question, provisional",high,
+jun2024-2h-11-a,jun2024-2h-11,lettered part,a,1,0,S04,part-level review: confirmed,high,yes
+jun2024-2h-11-b,jun2024-2h-11,lettered part,b,2,0,S04,part-level review: confirmed,high,yes
+jun2024-2h-11-c,jun2024-2h-11,lettered part,c,2,0,S04,part-level review: confirmed,high,yes
+jun2024-2h-11-d,jun2024-2h-11,lettered part,d,2,0,S04,part-level review: confirmed,high,yes
+jun2024-2h-12-stem,jun2024-2h-12,stem (no marks),,0,0,R02,"inherited-from-question, provisional",medium,
+jun2024-2h-12-a,jun2024-2h-12,lettered part,a,2,0,R02,part-level review: confirmed,medium,yes
+jun2024-2h-12-b,jun2024-2h-12,lettered part,b,2,0,R02,part-level review: confirmed,medium,yes
+jun2024-2h-13-whole,jun2024-2h-13,whole question,,3,0,A08,"inherited-from-question, provisional",high,
+jun2024-2h-14-stem,jun2024-2h-14,stem (no marks),,0,0,R09,"inherited-from-question, provisional",medium,
+jun2024-2h-14-a,jun2024-2h-14,lettered part,a,3,0,R09,part-level review: confirmed,medium,yes
+jun2024-2h-14-b,jun2024-2h-14,lettered part,b,3,0,R09,part-level review: confirmed,medium,yes
+jun2024-2h-15-whole,jun2024-2h-15,whole question,,2,0,N05,"inherited-from-question, provisional",high,
+jun2024-2h-16-whole,jun2024-2h-16,whole question,,2,0,A08,"inherited-from-question, provisional",medium,
+jun2024-2h-17-whole,jun2024-2h-17,whole question,,4,0,R07,"inherited-from-question, provisional",medium,
+jun2024-2h-18-whole,jun2024-2h-18,whole question,,5,0,P02,"inherited-from-question, provisional",medium,
+jun2024-2h-19-stem,jun2024-2h-19,stem (no marks),,0,0,G13,"inherited-from-question, provisional",high,
+jun2024-2h-19-a,jun2024-2h-19,lettered part,a,4,0,G13,part-level review: confirmed,high,yes
+jun2024-2h-19-b,jun2024-2h-19,lettered part,b,1,0,G13,part-level review: confirmed,high,yes
+jun2024-2h-20-whole,jun2024-2h-20,whole question,,3,0,A18,"inherited-from-question, provisional",medium,
+jun2024-2h-21-whole,jun2024-2h-21,whole question,,2,0,A13,"inherited-from-question, provisional",medium,
+jun2024-2h-22-whole,jun2024-2h-22,whole question,,4,0,G09,"inherited-from-question, provisional",medium,
+jun2024-3h-1-whole,jun2024-3h-1,whole question,,2,0,N02,"inherited-from-question, provisional",high,
+jun2024-3h-2-stem,jun2024-3h-2,stem (no marks),,0,0,N06,"inherited-from-question, provisional",high,
+jun2024-3h-2-a,jun2024-3h-2,parent of subparts (no marks),a,0,0,N06,part-level review: confirmed,high,
+jun2024-3h-2-ai,jun2024-3h-2,roman subpart,a(i),1,1,N06,part-level review: confirmed,high,yes
+jun2024-3h-2-aii,jun2024-3h-2,roman subpart,a(ii),1,1,N06,part-level review: confirmed,high,yes
+jun2024-3h-2-b,jun2024-3h-2,lettered part,b,2,0,N06,part-level review: confirmed,high,yes
+jun2024-3h-3-stem,jun2024-3h-3,stem (no marks),,0,0,G14,"inherited-from-question, provisional",high,
+jun2024-3h-3-a,jun2024-3h-3,lettered part,a,1,0,G14,part-level review: confirmed,high,yes
+jun2024-3h-3-b,jun2024-3h-3,lettered part,b,2,0,G14,part-level review: confirmed,high,yes
+jun2024-3h-4-whole,jun2024-3h-4,whole question,,4,0,N09,"inherited-from-question, provisional",high,
+jun2024-3h-5-whole,jun2024-3h-5,whole question,,4,0,R05,"inherited-from-question, provisional",high,
+jun2024-3h-6-stem,jun2024-3h-6,stem (no marks),,0,0,P02,"inherited-from-question, provisional",medium,
+jun2024-3h-6-a,jun2024-3h-6,lettered part,a,2,0,P02,part-level review: confirmed,medium,yes
+jun2024-3h-6-b,jun2024-3h-6,lettered part,b,2,0,P02,part-level review: confirmed,medium,yes
+jun2024-3h-7-whole,jun2024-3h-7,whole question,,4,0,G04,"inherited-from-question, provisional",high,
+jun2024-3h-8-whole,jun2024-3h-8,whole question,,3,0,G13,"inherited-from-question, provisional",high,
+jun2024-3h-9-whole,jun2024-3h-9,whole question,,3,0,G04,"inherited-from-question, provisional",high,
+jun2024-3h-10-whole,jun2024-3h-10,whole question,,3,0,A15,"inherited-from-question, provisional",medium,
+jun2024-3h-11-stem,jun2024-3h-11,stem (no marks),,0,0,S04,"inherited-from-question, provisional",high,
+jun2024-3h-11-a,jun2024-3h-11,lettered part,a,3,0,S04,part-level review: confirmed,high,yes
+jun2024-3h-11-b,jun2024-3h-11,lettered part,b,2,0,S04,part-level review: confirmed,high,yes
+jun2024-3h-12-whole,jun2024-3h-12,whole question,,2,0,G11,"inherited-from-question, provisional",high,
+jun2024-3h-13-whole,jun2024-3h-13,whole question,,2,0,N03,"inherited-from-question, provisional",medium,
+jun2024-3h-14-whole,jun2024-3h-14,whole question,,4,0,N09,"inherited-from-question, provisional",medium,
+jun2024-3h-15-stem,jun2024-3h-15,stem (no marks),,0,0,A02,"inherited-from-question, provisional",high,
+jun2024-3h-15-a,jun2024-3h-15,lettered part,a,1,0,A02,part-level review: confirmed,high,yes
+jun2024-3h-15-b,jun2024-3h-15,lettered part,b,2,0,A02,part-level review: confirmed,high,yes
+jun2024-3h-15-c,jun2024-3h-15,lettered part,c,3,0,A14,part-level review: overridden,high,yes
+jun2024-3h-16-stem,jun2024-3h-16,stem (no marks),,0,0,A13,"inherited-from-question, provisional",high,
+jun2024-3h-16-a,jun2024-3h-16,lettered part,a,1,0,A13,part-level review: confirmed,high,yes
+jun2024-3h-16-b,jun2024-3h-16,lettered part,b,2,0,A13,part-level review: confirmed,high,yes
+jun2024-3h-16-c,jun2024-3h-16,lettered part,c,2,0,A13,part-level review: confirmed,high,yes
+jun2024-3h-17-whole,jun2024-3h-17,whole question,,3,0,A12,"inherited-from-question, provisional",medium,
+jun2024-3h-18-whole,jun2024-3h-18,whole question,,5,0,G07,"inherited-from-question, provisional",medium,
+jun2024-3h-19-whole,jun2024-3h-19,whole question,,3,0,N12,"inherited-from-question, provisional",high,
+jun2024-3h-20-stem,jun2024-3h-20,stem (no marks),,0,0,A12,"inherited-from-question, provisional",medium,
+jun2024-3h-20-a,jun2024-3h-20,lettered part,a,2,0,A12,part-level review: confirmed,medium,yes
+jun2024-3h-20-b,jun2024-3h-20,lettered part,b,5,0,A12,part-level review: confirmed,medium,yes
+jun2024-3h-21-whole,jun2024-3h-21,whole question,,4,0,G02,"inherited-from-question, provisional",high,
+jun2025-1h-1-whole,jun2025-1h-1,whole question,,2,0,N02,"inherited-from-question, provisional",high,
+jun2025-1h-2-stem,jun2025-1h-2,stem (no marks),,0,0,P01,"inherited-from-question, provisional",medium,
+jun2025-1h-2-a,jun2025-1h-2,lettered part,a,3,0,P01,part-level review: confirmed,medium,yes
+jun2025-1h-2-b,jun2025-1h-2,lettered part,b,2,0,P01,part-level review: confirmed,medium,yes
+jun2025-1h-3-stem,jun2025-1h-3,stem (no marks),,0,0,A10,"inherited-from-question, provisional",high,
+jun2025-1h-3-a,jun2025-1h-3,lettered part,a,2,0,A10,part-level review: confirmed,high,yes
+jun2025-1h-3-b,jun2025-1h-3,lettered part,b,2,0,A10,part-level review: confirmed,high,yes
+jun2025-1h-3-c,jun2025-1h-3,lettered part,c,1,0,A10,part-level review: confirmed,high,yes
+jun2025-1h-4-stem,jun2025-1h-4,stem (no marks),,0,0,R01,"inherited-from-question, provisional",medium,
+jun2025-1h-4-a,jun2025-1h-4,lettered part,a,5,0,R01,part-level review: confirmed,medium,yes
+jun2025-1h-4-b,jun2025-1h-4,lettered part,b,1,0,R01,part-level review: confirmed,medium,yes
+jun2025-1h-5-whole,jun2025-1h-5,whole question,,3,0,N06,"inherited-from-question, provisional",high,
+jun2025-1h-6-whole,jun2025-1h-6,whole question,,4,0,G01,"inherited-from-question, provisional",high,
+jun2025-1h-7-stem,jun2025-1h-7,stem (no marks),,0,0,A08,"inherited-from-question, provisional",medium,
+jun2025-1h-7-a,jun2025-1h-7,lettered part,a,1,0,A01,part-level review: overridden,medium,yes
+jun2025-1h-7-b,jun2025-1h-7,lettered part,b,3,0,A08,part-level review: confirmed,medium,yes
+jun2025-1h-7-c,jun2025-1h-7,lettered part,c,2,0,A08,part-level review: confirmed,medium,yes
+jun2025-1h-8-stem,jun2025-1h-8,stem (no marks),,0,0,G10,"inherited-from-question, provisional",medium,
+jun2025-1h-8-a,jun2025-1h-8,lettered part,a,2,0,G10,part-level review: confirmed,medium,yes
+jun2025-1h-8-b,jun2025-1h-8,lettered part,b,3,0,R07,part-level review: overridden,medium,yes
+jun2025-1h-9-stem,jun2025-1h-9,stem (no marks),,0,0,G11,"inherited-from-question, provisional",high,
+jun2025-1h-9-a,jun2025-1h-9,lettered part,a,2,0,G11,part-level review: confirmed,high,yes
+jun2025-1h-9-b,jun2025-1h-9,lettered part,b,2,0,G11,part-level review: confirmed,high,yes
+jun2025-1h-10-whole,jun2025-1h-10,whole question,,3,0,A15,"inherited-from-question, provisional",high,
+jun2025-1h-11-whole,jun2025-1h-11,whole question,,5,0,R02,"inherited-from-question, provisional",medium,
+jun2025-1h-12-stem,jun2025-1h-12,stem (no marks),,0,0,R09,"inherited-from-question, provisional",medium,
+jun2025-1h-12-a,jun2025-1h-12,parent of subparts (no marks),a,0,0,R09,part-level review: confirmed,medium,
+jun2025-1h-12-ai,jun2025-1h-12,roman subpart,a(i),3,1,R09,part-level review: confirmed,medium,yes
+jun2025-1h-12-aii,jun2025-1h-12,roman subpart,a(ii),1,1,R09,part-level review: confirmed,medium,yes
+jun2025-1h-12-b,jun2025-1h-12,lettered part,b,3,0,R09,part-level review: confirmed,medium,yes
+jun2025-1h-13-whole,jun2025-1h-13,whole question,,5,0,N08,"inherited-from-question, provisional",high,
+jun2025-1h-14-whole,jun2025-1h-14,whole question,,5,0,P02,"inherited-from-question, provisional",medium,
+jun2025-1h-15-whole,jun2025-1h-15,whole question,,4,0,S05,"inherited-from-question, provisional",medium,
+jun2025-1h-16-stem,jun2025-1h-16,stem (no marks),,0,0,N05,"inherited-from-question, provisional",high,
+jun2025-1h-16-a,jun2025-1h-16,lettered part,a,2,0,N05,part-level review: confirmed,high,yes
+jun2025-1h-16-b,jun2025-1h-16,lettered part,b,4,0,N05,part-level review: confirmed,high,yes
+jun2025-1h-17-whole,jun2025-1h-17,whole question,,5,0,A13,"inherited-from-question, provisional",medium,
+jun2025-2h-1-stem,jun2025-2h-1,stem (no marks),,0,0,N02,"inherited-from-question, provisional",high,
+jun2025-2h-1-a,jun2025-2h-1,lettered part,a,2,0,N02,part-level review: confirmed,high,yes
+jun2025-2h-1-b,jun2025-2h-1,lettered part,b,2,0,N02,part-level review: confirmed,high,yes
+jun2025-2h-2-whole,jun2025-2h-2,whole question,,3,0,R01,"inherited-from-question, provisional",high,
+jun2025-2h-3-stem,jun2025-2h-3,stem (no marks),,0,0,G02,"inherited-from-question, provisional",medium,
+jun2025-2h-3-a,jun2025-2h-3,lettered part,a,4,0,G02,part-level review: confirmed,medium,yes
+jun2025-2h-3-b,jun2025-2h-3,lettered part,b,1,0,G02,part-level review: confirmed,medium,yes
+jun2025-2h-4-whole,jun2025-2h-4,whole question,,1,0,G12,"inherited-from-question, provisional",medium,
+jun2025-2h-5-whole,jun2025-2h-5,whole question,,3,0,N06,"inherited-from-question, provisional",medium,
+jun2025-2h-6-whole,jun2025-2h-6,whole question,,5,0,S01,"inherited-from-question, provisional",high,
+jun2025-2h-7-whole,jun2025-2h-7,whole question,,2,0,G06,"inherited-from-question, provisional",medium,
+jun2025-2h-8-whole,jun2025-2h-8,whole question,,3,0,R05,"inherited-from-question, provisional",high,
+jun2025-2h-9-whole,jun2025-2h-9,whole question,,2,0,N04,"inherited-from-question, provisional",high,
+jun2025-2h-10-whole,jun2025-2h-10,whole question,,2,0,A04,"inherited-from-question, provisional",high,
+jun2025-2h-11-stem,jun2025-2h-11,stem (no marks),,0,0,P02,"inherited-from-question, provisional",high,
+jun2025-2h-11-a,jun2025-2h-11,lettered part,a,2,0,P02,part-level review: confirmed,high,yes
+jun2025-2h-11-b,jun2025-2h-11,lettered part,b,3,0,P02,part-level review: confirmed,high,yes
+jun2025-2h-12-stem,jun2025-2h-12,stem (no marks),,0,0,S04,"inherited-from-question, provisional",high,
+jun2025-2h-12-a,jun2025-2h-12,lettered part,a,3,0,S04,part-level review: confirmed,high,yes
+jun2025-2h-12-b,jun2025-2h-12,lettered part,b,1,0,S04,part-level review: confirmed,high,yes
+jun2025-2h-12-c,jun2025-2h-12,lettered part,c,1,0,S04,part-level review: confirmed,high,yes
+jun2025-2h-13-whole,jun2025-2h-13,whole question,,3,0,A02,"inherited-from-question, provisional",medium,
+jun2025-2h-14-whole,jun2025-2h-14,whole question,,3,0,N03,"inherited-from-question, provisional",medium,
+jun2025-2h-15-stem,jun2025-2h-15,stem (no marks),,0,0,A08,"inherited-from-question, provisional",medium,
+jun2025-2h-15-a,jun2025-2h-15,lettered part,a,4,0,A08,part-level review: confirmed,medium,yes
+jun2025-2h-15-b,jun2025-2h-15,lettered part,b,1,0,A08,part-level review: confirmed,medium,yes
+jun2025-2h-16-stem,jun2025-2h-16,stem (no marks),,0,0,R07,"inherited-from-question, provisional",high,
+jun2025-2h-16-a,jun2025-2h-16,lettered part,a,4,0,R07,part-level review: confirmed,high,yes
+jun2025-2h-16-b,jun2025-2h-16,lettered part,b,1,0,R07,part-level review: confirmed,high,yes
+jun2025-2h-17-whole,jun2025-2h-17,whole question,,2,0,A10,"inherited-from-question, provisional",medium,
+jun2025-2h-18-whole,jun2025-2h-18,whole question,,3,0,R06,"inherited-from-question, provisional",medium,
+jun2025-2h-19-whole,jun2025-2h-19,whole question,,4,0,G08,"inherited-from-question, provisional",medium,
+jun2025-2h-20-whole,jun2025-2h-20,whole question,,5,0,A09,"inherited-from-question, provisional",high,
+jun2025-2h-21-whole,jun2025-2h-21,whole question,,2,0,A08,"inherited-from-question, provisional",medium,
+jun2025-2h-22-whole,jun2025-2h-22,whole question,,3,0,A17,"inherited-from-question, provisional",medium,
+jun2025-2h-23-whole,jun2025-2h-23,whole question,,5,0,G07,"inherited-from-question, provisional",medium,
+jun2025-3h-1-whole,jun2025-3h-1,whole question,,2,0,S02,"inherited-from-question, provisional",high,
+jun2025-3h-2-stem,jun2025-3h-2,stem (no marks),,0,0,A05,"inherited-from-question, provisional",medium,
+jun2025-3h-2-a,jun2025-3h-2,lettered part,a,1,0,A05,part-level review: confirmed,medium,yes
+jun2025-3h-2-b,jun2025-3h-2,lettered part,b,2,0,A02,part-level review: overridden,medium,yes
+jun2025-3h-3-whole,jun2025-3h-3,whole question,,3,0,N09,"inherited-from-question, provisional",high,
+jun2025-3h-4-whole,jun2025-3h-4,whole question,,4,0,N13,"inherited-from-question, provisional",medium,
+jun2025-3h-5-whole,jun2025-3h-5,whole question,,2,0,N11,"inherited-from-question, provisional",medium,
+jun2025-3h-6-whole,jun2025-3h-6,whole question,,3,0,R04,"inherited-from-question, provisional",high,
+jun2025-3h-7-whole,jun2025-3h-7,whole question,,3,0,A09,"inherited-from-question, provisional",medium,
+jun2025-3h-8-whole,jun2025-3h-8,whole question,,5,0,G02,"inherited-from-question, provisional",high,
+jun2025-3h-9-stem,jun2025-3h-9,stem (no marks),,0,0,N06,"inherited-from-question, provisional",medium,
+jun2025-3h-9-a,jun2025-3h-9,lettered part,a,1,0,N06,part-level review: confirmed,medium,yes
+jun2025-3h-9-b,jun2025-3h-9,lettered part,b,1,0,N06,part-level review: confirmed,medium,yes
+jun2025-3h-10-whole,jun2025-3h-10,whole question,,2,0,N11,"inherited-from-question, provisional",medium,
+jun2025-3h-11-stem,jun2025-3h-11,stem (no marks),,0,0,N04,"inherited-from-question, provisional",medium,
+jun2025-3h-11-a,jun2025-3h-11,lettered part,a,2,0,N04,part-level review: confirmed,medium,yes
+jun2025-3h-11-b,jun2025-3h-11,lettered part,b,2,0,N04,part-level review: confirmed,medium,yes
+jun2025-3h-12-stem,jun2025-3h-12,stem (no marks),,0,0,N09,"inherited-from-question, provisional",high,
+jun2025-3h-12-a,jun2025-3h-12,lettered part,a,1,0,N09,part-level review: confirmed,high,yes
+jun2025-3h-12-b,jun2025-3h-12,lettered part,b,3,0,N09,part-level review: confirmed,high,yes
+jun2025-3h-13-whole,jun2025-3h-13,whole question,,3,0,A10,"inherited-from-question, provisional",medium,
+jun2025-3h-14-whole,jun2025-3h-14,whole question,,2,0,G07,"inherited-from-question, provisional",medium,
+jun2025-3h-15-whole,jun2025-3h-15,whole question,,4,0,P02,"inherited-from-question, provisional",medium,
+jun2025-3h-16-whole,jun2025-3h-16,whole question,,4,0,G04,"inherited-from-question, provisional",high,
+jun2025-3h-17-whole,jun2025-3h-17,whole question,,3,0,A14,"inherited-from-question, provisional",medium,
+jun2025-3h-18-stem,jun2025-3h-18,stem (no marks),,0,0,P03,"inherited-from-question, provisional",high,
+jun2025-3h-18-a,jun2025-3h-18,lettered part,a,4,0,P03,part-level review: confirmed,high,yes
+jun2025-3h-18-b,jun2025-3h-18,lettered part,b,2,0,P03,part-level review: confirmed,high,yes
+jun2025-3h-19-whole,jun2025-3h-19,whole question,,3,0,N12,"inherited-from-question, provisional",high,
+jun2025-3h-20-whole,jun2025-3h-20,whole question,,4,0,G09,"inherited-from-question, provisional",high,
+jun2025-3h-21-whole,jun2025-3h-21,whole question,,5,0,A07,"inherited-from-question, provisional",medium,
+jun2025-3h-22-whole,jun2025-3h-22,whole question,,4,0,A17,"inherited-from-question, provisional",medium,
+jun2025-3h-23-whole,jun2025-3h-23,whole question,,5,0,G13,"inherited-from-question, provisional",high,
+nov2019-1h-1-whole,nov2019-1h-1,whole question,,3,0,N02,"inherited-from-question, provisional",high,
+nov2019-1h-2-whole,nov2019-1h-2,whole question,,4,0,R01,"inherited-from-question, provisional",medium,
+nov2019-1h-3-whole,nov2019-1h-3,whole question,,3,0,N07,"inherited-from-question, provisional",high,
+nov2019-1h-4-whole,nov2019-1h-4,whole question,,2,0,G12,"inherited-from-question, provisional",high,
+nov2019-1h-5-whole,nov2019-1h-5,whole question,,4,0,G01,"inherited-from-question, provisional",high,
+nov2019-1h-6-whole,nov2019-1h-6,whole question,,3,0,S01,"inherited-from-question, provisional",medium,
+nov2019-1h-7-stem,nov2019-1h-7,stem (no marks),,0,0,A01,"inherited-from-question, provisional",medium,
+nov2019-1h-7-a,nov2019-1h-7,lettered part,a,1,0,A01,part-level review: confirmed,medium,yes
+nov2019-1h-7-b,nov2019-1h-7,lettered part,b,2,0,A01,part-level review: confirmed,medium,yes
+nov2019-1h-8-stem,nov2019-1h-8,question-level marks (leaf split not printed),,5,0,R08,"inherited-from-question, provisional",high,
+nov2019-1h-8-i,nov2019-1h-8,roman subpart (no letter),(i),unknown,1,R08,"inherited-from-question, provisional; UNRESOLVED: per-part marks not printed (question total 5)",high,"shared: one joint scheme for (i) and (ii), per-part marks not printed"
+nov2019-1h-8-ii,nov2019-1h-8,roman subpart (no letter),(ii),unknown,1,R08,"inherited-from-question, provisional; UNRESOLVED: per-part marks not printed (question total 5)",high,"shared: one joint scheme for (i) and (ii), per-part marks not printed"
+nov2019-1h-9-stem,nov2019-1h-9,stem (no marks),,0,0,R04,"inherited-from-question, provisional",high,
+nov2019-1h-9-a,nov2019-1h-9,lettered part,a,2,0,R04,part-level review: confirmed,high,yes
+nov2019-1h-9-b,nov2019-1h-9,lettered part,b,2,0,R04,part-level review: confirmed,high,yes
+nov2019-1h-10-stem,nov2019-1h-10,stem (no marks),,0,0,S04,"inherited-from-question, provisional",high,
+nov2019-1h-10-a,nov2019-1h-10,lettered part,a,2,0,S04,part-level review: confirmed,high,yes
+nov2019-1h-10-b,nov2019-1h-10,lettered part,b,2,0,S04,part-level review: confirmed,high,yes
+nov2019-1h-10-c,nov2019-1h-10,lettered part,c,2,0,S04,part-level review: confirmed,high,yes
+nov2019-1h-11-whole,nov2019-1h-11,whole question,,2,0,S06,"inherited-from-question, provisional",medium,
+nov2019-1h-12-whole,nov2019-1h-12,whole question,,1,0,A05,"inherited-from-question, provisional",medium,
+nov2019-1h-13-stem,nov2019-1h-13,stem (no marks),,0,0,A14,"inherited-from-question, provisional",medium,
+nov2019-1h-13-a,nov2019-1h-13,lettered part,a,2,0,A14,part-level review: confirmed,medium,yes
+nov2019-1h-13-b,nov2019-1h-13,lettered part,b,1,0,A02,part-level review: overridden,medium,yes
+nov2019-1h-14-whole,nov2019-1h-14,whole question,,4,0,A06,"inherited-from-question, provisional",medium,
+nov2019-1h-15-whole,nov2019-1h-15,whole question,,3,0,N08,"inherited-from-question, provisional",medium,
+nov2019-1h-16-stem,nov2019-1h-16,stem (no marks),,0,0,N05,"inherited-from-question, provisional",high,
+nov2019-1h-16-a,nov2019-1h-16,lettered part,a,2,0,N05,part-level review: confirmed,high,yes
+nov2019-1h-16-b,nov2019-1h-16,lettered part,b,3,0,N05,part-level review: confirmed,high,yes
+nov2019-1h-17-whole,nov2019-1h-17,whole question,,4,0,R07,"inherited-from-question, provisional",medium,
+nov2019-1h-18-stem,nov2019-1h-18,stem (no marks),,0,0,A13,"inherited-from-question, provisional",high,
+nov2019-1h-18-a,nov2019-1h-18,lettered part,a,2,0,A13,part-level review: confirmed,high,yes
+nov2019-1h-18-b,nov2019-1h-18,lettered part,b,4,0,A13,part-level review: confirmed,high,yes
+nov2019-1h-19-whole,nov2019-1h-19,whole question,,3,0,N04,"inherited-from-question, provisional",medium,
+nov2019-1h-20-stem,nov2019-1h-20,stem (no marks),,0,0,A13,"inherited-from-question, provisional",high,
+nov2019-1h-20-a,nov2019-1h-20,lettered part,a,2,0,A13,part-level review: confirmed,high,yes
+nov2019-1h-20-b,nov2019-1h-20,lettered part,b,1,0,A13,part-level review: confirmed,high,yes
+nov2019-1h-21-whole,nov2019-1h-21,whole question,,5,0,A10,"inherited-from-question, provisional",high,
+nov2019-1h-22-whole,nov2019-1h-22,whole question,,4,0,G10,"inherited-from-question, provisional",high,
+nov2019-2h-1-whole,nov2019-2h-1,whole question,,2,0,S02,"inherited-from-question, provisional",medium,
+nov2019-2h-2-whole,nov2019-2h-2,whole question,,2,0,N11,"inherited-from-question, provisional",medium,
+nov2019-2h-3-whole,nov2019-2h-3,whole question,,4,0,R01,"inherited-from-question, provisional",medium,
+nov2019-2h-4-stem,nov2019-2h-4,stem (no marks),,0,0,S06,"inherited-from-question, provisional",high,
+nov2019-2h-4-i,nov2019-2h-4,roman subpart (no letter),(i),2,1,S06,part-level review: confirmed,high,yes
+nov2019-2h-4-ii,nov2019-2h-4,roman subpart (no letter),(ii),1,1,S06,part-level review: confirmed,high,yes
+nov2019-2h-5-stem,nov2019-2h-5,stem (no marks),,0,0,A10,"inherited-from-question, provisional",medium,
+nov2019-2h-5-a,nov2019-2h-5,lettered part,a,1,0,A10,part-level review: confirmed,medium,yes
+nov2019-2h-5-b,nov2019-2h-5,lettered part,b,1,0,A10,part-level review: confirmed,medium,yes
+nov2019-2h-6-whole,nov2019-2h-6,whole question,,3,0,A12,"inherited-from-question, provisional",high,
+nov2019-2h-7-whole,nov2019-2h-7,whole question,,2,0,N06,"inherited-from-question, provisional",medium,
+nov2019-2h-8-whole,nov2019-2h-8,whole question,,3,0,R02,"inherited-from-question, provisional",medium,
+nov2019-2h-9-whole,nov2019-2h-9,whole question,,5,0,G04,"inherited-from-question, provisional",high,
+nov2019-2h-10-whole,nov2019-2h-10,whole question,,2,0,A05,"inherited-from-question, provisional",medium,
+nov2019-2h-11-stem,nov2019-2h-11,stem (no marks),,0,0,S04,"inherited-from-question, provisional",high,
+nov2019-2h-11-a,nov2019-2h-11,lettered part,a,1,0,S04,part-level review: confirmed,high,yes
+nov2019-2h-11-b,nov2019-2h-11,lettered part,b,2,0,S04,part-level review: confirmed,high,yes
+nov2019-2h-12-whole,nov2019-2h-12,whole question,,4,0,G06,"inherited-from-question, provisional",medium,
+nov2019-2h-13-whole,nov2019-2h-13,whole question,,3,0,N09,"inherited-from-question, provisional",high,
+nov2019-2h-14-whole,nov2019-2h-14,whole question,,2,0,N03,"inherited-from-question, provisional",medium,
+nov2019-2h-15-whole,nov2019-2h-15,whole question,,3,0,A02,"inherited-from-question, provisional",medium,
+nov2019-2h-16-whole,nov2019-2h-16,whole question,,3,0,P02,"inherited-from-question, provisional",medium,
+nov2019-2h-17-whole,nov2019-2h-17,whole question,,3,0,G09,"inherited-from-question, provisional",medium,
+nov2019-2h-18-whole,nov2019-2h-18,whole question,,3,0,S05,"inherited-from-question, provisional",medium,
+nov2019-2h-19-whole,nov2019-2h-19,whole question,,2,0,G04,"inherited-from-question, provisional",high,
+nov2019-2h-20-whole,nov2019-2h-20,whole question,,4,0,N12,"inherited-from-question, provisional",high,
+nov2019-2h-21-stem,nov2019-2h-21,stem (no marks),,0,0,R09,"inherited-from-question, provisional",high,
+nov2019-2h-21-a,nov2019-2h-21,lettered part,a,4,0,R09,part-level review: confirmed,high,yes
+nov2019-2h-21-b,nov2019-2h-21,lettered part,b,1,0,R09,part-level review: confirmed,high,yes
+nov2019-2h-22-stem,nov2019-2h-22,stem (no marks),,0,0,R06,"inherited-from-question, provisional",medium,
+nov2019-2h-22-a,nov2019-2h-22,lettered part,a,3,0,R06,part-level review: confirmed,medium,yes
+nov2019-2h-22-b,nov2019-2h-22,lettered part,b,1,0,R06,part-level review: confirmed,medium,yes
+nov2019-2h-23-stem,nov2019-2h-23,stem (no marks),,0,0,A08,"inherited-from-question, provisional",medium,
+nov2019-2h-23-a,nov2019-2h-23,lettered part,a,3,0,G02,part-level review: overridden,medium,yes
+nov2019-2h-23-b,nov2019-2h-23,lettered part,b,3,0,A08,part-level review: confirmed,medium,yes
+nov2019-2h-24-whole,nov2019-2h-24,whole question,,2,0,G11,"inherited-from-question, provisional",high,
+nov2019-2h-25-whole,nov2019-2h-25,whole question,,5,0,A09,"inherited-from-question, provisional",medium,
+nov2019-3h-1-stem,nov2019-3h-1,stem (no marks),,0,0,A02,"inherited-from-question, provisional",medium,
+nov2019-3h-1-a,nov2019-3h-1,lettered part,a,2,0,A02,part-level review: confirmed,medium,yes
+nov2019-3h-1-b,nov2019-3h-1,lettered part,b,2,0,A02,part-level review: confirmed,medium,yes
+nov2019-3h-2-stem,nov2019-3h-2,stem (no marks),,0,0,N11,"inherited-from-question, provisional",high,
+nov2019-3h-2-a,nov2019-3h-2,lettered part,a,2,0,N11,part-level review: confirmed,high,yes
+nov2019-3h-2-b,nov2019-3h-2,lettered part,b,1,0,N11,part-level review: confirmed,high,yes
+nov2019-3h-3-whole,nov2019-3h-3,whole question,,2,0,S03,"inherited-from-question, provisional",high,
+nov2019-3h-4-whole,nov2019-3h-4,whole question,,3,0,S01,"inherited-from-question, provisional",medium,
+nov2019-3h-5-whole,nov2019-3h-5,whole question,,1,0,N13,"inherited-from-question, provisional",medium,
+nov2019-3h-6-whole,nov2019-3h-6,whole question,,4,0,R04,"inherited-from-question, provisional",high,
+nov2019-3h-7-stem,nov2019-3h-7,stem (no marks),,0,0,N06,"inherited-from-question, provisional",high,
+nov2019-3h-7-a,nov2019-3h-7,lettered part,a,1,0,N06,part-level review: confirmed,high,yes
+nov2019-3h-7-b,nov2019-3h-7,lettered part,b,1,0,N06,part-level review: confirmed,high,yes
+nov2019-3h-7-c,nov2019-3h-7,lettered part,c,1,0,N06,part-level review: confirmed,high,yes
+nov2019-3h-8-whole,nov2019-3h-8,whole question,,4,0,G01,"inherited-from-question, provisional",high,
+nov2019-3h-9-whole,nov2019-3h-9,whole question,,2,0,G11,"inherited-from-question, provisional",high,
+nov2019-3h-10-stem,nov2019-3h-10,stem (no marks),,0,0,A04,"inherited-from-question, provisional",medium,
+nov2019-3h-10-a,nov2019-3h-10,lettered part,a,3,0,A04,part-level review: confirmed,medium,yes
+nov2019-3h-10-b,nov2019-3h-10,lettered part,b,1,0,A04,part-level review: confirmed,medium,yes
+nov2019-3h-11-whole,nov2019-3h-11,whole question,,3,0,P02,"inherited-from-question, provisional",medium,
+nov2019-3h-12-whole,nov2019-3h-12,whole question,,3,0,S04,"inherited-from-question, provisional",high,
+nov2019-3h-13-whole,nov2019-3h-13,whole question,,4,0,R05,"inherited-from-question, provisional",high,
+nov2019-3h-14-whole,nov2019-3h-14,whole question,,4,0,R01,"inherited-from-question, provisional",medium,
+nov2019-3h-15-whole,nov2019-3h-15,whole question,,3,0,A15,"inherited-from-question, provisional",high,
+nov2019-3h-16-whole,nov2019-3h-16,whole question,,3,0,R02,"inherited-from-question, provisional",medium,
+nov2019-3h-17-whole,nov2019-3h-17,whole question,,4,0,A11,"inherited-from-question, provisional",high,
+nov2019-3h-18-whole,nov2019-3h-18,whole question,,5,0,G07,"inherited-from-question, provisional",medium,
+nov2019-3h-19-whole,nov2019-3h-19,whole question,,3,0,R09,"inherited-from-question, provisional",medium,
+nov2019-3h-20-whole,nov2019-3h-20,whole question,,2,0,A12,"inherited-from-question, provisional",medium,
+nov2019-3h-21-whole,nov2019-3h-21,whole question,,2,0,P02,"inherited-from-question, provisional",medium,
+nov2019-3h-22-whole,nov2019-3h-22,whole question,,4,0,A14,"inherited-from-question, provisional",medium,
+nov2019-3h-23-whole,nov2019-3h-23,whole question,,5,0,G04,"inherited-from-question, provisional",high,
+nov2019-3h-24-whole,nov2019-3h-24,whole question,,5,0,G13,"inherited-from-question, provisional",medium,
+nov2020-1h-1-whole,nov2020-1h-1,whole question,,2,0,A12,"inherited-from-question, provisional",medium,
+nov2020-1h-2-whole,nov2020-1h-2,whole question,,3,0,N07,"inherited-from-question, provisional",medium,
+nov2020-1h-3-whole,nov2020-1h-3,whole question,,2,0,A10,"inherited-from-question, provisional",medium,
+nov2020-1h-4-whole,nov2020-1h-4,whole question,,1,0,G10,"inherited-from-question, provisional",medium,
+nov2020-1h-5-whole,nov2020-1h-5,whole question,,3,0,N09,"inherited-from-question, provisional",high,
+nov2020-1h-6-whole,nov2020-1h-6,whole question,,5,0,G01,"inherited-from-question, provisional",high,
+nov2020-1h-7-whole,nov2020-1h-7,whole question,,3,0,S01,"inherited-from-question, provisional",high,
+nov2020-1h-8-whole,nov2020-1h-8,whole question,,3,0,R05,"inherited-from-question, provisional",medium,
+nov2020-1h-9-whole,nov2020-1h-9,whole question,,2,0,N06,"inherited-from-question, provisional",high,
+nov2020-1h-10-whole,nov2020-1h-10,whole question,,3,0,R01,"inherited-from-question, provisional",medium,
+nov2020-1h-11-stem,nov2020-1h-11,stem (no marks),,0,0,N04,"inherited-from-question, provisional",high,
+nov2020-1h-11-a,nov2020-1h-11,lettered part,a,2,0,N04,part-level review: confirmed,high,yes
+nov2020-1h-11-b,nov2020-1h-11,lettered part,b,2,0,N04,part-level review: confirmed,high,yes
+nov2020-1h-11-c,nov2020-1h-11,lettered part,c,2,0,N04,part-level review: confirmed,high,yes
+nov2020-1h-12-stem,nov2020-1h-12,stem (no marks),,0,0,S04,"inherited-from-question, provisional",medium,
+nov2020-1h-12-a,nov2020-1h-12,lettered part,a,1,0,S04,part-level review: confirmed,medium,yes
+nov2020-1h-12-b,nov2020-1h-12,lettered part,b,2,0,S04,part-level review: confirmed,medium,yes
+nov2020-1h-12-c,nov2020-1h-12,lettered part,c,3,0,S04,part-level review: confirmed,medium,yes
+nov2020-1h-13-whole,nov2020-1h-13,whole question,,3,0,R05,"inherited-from-question, provisional",high,
+nov2020-1h-14-whole,nov2020-1h-14,whole question,,3,0,P02,"inherited-from-question, provisional",medium,
+nov2020-1h-15-whole,nov2020-1h-15,whole question,,3,0,A09,"inherited-from-question, provisional",high,
+nov2020-1h-16-stem,nov2020-1h-16,stem (no marks),,0,0,S06,"inherited-from-question, provisional",medium,
+nov2020-1h-16-a,nov2020-1h-16,lettered part,a,3,0,S06,part-level review: confirmed,medium,yes
+nov2020-1h-16-b,nov2020-1h-16,lettered part,b,1,0,S06,part-level review: confirmed,medium,yes
+nov2020-1h-17-whole,nov2020-1h-17,whole question,,4,0,A05,"inherited-from-question, provisional",medium,
+nov2020-1h-18-whole,nov2020-1h-18,whole question,,3,0,R02,"inherited-from-question, provisional",high,
+nov2020-1h-19-stem,nov2020-1h-19,stem (no marks),,0,0,A13,"inherited-from-question, provisional",high,
+nov2020-1h-19-a,nov2020-1h-19,lettered part,a,1,0,A13,part-level review: confirmed,high,yes
+nov2020-1h-19-b,nov2020-1h-19,lettered part,b,2,0,A13,part-level review: confirmed,high,yes
+nov2020-1h-19-c,nov2020-1h-19,lettered part,c,2,0,A13,part-level review: confirmed,high,yes
+nov2020-1h-20-whole,nov2020-1h-20,whole question,,4,0,N05,"inherited-from-question, provisional",medium,
+nov2020-1h-21-whole,nov2020-1h-21,whole question,,4,0,G13,"inherited-from-question, provisional",high,
+nov2020-1h-22-whole,nov2020-1h-22,whole question,,5,0,G03,"inherited-from-question, provisional",medium,
+nov2020-1h-23-whole,nov2020-1h-23,whole question,,3,0,R01,"inherited-from-question, provisional",medium,
+nov2020-2h-1-stem,nov2020-2h-1,stem (no marks),,0,0,N02,"inherited-from-question, provisional",high,
+nov2020-2h-1-a,nov2020-2h-1,lettered part,a,2,0,N02,part-level review: confirmed,high,yes
+nov2020-2h-1-b,nov2020-2h-1,lettered part,b,2,0,N02,part-level review: confirmed,high,yes
+nov2020-2h-2-stem,nov2020-2h-2,stem (no marks),,0,0,P03,"inherited-from-question, provisional",medium,
+nov2020-2h-2-a,nov2020-2h-2,lettered part,a,3,0,P03,part-level review: confirmed,medium,yes
+nov2020-2h-2-b,nov2020-2h-2,lettered part,b,2,0,P03,part-level review: confirmed,medium,yes
+nov2020-2h-3-whole,nov2020-2h-3,whole question,,5,0,R01,"inherited-from-question, provisional",medium,
+nov2020-2h-4-stem,nov2020-2h-4,stem (no marks),,0,0,A10,"inherited-from-question, provisional",medium,
+nov2020-2h-4-a,nov2020-2h-4,lettered part,a,2,0,A10,part-level review: confirmed,medium,yes
+nov2020-2h-4-b,nov2020-2h-4,lettered part,b,2,0,A10,part-level review: confirmed,medium,yes
+nov2020-2h-5-whole,nov2020-2h-5,whole question,,2,0,G06,"inherited-from-question, provisional",medium,
+nov2020-2h-6-whole,nov2020-2h-6,whole question,,2,0,G13,"inherited-from-question, provisional",medium,
+nov2020-2h-7-whole,nov2020-2h-7,whole question,,4,0,G02,"inherited-from-question, provisional",medium,
+nov2020-2h-8-stem,nov2020-2h-8,stem (no marks),,0,0,N09,"inherited-from-question, provisional",medium,
+nov2020-2h-8-a,nov2020-2h-8,lettered part,a,2,0,N09,part-level review: confirmed,medium,yes
+nov2020-2h-8-b,nov2020-2h-8,lettered part,b,3,0,N09,part-level review: confirmed,medium,yes
+nov2020-2h-9-whole,nov2020-2h-9,whole question,,2,0,S04,"inherited-from-question, provisional",high,
+nov2020-2h-10-stem,nov2020-2h-10,stem (no marks),,0,0,A01,"inherited-from-question, provisional",medium,
+nov2020-2h-10-a,nov2020-2h-10,lettered part,a,1,0,A01,part-level review: confirmed,medium,yes
+nov2020-2h-10-b,nov2020-2h-10,lettered part,b,1,0,A01,part-level review: confirmed,medium,yes
+nov2020-2h-10-c,nov2020-2h-10,lettered part,c,2,0,A01,part-level review: confirmed,medium,yes
+nov2020-2h-11-whole,nov2020-2h-11,whole question,,2,0,N03,"inherited-from-question, provisional",medium,
+nov2020-2h-12-stem,nov2020-2h-12,stem (no marks),,0,0,A09,"inherited-from-question, provisional",high,
+nov2020-2h-12-a,nov2020-2h-12,lettered part,a,2,0,A09,part-level review: confirmed,high,yes
+nov2020-2h-12-b,nov2020-2h-12,lettered part,b,1,0,A09,part-level review: confirmed,high,yes
+nov2020-2h-13-whole,nov2020-2h-13,whole question,,3,0,G07,"inherited-from-question, provisional",medium,
+nov2020-2h-14-whole,nov2020-2h-14,whole question,,4,0,A06,"inherited-from-question, provisional",medium,
+nov2020-2h-15-whole,nov2020-2h-15,whole question,,2,0,G11,"inherited-from-question, provisional",high,
+nov2020-2h-16-whole,nov2020-2h-16,whole question,,3,0,A12,"inherited-from-question, provisional",high,
+nov2020-2h-17-whole,nov2020-2h-17,whole question,,1,0,A10,"inherited-from-question, provisional",medium,
+nov2020-2h-18-whole,nov2020-2h-18,whole question,,4,0,G04,"inherited-from-question, provisional",high,
+nov2020-2h-19-whole,nov2020-2h-19,whole question,,4,0,A12,"inherited-from-question, provisional",high,
+nov2020-2h-20-stem,nov2020-2h-20,stem (no marks),,0,0,P01,"inherited-from-question, provisional",high,
+nov2020-2h-20-a,nov2020-2h-20,lettered part,a,3,0,P01,part-level review: confirmed,high,yes
+nov2020-2h-20-b,nov2020-2h-20,lettered part,b,5,0,P01,part-level review: confirmed,high,yes
+nov2020-2h-21-stem,nov2020-2h-21,stem (no marks),,0,0,A13,"inherited-from-question, provisional",medium,
+nov2020-2h-21-a,nov2020-2h-21,lettered part,a,2,0,A13,part-level review: confirmed,medium,yes
+nov2020-2h-21-b,nov2020-2h-21,lettered part,b,2,0,A13,part-level review: confirmed,medium,yes
+nov2020-2h-22-whole,nov2020-2h-22,whole question,,5,0,G09,"inherited-from-question, provisional",high,
+nov2020-3h-1-stem,nov2020-3h-1,stem (no marks),,0,0,A01,"inherited-from-question, provisional",medium,
+nov2020-3h-1-a,nov2020-3h-1,lettered part,a,1,0,A01,part-level review: confirmed,medium,yes
+nov2020-3h-1-b,nov2020-3h-1,lettered part,b,2,0,A01,part-level review: confirmed,medium,yes
+nov2020-3h-1-c,nov2020-3h-1,lettered part,c,2,0,A08,part-level review: overridden,medium,yes
+nov2020-3h-2-whole,nov2020-3h-2,whole question,,3,0,R04,"inherited-from-question, provisional",medium,
+nov2020-3h-3-whole,nov2020-3h-3,whole question,,2,0,N11,"inherited-from-question, provisional",medium,
+nov2020-3h-4-stem,nov2020-3h-4,stem (no marks),,0,0,R01,"inherited-from-question, provisional",medium,
+nov2020-3h-4-a,nov2020-3h-4,lettered part,a,4,0,R01,part-level review: confirmed,medium,yes
+nov2020-3h-4-b,nov2020-3h-4,lettered part,b,1,0,R01,part-level review: confirmed,medium,yes
+nov2020-3h-5-stem,nov2020-3h-5,stem (no marks),,0,0,P02,"inherited-from-question, provisional",medium,
+nov2020-3h-5-a,nov2020-3h-5,lettered part,a,2,0,P02,part-level review: confirmed,medium,yes
+nov2020-3h-5-b,nov2020-3h-5,lettered part,b,2,0,P02,part-level review: confirmed,medium,yes
+nov2020-3h-6-stem,nov2020-3h-6,stem (no marks),,0,0,A07,"inherited-from-question, provisional",medium,
+nov2020-3h-6-a,nov2020-3h-6,lettered part,a,1,0,A07,part-level review: confirmed,medium,yes
+nov2020-3h-6-b,nov2020-3h-6,lettered part,b,2,0,A11,part-level review: overridden,medium,yes
+nov2020-3h-7-whole,nov2020-3h-7,whole question,,3,0,S01,"inherited-from-question, provisional",medium,
+nov2020-3h-8-whole,nov2020-3h-8,whole question,,3,0,P01,"inherited-from-question, provisional",high,
+nov2020-3h-9-whole,nov2020-3h-9,whole question,,5,0,G04,"inherited-from-question, provisional",high,
+nov2020-3h-10-stem,nov2020-3h-10,stem (no marks),,0,0,N06,"inherited-from-question, provisional",high,
+nov2020-3h-10-a,nov2020-3h-10,lettered part,a,2,0,N06,part-level review: confirmed,high,yes
+nov2020-3h-10-b,nov2020-3h-10,lettered part,b,2,0,N06,part-level review: confirmed,high,yes
+nov2020-3h-11-stem,nov2020-3h-11,stem (no marks),,0,0,G11,"inherited-from-question, provisional",high,
+nov2020-3h-11-a,nov2020-3h-11,lettered part,a,3,0,G11,part-level review: confirmed,high,yes
+nov2020-3h-11-b,nov2020-3h-11,lettered part,b,1,0,G11,part-level review: confirmed,high,yes
+nov2020-3h-12-stem,nov2020-3h-12,stem (no marks),,0,0,A14,"inherited-from-question, provisional",medium,
+nov2020-3h-12-a,nov2020-3h-12,lettered part,a,3,0,A14,part-level review: confirmed,medium,yes
+nov2020-3h-12-b,nov2020-3h-12,lettered part,b,3,0,A02,part-level review: overridden,medium,yes
+nov2020-3h-13-stem,nov2020-3h-13,stem (no marks),,0,0,A08,"inherited-from-question, provisional",high,
+nov2020-3h-13-a,nov2020-3h-13,lettered part,a,4,0,A08,part-level review: confirmed,high,yes
+nov2020-3h-13-b,nov2020-3h-13,lettered part,b,1,0,A08,part-level review: confirmed,high,yes
+nov2020-3h-14-whole,nov2020-3h-14,whole question,,4,0,G09,"inherited-from-question, provisional",medium,
+nov2020-3h-15-whole,nov2020-3h-15,whole question,,2,0,A15,"inherited-from-question, provisional",high,
+nov2020-3h-16-stem,nov2020-3h-16,stem (no marks),,0,0,R09,"inherited-from-question, provisional",high,
+nov2020-3h-16-a,nov2020-3h-16,lettered part,a,2,0,R09,part-level review: confirmed,high,yes
+nov2020-3h-16-b,nov2020-3h-16,lettered part,b,1,0,R09,part-level review: confirmed,high,yes
+nov2020-3h-16-c,nov2020-3h-16,lettered part,c,1,0,R09,part-level review: confirmed,high,yes
+nov2020-3h-17-whole,nov2020-3h-17,whole question,,4,0,S05,"inherited-from-question, provisional",medium,
+nov2020-3h-18-whole,nov2020-3h-18,whole question,,4,0,N12,"inherited-from-question, provisional",medium,
+nov2020-3h-19-whole,nov2020-3h-19,whole question,,4,0,G02,"inherited-from-question, provisional",high,
+nov2020-3h-20-whole,nov2020-3h-20,whole question,,1,0,N02,"inherited-from-question, provisional",medium,
+nov2020-3h-21-stem,nov2020-3h-21,stem (no marks),,0,0,R01,"inherited-from-question, provisional",high,
+nov2020-3h-21-a,nov2020-3h-21,lettered part,a,2,0,R01,part-level review: confirmed,high,yes
+nov2020-3h-21-b,nov2020-3h-21,lettered part,b,3,0,A06,part-level review: overridden,high,yes
+nov2021-1h-1-stem,nov2021-1h-1,stem (no marks),,0,0,N01,"inherited-from-question, provisional",high,
+nov2021-1h-1-a,nov2021-1h-1,lettered part,a,3,0,N01,part-level review: confirmed,high,yes
+nov2021-1h-1-b,nov2021-1h-1,lettered part,b,3,0,N01,part-level review: confirmed,high,yes
+nov2021-1h-2-whole,nov2021-1h-2,whole question,,3,0,P03,"inherited-from-question, provisional",medium,
+nov2021-1h-3-whole,nov2021-1h-3,whole question,,3,0,N07,"inherited-from-question, provisional",high,
+nov2021-1h-4-whole,nov2021-1h-4,whole question,,4,0,N09,"inherited-from-question, provisional",high,
+nov2021-1h-5-whole,nov2021-1h-5,whole question,,3,0,R01,"inherited-from-question, provisional",medium,
+nov2021-1h-6-whole,nov2021-1h-6,whole question,,3,0,G04,"inherited-from-question, provisional",medium,
+nov2021-1h-7-whole,nov2021-1h-7,whole question,,4,0,G04,"inherited-from-question, provisional",high,
+nov2021-1h-8-whole,nov2021-1h-8,whole question,,3,0,A06,"inherited-from-question, provisional",medium,
+nov2021-1h-9-stem,nov2021-1h-9,stem (no marks),,0,0,N04,"inherited-from-question, provisional",high,
+nov2021-1h-9-a,nov2021-1h-9,lettered part,a,1,0,N04,part-level review: confirmed,high,yes
+nov2021-1h-9-b,nov2021-1h-9,lettered part,b,1,0,N04,part-level review: confirmed,high,yes
+nov2021-1h-9-c,nov2021-1h-9,lettered part,c,1,0,N04,part-level review: confirmed,high,yes
+nov2021-1h-9-d,nov2021-1h-9,lettered part,d,1,0,N04,part-level review: confirmed,high,yes
+nov2021-1h-10-stem,nov2021-1h-10,stem (no marks),,0,0,N10,"inherited-from-question, provisional",high,
+nov2021-1h-10-a,nov2021-1h-10,lettered part,a,3,0,N10,part-level review: confirmed,high,yes
+nov2021-1h-10-b,nov2021-1h-10,lettered part,b,1,0,N10,part-level review: confirmed,high,yes
+nov2021-1h-11-whole,nov2021-1h-11,whole question,,4,0,A02,"inherited-from-question, provisional",medium,
+nov2021-1h-12-stem,nov2021-1h-12,stem (no marks),,0,0,S04,"inherited-from-question, provisional",medium,
+nov2021-1h-12-a,nov2021-1h-12,lettered part,a,2,0,S04,part-level review: confirmed,medium,yes
+nov2021-1h-12-b,nov2021-1h-12,lettered part,b,1,0,S04,part-level review: confirmed,medium,yes
+nov2021-1h-13-whole,nov2021-1h-13,whole question,,1,0,N08,"inherited-from-question, provisional",medium,
+nov2021-1h-14-whole,nov2021-1h-14,whole question,,3,0,A02,"inherited-from-question, provisional",medium,
+nov2021-1h-15-whole,nov2021-1h-15,whole question,,3,0,A15,"inherited-from-question, provisional",medium,
+nov2021-1h-16-whole,nov2021-1h-16,whole question,,4,0,P02,"inherited-from-question, provisional",high,
+nov2021-1h-17-whole,nov2021-1h-17,whole question,,3,0,A08,"inherited-from-question, provisional",medium,
+nov2021-1h-18-whole,nov2021-1h-18,whole question,,5,0,G02,"inherited-from-question, provisional",high,
+nov2021-1h-19-whole,nov2021-1h-19,whole question,,4,0,N05,"inherited-from-question, provisional",medium,
+nov2021-1h-20-whole,nov2021-1h-20,whole question,,3,0,A17,"inherited-from-question, provisional",medium,
+nov2021-1h-21-stem,nov2021-1h-21,stem (no marks),,0,0,A13,"inherited-from-question, provisional",high,
+nov2021-1h-21-a,nov2021-1h-21,lettered part,a,2,0,A13,part-level review: confirmed,high,yes
+nov2021-1h-21-b,nov2021-1h-21,lettered part,b,4,0,A13,part-level review: confirmed,high,yes
+nov2021-1h-22-whole,nov2021-1h-22,whole question,,4,0,A18,"inherited-from-question, provisional",medium,
+nov2021-2h-1-stem,nov2021-2h-1,stem (no marks),,0,0,A08,"inherited-from-question, provisional",medium,
+nov2021-2h-1-a,nov2021-2h-1,lettered part,a,1,0,A08,part-level review: confirmed,medium,yes
+nov2021-2h-1-b,nov2021-2h-1,lettered part,b,2,0,A08,part-level review: confirmed,medium,yes
+nov2021-2h-2-stem,nov2021-2h-2,stem (no marks),,0,0,N02,"inherited-from-question, provisional",high,
+nov2021-2h-2-a,nov2021-2h-2,lettered part,a,2,0,N02,part-level review: confirmed,high,yes
+nov2021-2h-2-b,nov2021-2h-2,lettered part,b,2,0,N02,part-level review: confirmed,high,yes
+nov2021-2h-3-stem,nov2021-2h-3,stem (no marks),,0,0,R04,"inherited-from-question, provisional",high,
+nov2021-2h-3-a,nov2021-2h-3,lettered part,a,2,0,R04,part-level review: confirmed,high,yes
+nov2021-2h-3-b,nov2021-2h-3,lettered part,b,3,0,R04,part-level review: confirmed,high,yes
+nov2021-2h-4-stem,nov2021-2h-4,stem (no marks),,0,0,A10,"inherited-from-question, provisional",medium,
+nov2021-2h-4-a,nov2021-2h-4,lettered part,a,2,0,A10,part-level review: confirmed,medium,yes
+nov2021-2h-4-b,nov2021-2h-4,lettered part,b,2,0,A10,part-level review: confirmed,medium,yes
+nov2021-2h-4-c,nov2021-2h-4,lettered part,c,2,0,A11,part-level review: overridden,medium,yes
+nov2021-2h-5-whole,nov2021-2h-5,whole question,,4,0,G05,"inherited-from-question, provisional",medium,
+nov2021-2h-6-stem,nov2021-2h-6,stem (no marks),,0,0,G06,"inherited-from-question, provisional",medium,
+nov2021-2h-6-a,nov2021-2h-6,lettered part,a,2,0,G06,part-level review: confirmed,medium,yes
+nov2021-2h-6-b,nov2021-2h-6,lettered part,b,2,0,G06,part-level review: confirmed,medium,yes
+nov2021-2h-7-whole,nov2021-2h-7,whole question,,3,0,R05,"inherited-from-question, provisional",medium,
+nov2021-2h-8-whole,nov2021-2h-8,whole question,,1,0,S01,"inherited-from-question, provisional",medium,
+nov2021-2h-9-stem,nov2021-2h-9,stem (no marks),,0,0,S04,"inherited-from-question, provisional",high,
+nov2021-2h-9-a,nov2021-2h-9,lettered part,a,2,0,S04,part-level review: confirmed,high,yes
+nov2021-2h-9-b,nov2021-2h-9,lettered part,b,1,0,S04,part-level review: confirmed,high,yes
+nov2021-2h-9-c,nov2021-2h-9,lettered part,c,1,0,S04,part-level review: confirmed,high,yes
+nov2021-2h-10-whole,nov2021-2h-10,whole question,,4,0,N09,"inherited-from-question, provisional",medium,
+nov2021-2h-11-stem,nov2021-2h-11,stem (no marks),,0,0,A09,"inherited-from-question, provisional",high,
+nov2021-2h-11-a,nov2021-2h-11,lettered part,a,2,0,A09,part-level review: confirmed,high,yes
+nov2021-2h-11-b,nov2021-2h-11,lettered part,b,3,0,A09,part-level review: confirmed,high,yes
+nov2021-2h-12-whole,nov2021-2h-12,whole question,,3,0,A02,"inherited-from-question, provisional",medium,
+nov2021-2h-13-whole,nov2021-2h-13,whole question,,2,0,N03,"inherited-from-question, provisional",medium,
+nov2021-2h-14-whole,nov2021-2h-14,whole question,,4,0,G09,"inherited-from-question, provisional",high,
+nov2021-2h-15-stem,nov2021-2h-15,stem (no marks),,0,0,G07,"inherited-from-question, provisional",medium,
+nov2021-2h-15-a,nov2021-2h-15,lettered part,a,3,0,G07,part-level review: confirmed,medium,yes
+nov2021-2h-15-b,nov2021-2h-15,lettered part,b,2,0,G07,part-level review: confirmed,medium,yes
+nov2021-2h-16-stem,nov2021-2h-16,stem (no marks),,0,0,A16,"inherited-from-question, provisional",medium,
+nov2021-2h-16-a,nov2021-2h-16,lettered part,a,3,0,A16,part-level review: confirmed,medium,yes
+nov2021-2h-16-b,nov2021-2h-16,lettered part,b,1,0,A16,part-level review: confirmed,medium,yes
+nov2021-2h-17-whole,nov2021-2h-17,whole question,,4,0,S05,"inherited-from-question, provisional",medium,
+nov2021-2h-18-stem,nov2021-2h-18,stem (no marks),,0,0,G06,"inherited-from-question, provisional",high,
+nov2021-2h-18-a,nov2021-2h-18,lettered part,a,2,0,A10,part-level review: overridden,high,yes
+nov2021-2h-18-b,nov2021-2h-18,lettered part,b,1,0,A13,part-level review: overridden,high,yes
+nov2021-2h-18-c,nov2021-2h-18,lettered part,c,1,0,A13,part-level review: overridden,high,yes
+nov2021-2h-19-whole,nov2021-2h-19,whole question,,3,0,R07,"inherited-from-question, provisional",medium,
+nov2021-2h-20-whole,nov2021-2h-20,whole question,,4,0,P02,"inherited-from-question, provisional",medium,
+nov2021-2h-21-whole,nov2021-2h-21,whole question,,4,0,N12,"inherited-from-question, provisional",high,
+nov2021-3h-1-stem,nov2021-3h-1,stem (no marks),,0,0,S03,"inherited-from-question, provisional",high,
+nov2021-3h-1-a,nov2021-3h-1,lettered part,a,1,0,S03,part-level review: confirmed,high,yes
+nov2021-3h-1-b,nov2021-3h-1,lettered part,b,2,0,S03,part-level review: confirmed,high,yes
+nov2021-3h-1-c,nov2021-3h-1,lettered part,c,1,0,S03,part-level review: confirmed,high,yes
+nov2021-3h-2-whole,nov2021-3h-2,whole question,,4,0,R01,"inherited-from-question, provisional",medium,
+nov2021-3h-3-stem,nov2021-3h-3,stem (no marks),,0,0,N06,"inherited-from-question, provisional",high,
+nov2021-3h-3-a,nov2021-3h-3,lettered part,a,1,0,N06,part-level review: confirmed,high,yes
+nov2021-3h-3-b,nov2021-3h-3,lettered part,b,1,0,N06,part-level review: confirmed,high,yes
+nov2021-3h-3-c,nov2021-3h-3,lettered part,c,2,0,N06,part-level review: confirmed,high,yes
+nov2021-3h-4-whole,nov2021-3h-4,whole question,,4,0,R04,"inherited-from-question, provisional",medium,
+nov2021-3h-5-whole,nov2021-3h-5,whole question,,3,0,A12,"inherited-from-question, provisional",medium,
+nov2021-3h-6-stem,nov2021-3h-6,stem (no marks),,0,0,P01,"inherited-from-question, provisional",medium,
+nov2021-3h-6-a,nov2021-3h-6,lettered part,a,2,0,P01,part-level review: confirmed,medium,yes
+nov2021-3h-6-b,nov2021-3h-6,lettered part,b,2,0,P01,part-level review: confirmed,medium,yes
+nov2021-3h-7-whole,nov2021-3h-7,whole question,,4,0,G02,"inherited-from-question, provisional",high,
+nov2021-3h-8-stem,nov2021-3h-8,stem (no marks),,0,0,R02,"inherited-from-question, provisional",medium,
+nov2021-3h-8-a,nov2021-3h-8,lettered part,a,1,0,R02,part-level review: confirmed,medium,yes
+nov2021-3h-8-b,nov2021-3h-8,lettered part,b,1,0,R02,part-level review: confirmed,medium,yes
+nov2021-3h-9-stem,nov2021-3h-9,stem (no marks),,0,0,R02,"inherited-from-question, provisional",medium,
+nov2021-3h-9-a,nov2021-3h-9,lettered part,a,2,0,R02,part-level review: confirmed,medium,yes
+nov2021-3h-9-b,nov2021-3h-9,lettered part,b,1,0,R02,part-level review: confirmed,medium,yes
+nov2021-3h-10-whole,nov2021-3h-10,whole question,,4,0,R07,"inherited-from-question, provisional",high,
+nov2021-3h-11-whole,nov2021-3h-11,whole question,,2,0,N11,"inherited-from-question, provisional",medium,
+nov2021-3h-12-whole,nov2021-3h-12,whole question,,2,0,N04,"inherited-from-question, provisional",high,
+nov2021-3h-13-whole,nov2021-3h-13,whole question,,5,0,G01,"inherited-from-question, provisional",high,
+nov2021-3h-14-whole,nov2021-3h-14,whole question,,4,0,R01,"inherited-from-question, provisional",high,
+nov2021-3h-15-whole,nov2021-3h-15,whole question,,3,0,R09,"inherited-from-question, provisional",medium,
+nov2021-3h-16-whole,nov2021-3h-16,whole question,,4,0,A07,"inherited-from-question, provisional",medium,
+nov2021-3h-17-whole,nov2021-3h-17,whole question,,4,0,R02,"inherited-from-question, provisional",high,
+nov2021-3h-18-whole,nov2021-3h-18,whole question,,4,0,G13,"inherited-from-question, provisional",medium,
+nov2021-3h-19-whole,nov2021-3h-19,whole question,,3,0,R06,"inherited-from-question, provisional",medium,
+nov2021-3h-20-whole,nov2021-3h-20,whole question,,2,0,P01,"inherited-from-question, provisional",medium,
+nov2021-3h-21-stem,nov2021-3h-21,stem (no marks),,0,0,R09,"inherited-from-question, provisional",medium,
+nov2021-3h-21-a,nov2021-3h-21,lettered part,a,3,0,R09,part-level review: confirmed,medium,yes
+nov2021-3h-21-b,nov2021-3h-21,lettered part,b,1,0,R09,part-level review: confirmed,medium,yes
+nov2021-3h-22-whole,nov2021-3h-22,whole question,,3,0,A14,"inherited-from-question, provisional",medium,
+nov2021-3h-23-whole,nov2021-3h-23,whole question,,4,0,G07,"inherited-from-question, provisional",medium,
+nov2022-1h-1-whole,nov2022-1h-1,whole question,,3,0,N02,"inherited-from-question, provisional",high,
+nov2022-1h-2-stem,nov2022-1h-2,stem (no marks),,0,0,N07,"inherited-from-question, provisional",high,
+nov2022-1h-2-a,nov2022-1h-2,lettered part,a,2,0,N07,part-level review: confirmed,high,yes
+nov2022-1h-2-b,nov2022-1h-2,lettered part,b,2,0,N07,part-level review: confirmed,high,yes
+nov2022-1h-3-whole,nov2022-1h-3,whole question,,2,0,N04,"inherited-from-question, provisional",medium,
+nov2022-1h-4-whole,nov2022-1h-4,whole question,,2,0,N01,"inherited-from-question, provisional",medium,
+nov2022-1h-5-whole,nov2022-1h-5,whole question,,2,0,P01,"inherited-from-question, provisional",medium,
+nov2022-1h-6-stem,nov2022-1h-6,stem (no marks),,0,0,R01,"inherited-from-question, provisional",medium,
+nov2022-1h-6-a,nov2022-1h-6,parent of subparts (no marks),a,0,0,R01,part-level review: confirmed,medium,
+nov2022-1h-6-ai,nov2022-1h-6,roman subpart,a(i),2,1,R01,part-level review: confirmed,medium,yes
+nov2022-1h-6-aii,nov2022-1h-6,roman subpart,a(ii),2,1,R01,part-level review: confirmed,medium,yes
+nov2022-1h-6-b,nov2022-1h-6,lettered part,b,2,0,R01,part-level review: confirmed,medium,yes
+nov2022-1h-7-whole,nov2022-1h-7,whole question,,2,0,R05,"inherited-from-question, provisional",medium,
+nov2022-1h-8-whole,nov2022-1h-8,whole question,,2,0,N02,"inherited-from-question, provisional",high,
+nov2022-1h-9-stem,nov2022-1h-9,stem (no marks),,0,0,A10,"inherited-from-question, provisional",medium,
+nov2022-1h-9-a,nov2022-1h-9,lettered part,a,2,0,A10,part-level review: confirmed,medium,yes
+nov2022-1h-9-b,nov2022-1h-9,lettered part,b,2,0,A10,part-level review: confirmed,medium,yes
+nov2022-1h-10-stem,nov2022-1h-10,stem (no marks),,0,0,P05,"inherited-from-question, provisional",medium,
+nov2022-1h-10-a,nov2022-1h-10,lettered part,a,2,0,P05,part-level review: confirmed,medium,yes
+nov2022-1h-10-b,nov2022-1h-10,lettered part,b,2,0,P05,part-level review: confirmed,medium,yes
+nov2022-1h-11-whole,nov2022-1h-11,whole question,,2,0,G11,"inherited-from-question, provisional",high,
+nov2022-1h-12-whole,nov2022-1h-12,whole question,,4,0,A07,"inherited-from-question, provisional",medium,
+nov2022-1h-13-whole,nov2022-1h-13,whole question,,3,0,R02,"inherited-from-question, provisional",medium,
+nov2022-1h-14-whole,nov2022-1h-14,whole question,,3,0,S05,"inherited-from-question, provisional",high,
+nov2022-1h-15-whole,nov2022-1h-15,whole question,,3,0,G03,"inherited-from-question, provisional",medium,
+nov2022-1h-16-stem,nov2022-1h-16,stem (no marks),,0,0,A15,"inherited-from-question, provisional",high,
+nov2022-1h-16-a,nov2022-1h-16,lettered part,a,3,0,A15,part-level review: confirmed,high,yes
+nov2022-1h-16-b,nov2022-1h-16,lettered part,b,1,0,A15,part-level review: confirmed,high,yes
+nov2022-1h-17-whole,nov2022-1h-17,whole question,,2,0,N04,"inherited-from-question, provisional",medium,
+nov2022-1h-18-whole,nov2022-1h-18,whole question,,3,0,G09,"inherited-from-question, provisional",high,
+nov2022-1h-19-whole,nov2022-1h-19,whole question,,5,0,A06,"inherited-from-question, provisional",medium,
+nov2022-1h-20-whole,nov2022-1h-20,whole question,,3,0,P02,"inherited-from-question, provisional",high,
+nov2022-1h-21-whole,nov2022-1h-21,whole question,,2,0,A10,"inherited-from-question, provisional",medium,
+nov2022-1h-22-whole,nov2022-1h-22,whole question,,4,0,G07,"inherited-from-question, provisional",high,
+nov2022-1h-23-stem,nov2022-1h-23,stem (no marks),,0,0,A12,"inherited-from-question, provisional",high,
+nov2022-1h-23-a,nov2022-1h-23,lettered part,a,2,0,A12,part-level review: confirmed,high,yes
+nov2022-1h-23-b,nov2022-1h-23,lettered part,b,3,0,A12,part-level review: confirmed,high,yes
+nov2022-1h-24-stem,nov2022-1h-24,stem (no marks),,0,0,G04,"inherited-from-question, provisional",high,
+nov2022-1h-24-a,nov2022-1h-24,lettered part,a,2,0,G04,part-level review: confirmed,high,yes
+nov2022-1h-24-b,nov2022-1h-24,lettered part,b,4,0,G04,part-level review: confirmed,high,yes
+nov2022-2h-1-stem,nov2022-2h-1,stem (no marks),,0,0,S03,"inherited-from-question, provisional",high,
+nov2022-2h-1-a,nov2022-2h-1,lettered part,a,1,0,S03,part-level review: confirmed,high,yes
+nov2022-2h-1-b,nov2022-2h-1,lettered part,b,1,0,S03,part-level review: confirmed,high,yes
+nov2022-2h-1-c,nov2022-2h-1,lettered part,c,2,0,S03,part-level review: confirmed,high,yes
+nov2022-2h-2-whole,nov2022-2h-2,whole question,,2,0,G14,"inherited-from-question, provisional",high,
+nov2022-2h-3-stem,nov2022-2h-3,stem (no marks),,0,0,A12,"inherited-from-question, provisional",high,
+nov2022-2h-3-a,nov2022-2h-3,lettered part,a,2,0,A12,part-level review: confirmed,high,yes
+nov2022-2h-3-b,nov2022-2h-3,lettered part,b,2,0,A12,part-level review: confirmed,high,yes
+nov2022-2h-4-whole,nov2022-2h-4,whole question,,5,0,G02,"inherited-from-question, provisional",medium,
+nov2022-2h-5-whole,nov2022-2h-5,whole question,,2,0,G06,"inherited-from-question, provisional",medium,
+nov2022-2h-6-whole,nov2022-2h-6,whole question,,3,0,N09,"inherited-from-question, provisional",medium,
+nov2022-2h-7-stem,nov2022-2h-7,stem (no marks),,0,0,A10,"inherited-from-question, provisional",medium,
+nov2022-2h-7-a,nov2022-2h-7,lettered part,a,1,0,A10,part-level review: confirmed,medium,yes
+nov2022-2h-7-b,nov2022-2h-7,lettered part,b,1,0,A10,part-level review: confirmed,medium,yes
+nov2022-2h-7-c,nov2022-2h-7,lettered part,c,2,0,A11,part-level review: overridden,medium,yes
+nov2022-2h-8-whole,nov2022-2h-8,whole question,,3,0,N09,"inherited-from-question, provisional",medium,
+nov2022-2h-9-whole,nov2022-2h-9,whole question,,2,0,A09,"inherited-from-question, provisional",medium,
+nov2022-2h-10-whole,nov2022-2h-10,whole question,,3,0,N09,"inherited-from-question, provisional",medium,
+nov2022-2h-11-whole,nov2022-2h-11,whole question,,3,0,S04,"inherited-from-question, provisional",high,
+nov2022-2h-12-stem,nov2022-2h-12,stem (no marks),,0,0,R06,"inherited-from-question, provisional",medium,
+nov2022-2h-12-a,nov2022-2h-12,lettered part,a,2,0,R06,part-level review: confirmed,medium,yes
+nov2022-2h-12-b,nov2022-2h-12,lettered part,b,1,0,R06,part-level review: confirmed,medium,yes
+nov2022-2h-13-whole,nov2022-2h-13,whole question,,2,0,G05,"inherited-from-question, provisional",high,
+nov2022-2h-14-whole,nov2022-2h-14,whole question,,3,0,N08,"inherited-from-question, provisional",medium,
+nov2022-2h-15-stem,nov2022-2h-15,stem (no marks),,0,0,S06,"inherited-from-question, provisional",high,
+nov2022-2h-15-a,nov2022-2h-15,lettered part,a,3,0,S06,part-level review: confirmed,high,yes
+nov2022-2h-15-b,nov2022-2h-15,lettered part,b,1,0,S06,part-level review: confirmed,high,yes
+nov2022-2h-16-whole,nov2022-2h-16,whole question,,4,0,A08,"inherited-from-question, provisional",high,
+nov2022-2h-17-whole,nov2022-2h-17,whole question,,4,0,G04,"inherited-from-question, provisional",high,
+nov2022-2h-18-whole,nov2022-2h-18,whole question,,2,0,G07,"inherited-from-question, provisional",medium,
+nov2022-2h-19-whole,nov2022-2h-19,whole question,,3,0,A06,"inherited-from-question, provisional",high,
+nov2022-2h-20-whole,nov2022-2h-20,whole question,,4,0,G08,"inherited-from-question, provisional",medium,
+nov2022-2h-21-stem,nov2022-2h-21,stem (no marks),,0,0,R09,"inherited-from-question, provisional",medium,
+nov2022-2h-21-a,nov2022-2h-21,lettered part,a,3,0,R09,part-level review: confirmed,medium,yes
+nov2022-2h-21-b,nov2022-2h-21,lettered part,b,1,0,R09,part-level review: confirmed,medium,yes
+nov2022-2h-22-whole,nov2022-2h-22,whole question,,3,0,A13,"inherited-from-question, provisional",high,
+nov2022-2h-23-whole,nov2022-2h-23,whole question,,5,0,N12,"inherited-from-question, provisional",high,
+nov2022-2h-24-whole,nov2022-2h-24,whole question,,4,0,A17,"inherited-from-question, provisional",high,
+nov2022-3h-1-whole,nov2022-3h-1,whole question,,2,0,A05,"inherited-from-question, provisional",high,
+nov2022-3h-2-whole,nov2022-3h-2,whole question,,1,0,R01,"inherited-from-question, provisional",medium,
+nov2022-3h-3-whole,nov2022-3h-3,whole question,,3,0,S02,"inherited-from-question, provisional",medium,
+nov2022-3h-4-whole,nov2022-3h-4,whole question,,4,0,G04,"inherited-from-question, provisional",high,
+nov2022-3h-5-stem,nov2022-3h-5,stem (no marks),,0,0,R07,"inherited-from-question, provisional",medium,
+nov2022-3h-5-a,nov2022-3h-5,lettered part,a,2,0,R07,part-level review: confirmed,medium,yes
+nov2022-3h-5-b,nov2022-3h-5,lettered part,b,2,0,R07,part-level review: confirmed,medium,yes
+nov2022-3h-6-stem,nov2022-3h-6,stem (no marks),,0,0,P02,"inherited-from-question, provisional",medium,
+nov2022-3h-6-a,nov2022-3h-6,lettered part,a,2,0,P02,part-level review: confirmed,medium,yes
+nov2022-3h-6-b,nov2022-3h-6,lettered part,b,2,0,P02,part-level review: confirmed,medium,yes
+nov2022-3h-7-stem,nov2022-3h-7,stem (no marks),,0,0,N13,"inherited-from-question, provisional",medium,
+nov2022-3h-7-a,nov2022-3h-7,lettered part,a,1,0,N13,part-level review: confirmed,medium,yes
+nov2022-3h-7-b,nov2022-3h-7,lettered part,b,3,0,N13,part-level review: confirmed,medium,yes
+nov2022-3h-8-whole,nov2022-3h-8,whole question,,3,0,S01,"inherited-from-question, provisional",medium,
+nov2022-3h-9-stem,nov2022-3h-9,stem (no marks),,0,0,N06,"inherited-from-question, provisional",high,
+nov2022-3h-9-a,nov2022-3h-9,lettered part,a,1,0,N06,part-level review: confirmed,high,yes
+nov2022-3h-9-b,nov2022-3h-9,lettered part,b,2,0,N06,part-level review: confirmed,high,yes
+nov2022-3h-10-whole,nov2022-3h-10,whole question,,1,0,A03,"inherited-from-question, provisional",medium,
+nov2022-3h-11-whole,nov2022-3h-11,whole question,,2,0,A08,"inherited-from-question, provisional",medium,
+nov2022-3h-12-whole,nov2022-3h-12,whole question,,2,0,N11,"inherited-from-question, provisional",medium,
+nov2022-3h-13-whole,nov2022-3h-13,whole question,,2,0,S04,"inherited-from-question, provisional",medium,
+nov2022-3h-14-stem,nov2022-3h-14,stem (no marks),,0,0,A02,"inherited-from-question, provisional",high,
+nov2022-3h-14-a,nov2022-3h-14,lettered part,a,2,0,A01,part-level review: overridden,high,yes
+nov2022-3h-14-b,nov2022-3h-14,lettered part,b,3,0,A02,part-level review: confirmed,high,yes
+nov2022-3h-15-whole,nov2022-3h-15,whole question,,2,0,N03,"inherited-from-question, provisional",medium,
+nov2022-3h-16-whole,nov2022-3h-16,whole question,,4,0,G09,"inherited-from-question, provisional",high,
+nov2022-3h-17-whole,nov2022-3h-17,whole question,,4,0,R01,"inherited-from-question, provisional",medium,
+nov2022-3h-18-whole,nov2022-3h-18,whole question,,2,0,G11,"inherited-from-question, provisional",high,
+nov2022-3h-19-whole,nov2022-3h-19,whole question,,3,0,P01,"inherited-from-question, provisional",high,
+nov2022-3h-20-whole,nov2022-3h-20,whole question,,3,0,G10,"inherited-from-question, provisional",high,
+nov2022-3h-21-whole,nov2022-3h-21,whole question,,3,0,A18,"inherited-from-question, provisional",medium,
+nov2022-3h-22-whole,nov2022-3h-22,whole question,,3,0,A14,"inherited-from-question, provisional",medium,
+nov2022-3h-23-stem,nov2022-3h-23,stem (no marks),,0,0,A13,"inherited-from-question, provisional",high,
+nov2022-3h-23-a,nov2022-3h-23,lettered part,a,1,0,A13,part-level review: confirmed,high,yes
+nov2022-3h-23-b,nov2022-3h-23,lettered part,b,1,0,A13,part-level review: confirmed,high,yes
+nov2022-3h-24-whole,nov2022-3h-24,whole question,,4,0,G13,"inherited-from-question, provisional",high,
+nov2022-3h-25-whole,nov2022-3h-25,whole question,,5,0,G04,"inherited-from-question, provisional",high,
+nov2022-3h-26-whole,nov2022-3h-26,whole question,,5,0,G07,"inherited-from-question, provisional",medium,
+nov2023-1h-1-whole,nov2023-1h-1,whole question,,3,0,N01,"inherited-from-question, provisional",high,
+nov2023-1h-2-stem,nov2023-1h-2,stem (no marks),,0,0,N04,"inherited-from-question, provisional",medium,
+nov2023-1h-2-a,nov2023-1h-2,parent of subparts (no marks),a,0,0,N04,part-level review: confirmed,medium,
+nov2023-1h-2-ai,nov2023-1h-2,roman subpart,a(i),1,1,N04,part-level review: confirmed,medium,yes
+nov2023-1h-2-aii,nov2023-1h-2,roman subpart,a(ii),1,1,N04,part-level review: confirmed,medium,yes
+nov2023-1h-2-b,nov2023-1h-2,lettered part,b,2,0,N04,part-level review: confirmed,medium,yes
+nov2023-1h-3-stem,nov2023-1h-3,stem (no marks),,0,0,N02,"inherited-from-question, provisional",high,
+nov2023-1h-3-a,nov2023-1h-3,lettered part,a,2,0,N02,part-level review: confirmed,high,yes
+nov2023-1h-3-b,nov2023-1h-3,lettered part,b,2,0,N02,part-level review: confirmed,high,yes
+nov2023-1h-4-stem,nov2023-1h-4,stem (no marks),,0,0,S01,"inherited-from-question, provisional",high,
+nov2023-1h-4-a,nov2023-1h-4,lettered part,a,3,0,S01,part-level review: confirmed,high,yes
+nov2023-1h-4-b,nov2023-1h-4,lettered part,b,1,0,S01,part-level review: confirmed,high,yes
+nov2023-1h-5-whole,nov2023-1h-5,whole question,,2,0,G12,"inherited-from-question, provisional",high,
+nov2023-1h-6-whole,nov2023-1h-6,whole question,,4,0,G01,"inherited-from-question, provisional",high,
+nov2023-1h-7-whole,nov2023-1h-7,whole question,,5,0,A04,"inherited-from-question, provisional",medium,
+nov2023-1h-8-whole,nov2023-1h-8,whole question,,2,0,N09,"inherited-from-question, provisional",medium,
+nov2023-1h-9-stem,nov2023-1h-9,stem (no marks),,0,0,A09,"inherited-from-question, provisional",high,
+nov2023-1h-9-a,nov2023-1h-9,lettered part,a,2,0,A09,part-level review: confirmed,high,yes
+nov2023-1h-9-b,nov2023-1h-9,parent of subparts (no marks),b,0,0,A09,part-level review: confirmed,high,
+nov2023-1h-9-bi,nov2023-1h-9,roman subpart,b(i),1,1,A09,part-level review: confirmed,high,yes
+nov2023-1h-9-bii,nov2023-1h-9,roman subpart,b(ii),1,1,A09,part-level review: confirmed,high,yes
+nov2023-1h-10-whole,nov2023-1h-10,whole question,,3,0,G03,"inherited-from-question, provisional",medium,
+nov2023-1h-11-stem,nov2023-1h-11,stem (no marks),,0,0,S04,"inherited-from-question, provisional",high,
+nov2023-1h-11-a,nov2023-1h-11,parent of subparts (no marks),a,0,0,S04,part-level review: confirmed,high,
+nov2023-1h-11-ai,nov2023-1h-11,roman subpart,a(i),0,1,S04,part-level review: confirmed,high,
+nov2023-1h-11-aii,nov2023-1h-11,roman subpart,a(ii),3,1,S04,part-level review: confirmed,high,yes
+nov2023-1h-11-b,nov2023-1h-11,lettered part,b,2,0,S04,part-level review: confirmed,high,yes
+nov2023-1h-12-whole,nov2023-1h-12,whole question,,3,0,A09,"inherited-from-question, provisional",high,
+nov2023-1h-13-whole,nov2023-1h-13,whole question,,3,0,R07,"inherited-from-question, provisional",medium,
+nov2023-1h-14-whole,nov2023-1h-14,whole question,,3,0,N04,"inherited-from-question, provisional",high,
+nov2023-1h-15-whole,nov2023-1h-15,whole question,,3,0,R09,"inherited-from-question, provisional",medium,
+nov2023-1h-16-stem,nov2023-1h-16,stem (no marks),,0,0,R06,"inherited-from-question, provisional",high,
+nov2023-1h-16-a,nov2023-1h-16,lettered part,a,3,0,R06,part-level review: confirmed,high,yes
+nov2023-1h-16-b,nov2023-1h-16,lettered part,b,1,0,R06,part-level review: confirmed,high,yes
+nov2023-1h-17-stem,nov2023-1h-17,stem (no marks),,0,0,A02,"inherited-from-question, provisional",high,
+nov2023-1h-17-a,nov2023-1h-17,lettered part,a,2,0,A02,part-level review: confirmed,high,yes
+nov2023-1h-17-b,nov2023-1h-17,lettered part,b,2,0,A08,part-level review: overridden,high,yes
+nov2023-1h-18-whole,nov2023-1h-18,whole question,,4,0,P02,"inherited-from-question, provisional",medium,
+nov2023-1h-19-stem,nov2023-1h-19,stem (no marks),,0,0,A10,"inherited-from-question, provisional",medium,
+nov2023-1h-19-a,nov2023-1h-19,lettered part,a,2,0,A10,part-level review: confirmed,medium,yes
+nov2023-1h-19-b,nov2023-1h-19,lettered part,b,1,0,A10,part-level review: confirmed,medium,yes
+nov2023-1h-20-whole,nov2023-1h-20,whole question,,4,0,G07,"inherited-from-question, provisional",medium,
+nov2023-1h-21-stem,nov2023-1h-21,stem (no marks),,0,0,A17,"inherited-from-question, provisional",medium,
+nov2023-1h-21-a,nov2023-1h-21,lettered part,a,2,0,A17,part-level review: confirmed,medium,yes
+nov2023-1h-21-b,nov2023-1h-21,lettered part,b,3,0,A17,part-level review: confirmed,medium,yes
+nov2023-1h-22-whole,nov2023-1h-22,whole question,,4,0,A12,"inherited-from-question, provisional",medium,
+nov2023-2h-1-stem,nov2023-2h-1,stem (no marks),,0,0,A02,"inherited-from-question, provisional",high,
+nov2023-2h-1-a,nov2023-2h-1,lettered part,a,2,0,A02,part-level review: confirmed,high,yes
+nov2023-2h-1-b,nov2023-2h-1,lettered part,b,2,0,A02,part-level review: confirmed,high,yes
+nov2023-2h-1-c,nov2023-2h-1,lettered part,c,2,0,A05,part-level review: overridden,high,yes
+nov2023-2h-2-whole,nov2023-2h-2,whole question,,4,0,N09,"inherited-from-question, provisional",high,
+nov2023-2h-3-whole,nov2023-2h-3,whole question,,2,0,N09,"inherited-from-question, provisional",medium,
+nov2023-2h-4-whole,nov2023-2h-4,whole question,,3,0,A04,"inherited-from-question, provisional",medium,
+nov2023-2h-5-whole,nov2023-2h-5,whole question,,4,0,R01,"inherited-from-question, provisional",high,
+nov2023-2h-6-whole,nov2023-2h-6,whole question,,2,0,R08,"inherited-from-question, provisional",high,
+nov2023-2h-7-whole,nov2023-2h-7,whole question,,4,0,G04,"inherited-from-question, provisional",high,
+nov2023-2h-8-whole,nov2023-2h-8,whole question,,2,0,N11,"inherited-from-question, provisional",medium,
+nov2023-2h-9-whole,nov2023-2h-9,whole question,,3,0,A02,"inherited-from-question, provisional",high,
+nov2023-2h-10-stem,nov2023-2h-10,stem (no marks),,0,0,P02,"inherited-from-question, provisional",medium,
+nov2023-2h-10-a,nov2023-2h-10,lettered part,a,2,0,P02,part-level review: confirmed,medium,yes
+nov2023-2h-10-b,nov2023-2h-10,lettered part,b,3,0,P02,part-level review: confirmed,medium,yes
+nov2023-2h-11-whole,nov2023-2h-11,whole question,,2,0,R02,"inherited-from-question, provisional",medium,
+nov2023-2h-12-whole,nov2023-2h-12,whole question,,3,0,A09,"inherited-from-question, provisional",medium,
+nov2023-2h-13-whole,nov2023-2h-13,whole question,,3,0,N08,"inherited-from-question, provisional",medium,
+nov2023-2h-14-whole,nov2023-2h-14,whole question,,5,0,R02,"inherited-from-question, provisional",medium,
+nov2023-2h-15-stem,nov2023-2h-15,stem (no marks),,0,0,S05,"inherited-from-question, provisional",medium,
+nov2023-2h-15-a,nov2023-2h-15,lettered part,a,1,0,S05,part-level review: confirmed,medium,yes
+nov2023-2h-15-b,nov2023-2h-15,lettered part,b,2,0,S05,part-level review: confirmed,medium,yes
+nov2023-2h-15-c,nov2023-2h-15,lettered part,c,3,0,S05,part-level review: confirmed,medium,yes
+nov2023-2h-16-whole,nov2023-2h-16,whole question,,4,0,G07,"inherited-from-question, provisional",medium,
+nov2023-2h-17-stem,nov2023-2h-17,stem (no marks),,0,0,A16,"inherited-from-question, provisional",medium,
+nov2023-2h-17-a,nov2023-2h-17,lettered part,a,2,0,A16,part-level review: confirmed,medium,yes
+nov2023-2h-17-b,nov2023-2h-17,lettered part,b,1,0,A16,part-level review: confirmed,medium,yes
+nov2023-2h-17-c,nov2023-2h-17,lettered part,c,3,0,A16,part-level review: confirmed,medium,yes
+nov2023-2h-18-whole,nov2023-2h-18,whole question,,4,0,G13,"inherited-from-question, provisional",medium,
+nov2023-2h-19-stem,nov2023-2h-19,stem (no marks),,0,0,A13,"inherited-from-question, provisional",high,
+nov2023-2h-19-a,nov2023-2h-19,lettered part,a,2,0,A13,part-level review: confirmed,high,yes
+nov2023-2h-19-b,nov2023-2h-19,lettered part,b,2,0,A13,part-level review: confirmed,high,yes
+nov2023-2h-20-whole,nov2023-2h-20,whole question,,4,0,A14,"inherited-from-question, provisional",medium,
+nov2023-2h-21-whole,nov2023-2h-21,whole question,,4,0,P03,"inherited-from-question, provisional",medium,
+nov2023-3h-1-stem,nov2023-3h-1,stem (no marks),,0,0,N06,"inherited-from-question, provisional",medium,
+nov2023-3h-1-a,nov2023-3h-1,lettered part,a,1,0,N06,part-level review: confirmed,medium,yes
+nov2023-3h-1-b,nov2023-3h-1,lettered part,b,1,0,N06,part-level review: confirmed,medium,yes
+nov2023-3h-2-whole,nov2023-3h-2,whole question,,2,0,P05,"inherited-from-question, provisional",medium,
+nov2023-3h-3-stem,nov2023-3h-3,stem (no marks),,0,0,S01,"inherited-from-question, provisional",high,
+nov2023-3h-3-a,nov2023-3h-3,lettered part,a,3,0,S01,part-level review: confirmed,high,yes
+nov2023-3h-3-b,nov2023-3h-3,lettered part,b,1,0,S01,part-level review: confirmed,high,yes
+nov2023-3h-4-stem,nov2023-3h-4,stem (no marks),,0,0,A08,"inherited-from-question, provisional",high,
+nov2023-3h-4-a,nov2023-3h-4,lettered part,a,2,0,A08,part-level review: confirmed,high,yes
+nov2023-3h-4-b,nov2023-3h-4,lettered part,b,2,0,A08,part-level review: confirmed,high,yes
+nov2023-3h-5-whole,nov2023-3h-5,whole question,,3,0,N02,"inherited-from-question, provisional",medium,
+nov2023-3h-6-whole,nov2023-3h-6,whole question,,2,0,R02,"inherited-from-question, provisional",medium,
+nov2023-3h-7-whole,nov2023-3h-7,whole question,,3,0,R04,"inherited-from-question, provisional",high,
+nov2023-3h-8-whole,nov2023-3h-8,whole question,,3,0,R05,"inherited-from-question, provisional",medium,
+nov2023-3h-9-whole,nov2023-3h-9,whole question,,3,0,A09,"inherited-from-question, provisional",medium,
+nov2023-3h-10-whole,nov2023-3h-10,whole question,,3,0,A05,"inherited-from-question, provisional",medium,
+nov2023-3h-11-whole,nov2023-3h-11,whole question,,3,0,R07,"inherited-from-question, provisional",high,
+nov2023-3h-12-whole,nov2023-3h-12,whole question,,2,0,G03,"inherited-from-question, provisional",high,
+nov2023-3h-13-stem,nov2023-3h-13,stem (no marks),,0,0,S04,"inherited-from-question, provisional",medium,
+nov2023-3h-13-a,nov2023-3h-13,lettered part,a,2,0,S04,part-level review: confirmed,medium,yes
+nov2023-3h-13-b,nov2023-3h-13,lettered part,b,1,0,S04,part-level review: confirmed,medium,yes
+nov2023-3h-13-c,nov2023-3h-13,lettered part,c,2,0,S04,part-level review: confirmed,medium,yes
+nov2023-3h-13-d,nov2023-3h-13,lettered part,d,1,0,S04,part-level review: confirmed,medium,yes
+nov2023-3h-14-whole,nov2023-3h-14,whole question,,2,0,A12,"inherited-from-question, provisional",high,
+nov2023-3h-15-whole,nov2023-3h-15,whole question,,2,0,G10,"inherited-from-question, provisional",medium,
+nov2023-3h-16-whole,nov2023-3h-16,whole question,,3,0,N03,"inherited-from-question, provisional",medium,
+nov2023-3h-17-stem,nov2023-3h-17,stem (no marks),,0,0,A06,"inherited-from-question, provisional",high,
+nov2023-3h-17-a,nov2023-3h-17,parent of subparts (no marks),a,0,0,A06,part-level review: confirmed,high,
+nov2023-3h-17-ai,nov2023-3h-17,roman subpart,a(i),2,1,A06,part-level review: confirmed,high,yes
+nov2023-3h-17-aii,nov2023-3h-17,roman subpart,a(ii),1,1,A06,part-level review: confirmed,high,yes
+nov2023-3h-17-b,nov2023-3h-17,lettered part,b,3,0,A06,part-level review: confirmed,high,yes
+nov2023-3h-17-c,nov2023-3h-17,lettered part,c,1,0,A06,part-level review: confirmed,high,yes
+nov2023-3h-18-stem,nov2023-3h-18,stem (no marks),,0,0,G11,"inherited-from-question, provisional",high,
+nov2023-3h-18-a,nov2023-3h-18,lettered part,a,2,0,G11,part-level review: confirmed,high,yes
+nov2023-3h-18-b,nov2023-3h-18,lettered part,b,1,0,G11,part-level review: confirmed,high,yes
+nov2023-3h-19-whole,nov2023-3h-19,whole question,,4,0,G04,"inherited-from-question, provisional",high,
+nov2023-3h-20-stem,nov2023-3h-20,stem (no marks),,0,0,A10,"inherited-from-question, provisional",medium,
+nov2023-3h-20-a,nov2023-3h-20,lettered part,a,1,0,A13,part-level review: overridden,medium,yes
+nov2023-3h-20-b,nov2023-3h-20,lettered part,b,2,0,A13,part-level review: overridden,medium,yes
+nov2023-3h-21-whole,nov2023-3h-21,whole question,,4,0,G09,"inherited-from-question, provisional",high,
+nov2023-3h-22-whole,nov2023-3h-22,whole question,,4,0,N12,"inherited-from-question, provisional",high,
+nov2023-3h-23-whole,nov2023-3h-23,whole question,,4,0,R01,"inherited-from-question, provisional",medium,
+nov2023-3h-24-whole,nov2023-3h-24,whole question,,4,0,G08,"inherited-from-question, provisional",medium,
+nov2024-1h-1-whole,nov2024-1h-1,whole question,,3,0,N01,"inherited-from-question, provisional",medium,
+nov2024-1h-2-stem,nov2024-1h-2,stem (no marks),,0,0,P01,"inherited-from-question, provisional",high,
+nov2024-1h-2-a,nov2024-1h-2,lettered part,a,3,0,P01,part-level review: confirmed,high,yes
+nov2024-1h-2-b,nov2024-1h-2,lettered part,b,1,0,P01,part-level review: confirmed,high,yes
+nov2024-1h-3-stem,nov2024-1h-3,stem (no marks),,0,0,N07,"inherited-from-question, provisional",high,
+nov2024-1h-3-a,nov2024-1h-3,lettered part,a,2,0,N07,part-level review: confirmed,high,yes
+nov2024-1h-3-b,nov2024-1h-3,lettered part,b,3,0,N07,part-level review: confirmed,high,yes
+nov2024-1h-4-whole,nov2024-1h-4,whole question,,3,0,G01,"inherited-from-question, provisional",high,
+nov2024-1h-5-stem,nov2024-1h-5,stem (no marks),,0,0,R04,"inherited-from-question, provisional",high,
+nov2024-1h-5-a,nov2024-1h-5,lettered part,a,3,0,R04,part-level review: confirmed,high,yes
+nov2024-1h-5-b,nov2024-1h-5,lettered part,b,1,0,R04,part-level review: confirmed,high,yes
+nov2024-1h-6-whole,nov2024-1h-6,whole question,,4,0,G01,"inherited-from-question, provisional",high,
+nov2024-1h-7-whole,nov2024-1h-7,whole question,,1,0,R09,"inherited-from-question, provisional",medium,
+nov2024-1h-8-whole,nov2024-1h-8,whole question,,3,0,R05,"inherited-from-question, provisional",medium,
+nov2024-1h-9-stem,nov2024-1h-9,stem (no marks),,0,0,S04,"inherited-from-question, provisional",high,
+nov2024-1h-9-a,nov2024-1h-9,lettered part,a,3,0,S04,part-level review: confirmed,high,"yes: checked on scheme page; alternative-method block repeats the marks of (b), counted once"
+nov2024-1h-9-b,nov2024-1h-9,lettered part,b,3,0,S04,part-level review: confirmed,high,"yes: checked on scheme page; alternative-method block repeats the marks of (b), counted once"
+nov2024-1h-10-stem,nov2024-1h-10,stem (no marks),,0,0,N04,"inherited-from-question, provisional",high,
+nov2024-1h-10-a,nov2024-1h-10,lettered part,a,2,0,N04,part-level review: confirmed,high,yes
+nov2024-1h-10-b,nov2024-1h-10,lettered part,b,2,0,N04,part-level review: confirmed,high,yes
+nov2024-1h-11-stem,nov2024-1h-11,stem (no marks),,0,0,A02,"inherited-from-question, provisional",high,
+nov2024-1h-11-a,nov2024-1h-11,lettered part,a,1,0,A02,part-level review: confirmed,high,yes
+nov2024-1h-11-b,nov2024-1h-11,lettered part,b,2,0,A02,part-level review: confirmed,high,yes
+nov2024-1h-11-c,nov2024-1h-11,lettered part,c,2,0,A02,part-level review: confirmed,high,yes
+nov2024-1h-12-whole,nov2024-1h-12,whole question,,4,0,R07,"inherited-from-question, provisional",medium,
+nov2024-1h-13-whole,nov2024-1h-13,whole question,,5,0,G04,"inherited-from-question, provisional",high,
+nov2024-1h-14-whole,nov2024-1h-14,whole question,,3,0,G07,"inherited-from-question, provisional",medium,
+nov2024-1h-15-whole,nov2024-1h-15,whole question,,4,0,G13,"inherited-from-question, provisional",medium,
+nov2024-1h-16-stem,nov2024-1h-16,stem (no marks),,0,0,N05,"inherited-from-question, provisional",high,
+nov2024-1h-16-a,nov2024-1h-16,lettered part,a,2,0,N05,part-level review: confirmed,high,yes
+nov2024-1h-16-b,nov2024-1h-16,lettered part,b,4,0,N05,part-level review: confirmed,high,yes
+nov2024-1h-17-whole,nov2024-1h-17,whole question,,4,0,G09,"inherited-from-question, provisional",high,
+nov2024-1h-18-stem,nov2024-1h-18,stem (no marks),,0,0,A13,"inherited-from-question, provisional",medium,
+nov2024-1h-18-a,nov2024-1h-18,lettered part,a,2,0,A13,part-level review: confirmed,medium,yes
+nov2024-1h-18-b,nov2024-1h-18,lettered part,b,2,0,A13,part-level review: confirmed,medium,yes
+nov2024-1h-19-whole,nov2024-1h-19,whole question,,4,0,P02,"inherited-from-question, provisional",medium,
+nov2024-1h-20-whole,nov2024-1h-20,whole question,,4,0,A17,"inherited-from-question, provisional",medium,
+nov2024-2h-1-whole,nov2024-2h-1,whole question,,2,0,N11,"inherited-from-question, provisional",medium,
+nov2024-2h-2-stem,nov2024-2h-2,stem (no marks),,0,0,S03,"inherited-from-question, provisional",high,
+nov2024-2h-2-m,nov2024-2h-2,lettered part,m,0,0,S03,part-level review: confirmed,high,
+nov2024-2h-2-a,nov2024-2h-2,lettered part,a,1,0,S03,part-level review: confirmed,high,yes
+nov2024-2h-2-b,nov2024-2h-2,lettered part,b,1,0,S03,part-level review: confirmed,high,yes
+nov2024-2h-2-c,nov2024-2h-2,lettered part,c,1,0,S03,part-level review: confirmed,high,yes
+nov2024-2h-3-whole,nov2024-2h-3,whole question,,3,0,N13,"inherited-from-question, provisional",medium,
+nov2024-2h-4-whole,nov2024-2h-4,whole question,,2,0,P03,"inherited-from-question, provisional",high,
+nov2024-2h-5-stem,nov2024-2h-5,stem (no marks),,0,0,A10,"inherited-from-question, provisional",medium,
+nov2024-2h-5-a,nov2024-2h-5,lettered part,a,2,0,A10,part-level review: confirmed,medium,yes
+nov2024-2h-5-b,nov2024-2h-5,lettered part,b,2,0,A10,part-level review: confirmed,medium,yes
+nov2024-2h-6-whole,nov2024-2h-6,whole question,,4,0,N09,"inherited-from-question, provisional",high,
+nov2024-2h-7-whole,nov2024-2h-7,whole question,,5,0,G02,"inherited-from-question, provisional",high,
+nov2024-2h-8-whole,nov2024-2h-8,whole question,,2,0,N06,"inherited-from-question, provisional",high,
+nov2024-2h-9-whole,nov2024-2h-9,whole question,,3,0,G01,"inherited-from-question, provisional",medium,
+nov2024-2h-10-whole,nov2024-2h-10,whole question,,4,0,A07,"inherited-from-question, provisional",medium,
+nov2024-2h-11-whole,nov2024-2h-11,whole question,,2,0,G11,"inherited-from-question, provisional",high,
+nov2024-2h-12-whole,nov2024-2h-12,whole question,,5,0,G04,"inherited-from-question, provisional",high,
+nov2024-2h-13-stem,nov2024-2h-13,stem (no marks),,0,0,R02,"inherited-from-question, provisional",medium,
+nov2024-2h-13-a,nov2024-2h-13,lettered part,a,1,0,R02,part-level review: confirmed,medium,yes
+nov2024-2h-13-b,nov2024-2h-13,parent of subparts (no marks),b,0,0,R02,part-level review: confirmed,medium,
+nov2024-2h-13-bi,nov2024-2h-13,roman subpart,b(i),3,1,R02,part-level review: confirmed,medium,yes
+nov2024-2h-13-bii,nov2024-2h-13,roman subpart,b(ii),1,1,R02,part-level review: confirmed,medium,yes
+nov2024-2h-14-whole,nov2024-2h-14,whole question,,2,0,N03,"inherited-from-question, provisional",medium,
+nov2024-2h-15-stem,nov2024-2h-15,stem (no marks),,0,0,A12,"inherited-from-question, provisional",high,
+nov2024-2h-15-a,nov2024-2h-15,lettered part,a,3,0,A12,part-level review: confirmed,high,yes
+nov2024-2h-15-b,nov2024-2h-15,lettered part,b,3,0,A12,part-level review: confirmed,high,yes
+nov2024-2h-16-whole,nov2024-2h-16,whole question,,4,0,S05,"inherited-from-question, provisional",high,
+nov2024-2h-17-whole,nov2024-2h-17,whole question,,3,0,A14,"inherited-from-question, provisional",medium,
+nov2024-2h-18-whole,nov2024-2h-18,whole question,,3,0,G09,"inherited-from-question, provisional",medium,
+nov2024-2h-19-whole,nov2024-2h-19,whole question,,5,0,N12,"inherited-from-question, provisional",high,
+nov2024-2h-20-whole,nov2024-2h-20,whole question,,3,0,G08,"inherited-from-question, provisional",medium,
+nov2024-2h-21-whole,nov2024-2h-21,whole question,,5,0,G05,"inherited-from-question, provisional",medium,
+nov2024-2h-22-whole,nov2024-2h-22,whole question,,5,0,P02,"inherited-from-question, provisional",medium,
+nov2024-3h-1-whole,nov2024-3h-1,whole question,,2,0,S04,"inherited-from-question, provisional",medium,
+nov2024-3h-2-stem,nov2024-3h-2,stem (no marks),,0,0,N06,"inherited-from-question, provisional",medium,
+nov2024-3h-2-a,nov2024-3h-2,lettered part,a,1,0,N06,part-level review: confirmed,medium,yes
+nov2024-3h-2-b,nov2024-3h-2,lettered part,b,1,0,N06,part-level review: confirmed,medium,yes
+nov2024-3h-3-whole,nov2024-3h-3,whole question,,2,0,G12,"inherited-from-question, provisional",high,
+nov2024-3h-4-stem,nov2024-3h-4,stem (no marks),,0,0,P02,"inherited-from-question, provisional",high,
+nov2024-3h-4-a,nov2024-3h-4,lettered part,a,2,0,P02,part-level review: confirmed,high,yes
+nov2024-3h-4-b,nov2024-3h-4,lettered part,b,2,0,P02,part-level review: confirmed,high,yes
+nov2024-3h-5-whole,nov2024-3h-5,whole question,,5,0,N09,"inherited-from-question, provisional",high,
+nov2024-3h-6-whole,nov2024-3h-6,whole question,,4,0,S01,"inherited-from-question, provisional",high,
+nov2024-3h-7-whole,nov2024-3h-7,whole question,,2,0,N11,"inherited-from-question, provisional",medium,
+nov2024-3h-8-whole,nov2024-3h-8,whole question,,2,0,G06,"inherited-from-question, provisional",medium,
+nov2024-3h-9-stem,nov2024-3h-9,stem (no marks),,0,0,A01,"inherited-from-question, provisional",medium,
+nov2024-3h-9-a,nov2024-3h-9,lettered part,a,2,0,A01,part-level review: confirmed,medium,yes
+nov2024-3h-9-b,nov2024-3h-9,lettered part,b,1,0,A01,part-level review: confirmed,medium,yes
+nov2024-3h-10-whole,nov2024-3h-10,whole question,,2,0,N09,"inherited-from-question, provisional",medium,
+nov2024-3h-11-whole,nov2024-3h-11,whole question,,3,0,G03,"inherited-from-question, provisional",high,
+nov2024-3h-12-stem,nov2024-3h-12,stem (no marks),,0,0,N09,"inherited-from-question, provisional",high,
+nov2024-3h-12-a,nov2024-3h-12,lettered part,a,3,0,N09,part-level review: confirmed,high,yes
+nov2024-3h-12-b,nov2024-3h-12,lettered part,b,3,0,N09,part-level review: confirmed,high,yes
+nov2024-3h-13-whole,nov2024-3h-13,whole question,,3,0,G02,"inherited-from-question, provisional",high,
+nov2024-3h-14-whole,nov2024-3h-14,whole question,,3,0,N08,"inherited-from-question, provisional",medium,
+nov2024-3h-15-whole,nov2024-3h-15,whole question,,4,0,A05,"inherited-from-question, provisional",medium,
+nov2024-3h-16-whole,nov2024-3h-16,whole question,,5,0,A09,"inherited-from-question, provisional",medium,
+nov2024-3h-17-whole,nov2024-3h-17,whole question,,4,0,G07,"inherited-from-question, provisional",medium,
+nov2024-3h-18-stem,nov2024-3h-18,stem (no marks),,0,0,S06,"inherited-from-question, provisional",medium,
+nov2024-3h-18-a,nov2024-3h-18,lettered part,a,3,0,S06,part-level review: confirmed,medium,yes
+nov2024-3h-18-b,nov2024-3h-18,lettered part,b,1,0,S06,part-level review: confirmed,medium,yes
+nov2024-3h-19-whole,nov2024-3h-19,whole question,,4,0,G04,"inherited-from-question, provisional",high,
+nov2024-3h-20-whole,nov2024-3h-20,whole question,,4,0,A07,"inherited-from-question, provisional",medium,
+nov2024-3h-21-stem,nov2024-3h-21,stem (no marks),,0,0,A13,"inherited-from-question, provisional",medium,
+nov2024-3h-21-a,nov2024-3h-21,lettered part,a,1,0,A13,part-level review: confirmed,medium,yes
+nov2024-3h-21-b,nov2024-3h-21,lettered part,b,3,0,A13,part-level review: confirmed,medium,yes
+nov2024-3h-22-whole,nov2024-3h-22,whole question,,3,0,R09,"inherited-from-question, provisional",medium,
+nov2024-3h-23-whole,nov2024-3h-23,whole question,,5,0,A10,"inherited-from-question, provisional",high,

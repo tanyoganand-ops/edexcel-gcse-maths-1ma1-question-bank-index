@@ -1,0 +1,570 @@
+pattern,question_id,match,marks,primary_topic
+Solve linear equations,jun2022-3h-3,narrow,5,A04
+Solve linear equations,jun2023-2h-5,narrow,4,A04
+Solve linear equations,jun2025-2h-10,narrow,2,A04
+Solve linear equations,nov2019-3h-10,narrow,4,A04
+Solve linear equations,nov2023-1h-7,broad,5,A04
+Solve linear equations,nov2023-2h-4,narrow,3,A04
+Solve quadratics by factorising or formula,jun2019-1h-17,broad,4,A06
+Solve quadratics by factorising or formula,jun2022-1h-19,broad,4,A06
+Solve quadratics by factorising or formula,nov2019-1h-14,broad,4,A06
+Solve quadratics by factorising or formula,nov2020-2h-14,broad,4,A06
+Solve quadratics by factorising or formula,nov2021-1h-8,narrow,3,A06
+Solve quadratics by factorising or formula,nov2022-1h-19,broad,5,A06
+Solve quadratics by factorising or formula,nov2022-2h-19,broad,3,A06
+Solve quadratics by factorising or formula,nov2023-3h-17,broad,7,A06
+Complete the square and turning point,jun2019-1h-17,broad,4,A06
+Complete the square and turning point,jun2019-1h-19,narrow,3,A18
+Complete the square and turning point,jun2022-1h-19,broad,4,A06
+Complete the square and turning point,jun2024-2h-20,narrow,3,A18
+Complete the square and turning point,nov2019-1h-14,broad,4,A06
+Complete the square and turning point,nov2020-2h-14,broad,4,A06
+Complete the square and turning point,nov2021-1h-8,broad,3,A06
+Complete the square and turning point,nov2021-1h-22,narrow,4,A18
+Complete the square and turning point,nov2022-1h-19,broad,5,A06
+Complete the square and turning point,nov2022-2h-19,broad,3,A06
+Complete the square and turning point,nov2022-3h-21,narrow,3,A18
+Complete the square and turning point,nov2023-3h-17,narrow,7,A06
+Simultaneous equations (linear or linear-quadratic),jun2019-3h-20,broad,5,A07
+Simultaneous equations (linear or linear-quadratic),jun2022-3h-22,broad,5,A07
+Simultaneous equations (linear or linear-quadratic),jun2023-1h-9,narrow,1,A07
+Simultaneous equations (linear or linear-quadratic),jun2023-2h-11,broad,4,A07
+Simultaneous equations (linear or linear-quadratic),jun2024-1h-10,narrow,4,A07
+Simultaneous equations (linear or linear-quadratic),jun2025-3h-21,narrow,5,A07
+Simultaneous equations (linear or linear-quadratic),nov2020-3h-6,broad,3,A07
+Simultaneous equations (linear or linear-quadratic),nov2021-3h-16,broad,4,A07
+Simultaneous equations (linear or linear-quadratic),nov2022-1h-12,narrow,4,A07
+Simultaneous equations (linear or linear-quadratic),nov2024-2h-10,narrow,4,A07
+Simultaneous equations (linear or linear-quadratic),nov2024-3h-20,broad,4,A07
+Rearrange formulae,jun2019-2h-15,narrow,3,A05
+Rearrange formulae,jun2022-3h-2,narrow,4,A05
+Rearrange formulae,jun2023-1h-17,narrow,4,A05
+Rearrange formulae,jun2025-3h-2,broad,3,A05
+Rearrange formulae,nov2019-1h-12,broad,1,A05
+Rearrange formulae,nov2019-2h-10,narrow,2,A05
+Rearrange formulae,nov2020-1h-17,narrow,4,A05
+Rearrange formulae,nov2022-3h-1,narrow,2,A05
+Rearrange formulae,nov2023-3h-10,narrow,3,A05
+Rearrange formulae,nov2024-3h-15,narrow,4,A05
+Inequalities and regions,jun2019-2h-1,narrow,5,A08
+Inequalities and regions,jun2022-1h-1,narrow,2,A08
+Inequalities and regions,jun2022-2h-22,narrow,5,A08
+Inequalities and regions,jun2023-1h-24,narrow,5,A08
+Inequalities and regions,jun2023-2h-4,narrow,6,A08
+Inequalities and regions,jun2024-2h-13,narrow,3,A08
+Inequalities and regions,jun2024-2h-16,narrow,2,A08
+Inequalities and regions,jun2025-1h-7,narrow,6,A08
+Inequalities and regions,jun2025-2h-15,narrow,5,A08
+Inequalities and regions,jun2025-2h-21,narrow,2,A08
+Inequalities and regions,nov2019-2h-23,broad,6,A08
+Inequalities and regions,nov2020-3h-13,narrow,5,A08
+Inequalities and regions,nov2021-1h-17,narrow,3,A08
+Inequalities and regions,nov2021-2h-1,narrow,3,A08
+Inequalities and regions,nov2022-2h-16,narrow,4,A08
+Inequalities and regions,nov2022-3h-11,narrow,2,A08
+Inequalities and regions,nov2023-3h-4,narrow,4,A08
+Linear sequences and nth term,jun2019-3h-16,narrow,3,A12
+Linear sequences and nth term,jun2022-3h-20,broad,4,A12
+Linear sequences and nth term,jun2023-2h-15,broad,3,A12
+Linear sequences and nth term,jun2024-1h-1,narrow,2,A12
+Linear sequences and nth term,jun2024-3h-17,broad,3,A12
+Linear sequences and nth term,jun2024-3h-20,narrow,7,A12
+Linear sequences and nth term,nov2019-2h-6,narrow,3,A12
+Linear sequences and nth term,nov2019-3h-20,broad,2,A12
+Linear sequences and nth term,nov2020-1h-1,narrow,2,A12
+Linear sequences and nth term,nov2020-2h-16,narrow,3,A12
+Linear sequences and nth term,nov2020-2h-19,broad,4,A12
+Linear sequences and nth term,nov2021-3h-5,narrow,3,A12
+Linear sequences and nth term,nov2022-1h-23,narrow,5,A12
+Linear sequences and nth term,nov2022-2h-3,narrow,4,A12
+Linear sequences and nth term,nov2023-1h-22,narrow,4,A12
+Linear sequences and nth term,nov2023-3h-14,narrow,2,A12
+Linear sequences and nth term,nov2024-2h-15,narrow,6,A12
+Quadratic sequences,jun2019-3h-16,narrow,3,A12
+Quadratic sequences,jun2022-3h-20,broad,4,A12
+Quadratic sequences,jun2023-2h-15,narrow,3,A12
+Quadratic sequences,jun2024-1h-1,broad,2,A12
+Quadratic sequences,jun2024-3h-17,broad,3,A12
+Quadratic sequences,jun2024-3h-20,broad,7,A12
+Quadratic sequences,nov2019-2h-6,narrow,3,A12
+Quadratic sequences,nov2019-3h-20,narrow,2,A12
+Quadratic sequences,nov2020-1h-1,broad,2,A12
+Quadratic sequences,nov2020-2h-16,narrow,3,A12
+Quadratic sequences,nov2020-2h-19,broad,4,A12
+Quadratic sequences,nov2021-3h-5,broad,3,A12
+Quadratic sequences,nov2022-1h-23,broad,5,A12
+Quadratic sequences,nov2022-2h-3,broad,4,A12
+Quadratic sequences,nov2023-1h-22,broad,4,A12
+Quadratic sequences,nov2023-3h-14,narrow,2,A12
+Quadratic sequences,nov2024-2h-15,narrow,6,A12
+Iteration,jun2023-2h-17,narrow,4,A16
+Iteration,nov2021-2h-16,narrow,4,A16
+Iteration,nov2023-2h-17,narrow,6,A16
+Algebraic proof,jun2019-1h-13,narrow,2,A15
+Algebraic proof,jun2023-2h-18,narrow,3,A15
+Algebraic proof,jun2023-3h-13,broad,3,A15
+Algebraic proof,jun2023-3h-15,broad,3,A15
+Algebraic proof,jun2024-3h-10,broad,3,A15
+Algebraic proof,jun2025-1h-10,broad,3,A15
+Algebraic proof,nov2019-3h-15,broad,3,A15
+Algebraic proof,nov2020-3h-15,broad,2,A15
+Algebraic proof,nov2021-1h-15,broad,3,A15
+Algebraic proof,nov2022-1h-16,narrow,4,A15
+Functions: composite and inverse,jun2019-1h-21,narrow,7,A13
+Functions: composite and inverse,jun2022-2h-19,narrow,4,A13
+Functions: composite and inverse,jun2022-2h-21,broad,3,A13
+Functions: composite and inverse,jun2023-1h-20,narrow,5,A13
+Functions: composite and inverse,jun2023-2h-21,broad,2,A13
+Functions: composite and inverse,jun2024-2h-21,broad,2,A13
+Functions: composite and inverse,jun2024-3h-16,narrow,5,A13
+Functions: composite and inverse,jun2025-1h-17,narrow,5,A13
+Functions: composite and inverse,nov2019-1h-18,narrow,6,A13
+Functions: composite and inverse,nov2019-1h-20,broad,3,A13
+Functions: composite and inverse,nov2020-1h-19,narrow,5,A13
+Functions: composite and inverse,nov2020-2h-21,broad,4,A13
+Functions: composite and inverse,nov2021-1h-21,narrow,6,A13
+Functions: composite and inverse,nov2022-2h-22,narrow,3,A13
+Functions: composite and inverse,nov2022-3h-23,broad,2,A13
+Functions: composite and inverse,nov2023-2h-19,narrow,4,A13
+Functions: composite and inverse,nov2024-1h-18,broad,4,A13
+Functions: composite and inverse,nov2024-3h-21,narrow,4,A13
+Algebraic fractions,jun2019-2h-13,narrow,4,A14
+Algebraic fractions,jun2022-3h-19,narrow,4,A14
+Algebraic fractions,jun2023-2h-14,broad,3,A14
+Algebraic fractions,jun2023-3h-21,broad,4,A14
+Algebraic fractions,jun2025-3h-17,narrow,3,A14
+Algebraic fractions,nov2019-1h-13,narrow,3,A14
+Algebraic fractions,nov2019-3h-22,narrow,4,A14
+Algebraic fractions,nov2020-3h-12,narrow,6,A14
+Algebraic fractions,nov2021-3h-22,narrow,3,A14
+Algebraic fractions,nov2022-3h-22,narrow,3,A14
+Algebraic fractions,nov2023-2h-20,narrow,4,A14
+Algebraic fractions,nov2024-2h-17,narrow,3,A14
+Straight-line graphs and equations,jun2019-2h-2,narrow,3,A09
+Straight-line graphs and equations,jun2019-2h-16,narrow,3,A09
+Straight-line graphs and equations,jun2022-2h-5,broad,4,A09
+Straight-line graphs and equations,jun2022-2h-12,narrow,2,A09
+Straight-line graphs and equations,jun2022-3h-8,narrow,3,A09
+Straight-line graphs and equations,jun2023-1h-15,narrow,3,A09
+Straight-line graphs and equations,jun2024-1h-6,narrow,4,A09
+Straight-line graphs and equations,jun2025-2h-20,narrow,5,A09
+Straight-line graphs and equations,jun2025-3h-7,broad,3,A09
+Straight-line graphs and equations,nov2019-2h-25,narrow,5,A09
+Straight-line graphs and equations,nov2020-1h-15,narrow,3,A09
+Straight-line graphs and equations,nov2020-2h-12,narrow,3,A09
+Straight-line graphs and equations,nov2021-2h-11,broad,5,A09
+Straight-line graphs and equations,nov2022-2h-9,narrow,2,A09
+Straight-line graphs and equations,nov2023-1h-9,broad,4,A09
+Straight-line graphs and equations,nov2023-1h-12,narrow,3,A09
+Straight-line graphs and equations,nov2023-2h-12,broad,3,A09
+Straight-line graphs and equations,nov2023-3h-9,narrow,3,A09
+Straight-line graphs and equations,nov2024-3h-16,narrow,5,A09
+Percentage change and reverse percentages,jun2019-3h-2,broad,3,N09
+Percentage change and reverse percentages,jun2019-3h-10,narrow,3,N09
+Percentage change and reverse percentages,jun2022-2h-6,narrow,3,N09
+Percentage change and reverse percentages,jun2022-3h-10,narrow,3,N09
+Percentage change and reverse percentages,jun2023-1h-7,narrow,2,N09
+Percentage change and reverse percentages,jun2023-2h-6,narrow,3,N09
+Percentage change and reverse percentages,jun2023-2h-8,broad,4,N09
+Percentage change and reverse percentages,jun2023-3h-2,broad,5,N09
+Percentage change and reverse percentages,jun2023-3h-9,narrow,2,N09
+Percentage change and reverse percentages,jun2024-1h-9,narrow,1,N09
+Percentage change and reverse percentages,jun2024-3h-4,narrow,4,N09
+Percentage change and reverse percentages,jun2024-3h-14,broad,4,N09
+Percentage change and reverse percentages,jun2025-3h-3,narrow,3,N09
+Percentage change and reverse percentages,jun2025-3h-12,narrow,4,N09
+Percentage change and reverse percentages,nov2019-2h-13,broad,3,N09
+Percentage change and reverse percentages,nov2020-1h-5,narrow,3,N09
+Percentage change and reverse percentages,nov2020-2h-8,narrow,5,N09
+Percentage change and reverse percentages,nov2021-1h-4,narrow,4,N09
+Percentage change and reverse percentages,nov2021-2h-10,broad,4,N09
+Percentage change and reverse percentages,nov2022-2h-6,broad,3,N09
+Percentage change and reverse percentages,nov2022-2h-8,narrow,3,N09
+Percentage change and reverse percentages,nov2022-2h-10,narrow,3,N09
+Percentage change and reverse percentages,nov2023-1h-8,narrow,2,N09
+Percentage change and reverse percentages,nov2023-2h-2,narrow,4,N09
+Percentage change and reverse percentages,nov2023-2h-3,broad,2,N09
+Percentage change and reverse percentages,nov2024-2h-6,narrow,4,N09
+Percentage change and reverse percentages,nov2024-3h-5,narrow,5,N09
+Percentage change and reverse percentages,nov2024-3h-10,narrow,2,N09
+Percentage change and reverse percentages,nov2024-3h-12,broad,6,N09
+Compound interest and growth/decay,jun2019-3h-2,narrow,3,N09
+Compound interest and growth/decay,jun2019-3h-10,narrow,3,N09
+Compound interest and growth/decay,jun2022-2h-6,broad,3,N09
+Compound interest and growth/decay,jun2022-3h-10,broad,3,N09
+Compound interest and growth/decay,jun2023-1h-7,broad,2,N09
+Compound interest and growth/decay,jun2023-2h-6,broad,3,N09
+Compound interest and growth/decay,jun2023-2h-8,narrow,4,N09
+Compound interest and growth/decay,jun2023-3h-2,broad,5,N09
+Compound interest and growth/decay,jun2023-3h-9,broad,2,N09
+Compound interest and growth/decay,jun2024-1h-9,broad,1,N09
+Compound interest and growth/decay,jun2024-3h-4,narrow,4,N09
+Compound interest and growth/decay,jun2024-3h-14,narrow,4,N09
+Compound interest and growth/decay,jun2025-2h-18,narrow,3,R06
+Compound interest and growth/decay,jun2025-3h-3,broad,3,N09
+Compound interest and growth/decay,jun2025-3h-12,broad,4,N09
+Compound interest and growth/decay,nov2019-2h-13,narrow,3,N09
+Compound interest and growth/decay,nov2019-2h-22,narrow,4,R06
+Compound interest and growth/decay,nov2020-1h-5,broad,3,N09
+Compound interest and growth/decay,nov2020-2h-8,broad,5,N09
+Compound interest and growth/decay,nov2021-1h-4,broad,4,N09
+Compound interest and growth/decay,nov2021-2h-10,narrow,4,N09
+Compound interest and growth/decay,nov2021-3h-19,narrow,3,R06
+Compound interest and growth/decay,nov2022-2h-6,narrow,3,N09
+Compound interest and growth/decay,nov2022-2h-8,broad,3,N09
+Compound interest and growth/decay,nov2022-2h-10,broad,3,N09
+Compound interest and growth/decay,nov2022-2h-12,narrow,3,R06
+Compound interest and growth/decay,nov2023-1h-8,broad,2,N09
+Compound interest and growth/decay,nov2023-1h-16,broad,4,R06
+Compound interest and growth/decay,nov2023-2h-2,broad,4,N09
+Compound interest and growth/decay,nov2023-2h-3,narrow,2,N09
+Compound interest and growth/decay,nov2024-2h-6,broad,4,N09
+Compound interest and growth/decay,nov2024-3h-5,broad,5,N09
+Compound interest and growth/decay,nov2024-3h-10,broad,2,N09
+Compound interest and growth/decay,nov2024-3h-12,narrow,6,N09
+Ratio sharing,jun2019-1h-6,narrow,4,R01
+Ratio sharing,jun2019-2h-7,narrow,4,R01
+Ratio sharing,jun2019-2h-17,narrow,4,R01
+Ratio sharing,jun2022-1h-3,narrow,5,R01
+Ratio sharing,jun2022-2h-15,broad,4,R01
+Ratio sharing,jun2023-1h-18,narrow,4,R01
+Ratio sharing,jun2023-2h-3,narrow,1,R01
+Ratio sharing,jun2024-1h-7,narrow,5,R01
+Ratio sharing,jun2024-2h-6,narrow,4,R01
+Ratio sharing,jun2025-1h-4,narrow,6,R01
+Ratio sharing,jun2025-2h-2,narrow,3,R01
+Ratio sharing,nov2019-1h-2,narrow,4,R01
+Ratio sharing,nov2019-2h-3,narrow,4,R01
+Ratio sharing,nov2019-3h-14,narrow,4,R01
+Ratio sharing,nov2020-1h-10,narrow,3,R01
+Ratio sharing,nov2020-1h-23,broad,3,R01
+Ratio sharing,nov2020-2h-3,narrow,5,R01
+Ratio sharing,nov2020-3h-4,broad,5,R01
+Ratio sharing,nov2020-3h-21,narrow,5,R01
+Ratio sharing,nov2021-1h-5,narrow,3,R01
+Ratio sharing,nov2021-3h-2,broad,4,R01
+Ratio sharing,nov2021-3h-14,narrow,4,R01
+Ratio sharing,nov2022-1h-6,narrow,6,R01
+Ratio sharing,nov2022-3h-2,narrow,1,R01
+Ratio sharing,nov2022-3h-17,narrow,4,R01
+Ratio sharing,nov2023-2h-5,narrow,4,R01
+Ratio sharing,nov2023-3h-23,narrow,4,R01
+Direct and inverse proportion,jun2019-1h-20,narrow,4,R02
+Direct and inverse proportion,jun2019-3h-9,broad,3,R02
+Direct and inverse proportion,jun2022-1h-17,broad,4,R02
+Direct and inverse proportion,jun2022-2h-11,broad,3,R02
+Direct and inverse proportion,jun2023-1h-13,narrow,3,R02
+Direct and inverse proportion,jun2023-3h-4,narrow,2,R02
+Direct and inverse proportion,jun2024-2h-3,broad,2,R02
+Direct and inverse proportion,jun2024-2h-12,narrow,4,R02
+Direct and inverse proportion,jun2025-1h-11,narrow,5,R02
+Direct and inverse proportion,nov2019-2h-8,broad,3,R02
+Direct and inverse proportion,nov2019-3h-16,narrow,3,R02
+Direct and inverse proportion,nov2020-1h-18,narrow,3,R02
+Direct and inverse proportion,nov2021-3h-8,narrow,2,R02
+Direct and inverse proportion,nov2021-3h-9,narrow,3,R02
+Direct and inverse proportion,nov2021-3h-17,narrow,4,R02
+Direct and inverse proportion,nov2022-1h-13,narrow,3,R02
+Direct and inverse proportion,nov2023-2h-11,narrow,2,R02
+Direct and inverse proportion,nov2023-2h-14,narrow,5,R02
+Direct and inverse proportion,nov2023-3h-6,narrow,2,R02
+Direct and inverse proportion,nov2024-2h-13,narrow,5,R02
+"Speed, density and pressure",jun2019-3h-11,narrow,3,R04
+"Speed, density and pressure",jun2019-3h-13,narrow,4,R05
+"Speed, density and pressure",jun2022-1h-7,narrow,3,R05
+"Speed, density and pressure",jun2022-2h-9,narrow,3,R05
+"Speed, density and pressure",jun2022-3h-6,narrow,4,R04
+"Speed, density and pressure",jun2023-1h-8,narrow,3,R05
+"Speed, density and pressure",jun2023-3h-8,narrow,2,R05
+"Speed, density and pressure",jun2024-3h-5,narrow,4,R05
+"Speed, density and pressure",jun2025-2h-8,narrow,3,R05
+"Speed, density and pressure",jun2025-3h-6,narrow,3,R04
+"Speed, density and pressure",nov2019-1h-9,narrow,4,R04
+"Speed, density and pressure",nov2019-3h-6,narrow,4,R04
+"Speed, density and pressure",nov2019-3h-13,narrow,4,R05
+"Speed, density and pressure",nov2020-1h-8,narrow,3,R05
+"Speed, density and pressure",nov2020-1h-13,narrow,3,R05
+"Speed, density and pressure",nov2020-3h-2,narrow,3,R04
+"Speed, density and pressure",nov2021-2h-3,narrow,5,R04
+"Speed, density and pressure",nov2021-2h-7,narrow,3,R05
+"Speed, density and pressure",nov2021-3h-4,broad,4,R04
+"Speed, density and pressure",nov2022-1h-7,narrow,2,R05
+"Speed, density and pressure",nov2023-3h-7,narrow,3,R04
+"Speed, density and pressure",nov2023-3h-8,narrow,3,R05
+"Speed, density and pressure",nov2024-1h-5,narrow,4,R04
+"Speed, density and pressure",nov2024-1h-8,broad,3,R05
+Bounds and error intervals,jun2019-2h-6,broad,2,N11
+Bounds and error intervals,jun2019-3h-7,broad,2,N11
+Bounds and error intervals,jun2019-3h-19,narrow,5,N12
+Bounds and error intervals,jun2022-2h-3,broad,2,N11
+Bounds and error intervals,jun2022-2h-8,broad,2,N11
+Bounds and error intervals,jun2022-3h-16,narrow,3,N12
+Bounds and error intervals,jun2023-2h-7,narrow,2,N11
+Bounds and error intervals,jun2023-2h-19,narrow,3,N12
+Bounds and error intervals,jun2024-2h-9,broad,2,N11
+Bounds and error intervals,jun2024-3h-19,narrow,3,N12
+Bounds and error intervals,jun2025-3h-5,narrow,2,N11
+Bounds and error intervals,jun2025-3h-10,broad,2,N11
+Bounds and error intervals,jun2025-3h-19,narrow,3,N12
+Bounds and error intervals,nov2019-2h-2,narrow,2,N11
+Bounds and error intervals,nov2019-2h-20,narrow,4,N12
+Bounds and error intervals,nov2019-3h-2,broad,3,N11
+Bounds and error intervals,nov2020-3h-3,narrow,2,N11
+Bounds and error intervals,nov2020-3h-18,narrow,4,N12
+Bounds and error intervals,nov2021-2h-21,narrow,4,N12
+Bounds and error intervals,nov2021-3h-11,narrow,2,N11
+Bounds and error intervals,nov2022-2h-23,narrow,5,N12
+Bounds and error intervals,nov2022-3h-12,narrow,2,N11
+Bounds and error intervals,nov2023-2h-8,narrow,2,N11
+Bounds and error intervals,nov2023-3h-22,narrow,4,N12
+Bounds and error intervals,nov2024-2h-1,broad,2,N11
+Bounds and error intervals,nov2024-2h-19,narrow,5,N12
+Bounds and error intervals,nov2024-3h-7,narrow,2,N11
+Standard form,jun2019-2h-8,narrow,2,N06
+Standard form,jun2022-1h-4,narrow,4,N06
+Standard form,jun2022-2h-4,narrow,5,N06
+Standard form,jun2023-3h-6,broad,3,N06
+Standard form,jun2024-3h-2,narrow,4,N06
+Standard form,jun2025-1h-5,narrow,3,N06
+Standard form,jun2025-2h-5,broad,3,N06
+Standard form,jun2025-3h-9,narrow,2,N06
+Standard form,nov2019-2h-7,narrow,2,N06
+Standard form,nov2019-3h-7,narrow,3,N06
+Standard form,nov2020-1h-9,narrow,2,N06
+Standard form,nov2020-3h-10,narrow,4,N06
+Standard form,nov2021-3h-3,narrow,4,N06
+Standard form,nov2022-3h-9,narrow,3,N06
+Standard form,nov2023-3h-1,narrow,2,N06
+Standard form,nov2024-2h-8,narrow,2,N06
+Standard form,nov2024-3h-2,narrow,2,N06
+Surds and rationalising,jun2019-1h-18,narrow,5,N05
+Surds and rationalising,jun2023-1h-23,narrow,4,N05
+Surds and rationalising,jun2024-1h-17,narrow,3,N05
+Surds and rationalising,jun2024-2h-15,narrow,2,N05
+Surds and rationalising,jun2025-1h-16,narrow,6,N05
+Surds and rationalising,nov2019-1h-16,narrow,5,N05
+Surds and rationalising,nov2020-1h-20,narrow,4,N05
+Surds and rationalising,nov2021-1h-19,narrow,4,N05
+Surds and rationalising,nov2024-1h-16,narrow,6,N05
+Recurring decimals to fractions,jun2022-1h-12,narrow,3,N08
+Recurring decimals to fractions,jun2023-3h-20,narrow,3,N08
+Recurring decimals to fractions,jun2024-1h-18,narrow,3,N08
+Recurring decimals to fractions,jun2025-1h-13,narrow,5,N08
+Recurring decimals to fractions,nov2019-1h-15,narrow,3,N08
+Recurring decimals to fractions,nov2021-1h-13,narrow,1,N08
+Recurring decimals to fractions,nov2022-2h-14,narrow,3,N08
+Recurring decimals to fractions,nov2023-2h-13,narrow,3,N08
+Recurring decimals to fractions,nov2024-3h-14,narrow,3,N08
+Indices,jun2019-3h-12,broad,1,N04
+Indices,jun2022-1h-18,narrow,4,N04
+Indices,jun2022-3h-9,narrow,4,N04
+Indices,jun2023-1h-14,narrow,4,N04
+Indices,jun2024-1h-20,narrow,3,N04
+Indices,jun2025-2h-9,broad,2,N04
+Indices,jun2025-3h-11,narrow,4,N04
+Indices,nov2019-1h-19,narrow,3,N04
+Indices,nov2020-1h-11,narrow,6,N04
+Indices,nov2021-1h-9,narrow,4,N04
+Indices,nov2021-3h-12,narrow,2,N04
+Indices,nov2022-1h-3,narrow,2,N04
+Indices,nov2022-1h-17,narrow,2,N04
+Indices,nov2023-1h-2,narrow,4,N04
+Indices,nov2023-1h-14,narrow,3,N04
+Indices,nov2024-1h-10,narrow,4,N04
+Pythagoras,jun2019-3h-8,narrow,2,G05
+Pythagoras,jun2022-1h-13,narrow,3,G05
+Pythagoras,jun2022-3h-1,narrow,2,G05
+Pythagoras,jun2024-2h-1,narrow,2,G05
+Pythagoras,nov2021-2h-5,narrow,4,G05
+Pythagoras,nov2022-2h-13,narrow,2,G05
+Pythagoras,nov2024-2h-21,broad,5,G05
+Right-angled trigonometry,jun2019-1h-14,broad,2,G06
+Right-angled trigonometry,jun2019-2h-5,narrow,2,G06
+Right-angled trigonometry,jun2019-3h-14,broad,4,G06
+Right-angled trigonometry,jun2022-3h-12,broad,3,G06
+Right-angled trigonometry,jun2024-2h-10,narrow,3,G06
+Right-angled trigonometry,jun2025-2h-7,broad,2,G06
+Right-angled trigonometry,nov2019-2h-12,narrow,4,G06
+Right-angled trigonometry,nov2020-2h-5,narrow,2,G06
+Right-angled trigonometry,nov2021-2h-6,narrow,4,G06
+Right-angled trigonometry,nov2021-2h-18,broad,4,G06
+Right-angled trigonometry,nov2022-2h-5,narrow,2,G06
+Right-angled trigonometry,nov2024-3h-8,narrow,2,G06
+"Sine rule, cosine rule and area formula",jun2019-3h-23,narrow,5,G07
+"Sine rule, cosine rule and area formula",jun2022-2h-18,narrow,4,G07
+"Sine rule, cosine rule and area formula",jun2023-2h-13,narrow,4,G07
+"Sine rule, cosine rule and area formula",jun2023-3h-10,narrow,3,G07
+"Sine rule, cosine rule and area formula",jun2024-3h-18,narrow,5,G07
+"Sine rule, cosine rule and area formula",jun2025-2h-23,narrow,5,G07
+"Sine rule, cosine rule and area formula",jun2025-3h-14,broad,2,G07
+"Sine rule, cosine rule and area formula",nov2019-3h-18,narrow,5,G07
+"Sine rule, cosine rule and area formula",nov2020-2h-13,narrow,3,G07
+"Sine rule, cosine rule and area formula",nov2021-2h-15,narrow,5,G07
+"Sine rule, cosine rule and area formula",nov2021-3h-23,narrow,4,G07
+"Sine rule, cosine rule and area formula",nov2022-1h-22,narrow,4,G07
+"Sine rule, cosine rule and area formula",nov2022-2h-18,broad,2,G07
+"Sine rule, cosine rule and area formula",nov2022-3h-26,narrow,5,G07
+"Sine rule, cosine rule and area formula",nov2023-1h-20,narrow,4,G07
+"Sine rule, cosine rule and area formula",nov2023-2h-16,narrow,4,G07
+"Sine rule, cosine rule and area formula",nov2024-1h-14,narrow,3,G07
+"Sine rule, cosine rule and area formula",nov2024-3h-17,narrow,4,G07
+3D trigonometry and bearings,jun2019-2h-19,narrow,4,G08
+3D trigonometry and bearings,jun2022-3h-18,broad,5,G08
+3D trigonometry and bearings,jun2023-1h-22,narrow,2,G08
+3D trigonometry and bearings,jun2024-2h-8,broad,3,R08
+3D trigonometry and bearings,jun2025-2h-19,broad,4,G08
+3D trigonometry and bearings,nov2019-1h-8,narrow,5,R08
+3D trigonometry and bearings,nov2022-2h-20,narrow,4,G08
+3D trigonometry and bearings,nov2023-2h-6,narrow,2,R08
+3D trigonometry and bearings,nov2023-3h-24,narrow,4,G08
+3D trigonometry and bearings,nov2024-2h-20,broad,3,G08
+Circle theorems,jun2019-2h-18,narrow,5,G09
+Circle theorems,jun2022-2h-20,narrow,4,G09
+Circle theorems,jun2023-1h-21,narrow,4,G09
+Circle theorems,jun2024-2h-22,narrow,4,G09
+Circle theorems,jun2025-3h-20,narrow,4,G09
+Circle theorems,nov2019-2h-17,narrow,3,G09
+Circle theorems,nov2020-2h-22,narrow,5,G09
+Circle theorems,nov2020-3h-14,broad,4,G09
+Circle theorems,nov2021-2h-14,narrow,4,G09
+Circle theorems,nov2022-1h-18,narrow,3,G09
+Circle theorems,nov2022-3h-16,narrow,4,G09
+Circle theorems,nov2023-3h-21,narrow,4,G09
+Circle theorems,nov2024-1h-17,narrow,4,G09
+Circle theorems,nov2024-2h-18,narrow,3,G09
+Vectors and vector proofs,jun2019-2h-20,narrow,6,G13
+Vectors and vector proofs,jun2022-1h-15,narrow,5,G13
+Vectors and vector proofs,jun2022-3h-13,narrow,3,G13
+Vectors and vector proofs,jun2023-2h-20,narrow,4,G13
+Vectors and vector proofs,jun2023-3h-22,narrow,3,G13
+Vectors and vector proofs,jun2024-2h-19,narrow,5,G13
+Vectors and vector proofs,jun2024-3h-8,broad,3,G13
+Vectors and vector proofs,jun2025-3h-23,narrow,5,G13
+Vectors and vector proofs,nov2019-3h-24,narrow,5,G13
+Vectors and vector proofs,nov2020-1h-21,narrow,4,G13
+Vectors and vector proofs,nov2020-2h-6,narrow,2,G13
+Vectors and vector proofs,nov2021-3h-18,narrow,4,G13
+Vectors and vector proofs,nov2022-3h-24,narrow,4,G13
+Vectors and vector proofs,nov2023-2h-18,narrow,4,G13
+Vectors and vector proofs,nov2024-1h-15,narrow,4,G13
+Transformations,jun2019-1h-5,narrow,3,G11
+Transformations,jun2022-2h-2,narrow,2,G11
+Transformations,jun2022-2h-13,narrow,2,G11
+Transformations,jun2023-3h-16,narrow,2,G11
+Transformations,jun2024-1h-11,narrow,3,G11
+Transformations,jun2024-3h-12,narrow,2,G11
+Transformations,jun2025-1h-9,narrow,4,G11
+Transformations,nov2019-2h-24,narrow,2,G11
+Transformations,nov2019-3h-9,narrow,2,G11
+Transformations,nov2020-2h-15,narrow,2,G11
+Transformations,nov2020-3h-11,narrow,4,G11
+Transformations,nov2022-1h-11,narrow,2,G11
+Transformations,nov2022-3h-18,narrow,2,G11
+Transformations,nov2023-3h-18,narrow,3,G11
+Transformations,nov2024-2h-11,narrow,2,G11
+"Similarity, congruence and scale factors",jun2019-2h-9,narrow,4,R07
+"Similarity, congruence and scale factors",jun2022-3h-15,narrow,3,G10
+"Similarity, congruence and scale factors",jun2023-2h-23,narrow,3,R07
+"Similarity, congruence and scale factors",jun2024-1h-19,narrow,3,R07
+"Similarity, congruence and scale factors",jun2024-2h-17,narrow,4,R07
+"Similarity, congruence and scale factors",jun2025-1h-8,narrow,5,G10
+"Similarity, congruence and scale factors",jun2025-2h-16,narrow,5,R07
+"Similarity, congruence and scale factors",nov2019-1h-17,narrow,4,R07
+"Similarity, congruence and scale factors",nov2019-1h-22,narrow,4,G10
+"Similarity, congruence and scale factors",nov2020-1h-4,narrow,1,G10
+"Similarity, congruence and scale factors",nov2021-2h-19,narrow,3,R07
+"Similarity, congruence and scale factors",nov2021-3h-10,narrow,4,R07
+"Similarity, congruence and scale factors",nov2022-3h-5,broad,4,R07
+"Similarity, congruence and scale factors",nov2022-3h-20,narrow,3,G10
+"Similarity, congruence and scale factors",nov2023-1h-13,narrow,3,R07
+"Similarity, congruence and scale factors",nov2023-3h-11,narrow,3,R07
+"Similarity, congruence and scale factors",nov2023-3h-15,narrow,2,G10
+"Similarity, congruence and scale factors",nov2024-1h-12,narrow,4,R07
+Loci and constructions,jun2025-2h-4,narrow,1,G12
+Loci and constructions,nov2019-1h-4,narrow,2,G12
+Loci and constructions,nov2023-1h-5,narrow,2,G12
+Loci and constructions,nov2024-3h-3,narrow,2,G12
+Probability trees,jun2019-2h-10,narrow,5,P02
+Probability trees,jun2022-3h-21,narrow,4,P02
+Probability trees,jun2023-1h-12,broad,3,P02
+Probability trees,jun2023-3h-24,broad,5,P02
+Probability trees,jun2024-1h-16,broad,2,P02
+Probability trees,jun2024-2h-18,narrow,5,P02
+Probability trees,jun2024-3h-6,narrow,4,P02
+Probability trees,jun2025-1h-14,narrow,5,P02
+Probability trees,jun2025-2h-11,narrow,5,P02
+Probability trees,jun2025-3h-15,broad,4,P02
+Probability trees,nov2019-2h-16,narrow,3,P02
+Probability trees,nov2019-3h-11,broad,3,P02
+Probability trees,nov2019-3h-21,broad,2,P02
+Probability trees,nov2020-1h-14,broad,3,P02
+Probability trees,nov2020-3h-5,narrow,4,P02
+Probability trees,nov2021-1h-16,narrow,4,P02
+Probability trees,nov2021-2h-20,broad,4,P02
+Probability trees,nov2022-1h-20,narrow,3,P02
+Probability trees,nov2022-3h-6,narrow,4,P02
+Probability trees,nov2023-1h-18,broad,4,P02
+Probability trees,nov2023-2h-10,narrow,5,P02
+Probability trees,nov2024-1h-19,broad,4,P02
+Probability trees,nov2024-2h-22,broad,5,P02
+Probability trees,nov2024-3h-4,narrow,4,P02
+Venn diagrams and conditional probability,jun2019-3h-1,narrow,5,P03
+Venn diagrams and conditional probability,jun2022-1h-16,broad,4,P04
+Venn diagrams and conditional probability,jun2022-2h-16,narrow,6,P03
+Venn diagrams and conditional probability,jun2023-1h-5,narrow,5,P03
+Venn diagrams and conditional probability,jun2024-1h-4,narrow,3,P03
+Venn diagrams and conditional probability,jun2025-3h-18,narrow,6,P03
+Venn diagrams and conditional probability,nov2020-2h-2,narrow,5,P03
+Venn diagrams and conditional probability,nov2021-1h-2,narrow,3,P03
+Venn diagrams and conditional probability,nov2023-2h-21,broad,4,P03
+Venn diagrams and conditional probability,nov2024-2h-4,narrow,2,P03
+Averages from tables,jun2022-1h-8,narrow,3,S01
+Averages from tables,jun2024-1h-8,narrow,3,S01
+Averages from tables,jun2025-2h-6,narrow,5,S01
+Averages from tables,nov2019-1h-6,narrow,3,S01
+Averages from tables,nov2019-3h-4,narrow,3,S01
+Averages from tables,nov2020-1h-7,narrow,3,S01
+Averages from tables,nov2020-3h-7,narrow,3,S01
+Averages from tables,nov2021-2h-8,broad,1,S01
+Averages from tables,nov2022-3h-8,narrow,3,S01
+Averages from tables,nov2023-1h-4,narrow,4,S01
+Averages from tables,nov2023-3h-3,narrow,4,S01
+Averages from tables,nov2024-3h-6,narrow,4,S01
+Histograms,jun2019-3h-21,narrow,4,S05
+Histograms,jun2022-3h-17,narrow,5,S05
+Histograms,jun2023-2h-16,narrow,4,S05
+Histograms,jun2024-1h-13,narrow,5,S05
+Histograms,jun2025-1h-15,narrow,4,S05
+Histograms,nov2019-2h-18,broad,3,S05
+Histograms,nov2020-3h-17,narrow,4,S05
+Histograms,nov2021-2h-17,broad,4,S05
+Histograms,nov2022-1h-14,narrow,3,S05
+Histograms,nov2023-2h-15,narrow,6,S05
+Histograms,nov2024-2h-16,narrow,4,S05
+Cumulative frequency and box plots,jun2019-1h-11,narrow,4,S04
+Cumulative frequency and box plots,jun2019-2h-11,narrow,6,S04
+Cumulative frequency and box plots,jun2022-1h-10,narrow,6,S04
+Cumulative frequency and box plots,jun2022-2h-10,narrow,5,S04
+Cumulative frequency and box plots,jun2023-2h-9,narrow,3,S04
+Cumulative frequency and box plots,jun2023-3h-11,narrow,5,S04
+Cumulative frequency and box plots,jun2024-2h-11,narrow,7,S04
+Cumulative frequency and box plots,jun2024-3h-11,narrow,5,S04
+Cumulative frequency and box plots,jun2025-2h-12,narrow,5,S04
+Cumulative frequency and box plots,nov2019-1h-10,narrow,6,S04
+Cumulative frequency and box plots,nov2019-2h-11,broad,3,S04
+Cumulative frequency and box plots,nov2019-3h-12,narrow,3,S04
+Cumulative frequency and box plots,nov2020-1h-12,narrow,6,S04
+Cumulative frequency and box plots,nov2020-2h-9,narrow,2,S04
+Cumulative frequency and box plots,nov2021-1h-12,narrow,3,S04
+Cumulative frequency and box plots,nov2021-2h-9,narrow,4,S04
+Cumulative frequency and box plots,nov2022-2h-11,narrow,3,S04
+Cumulative frequency and box plots,nov2022-3h-13,narrow,2,S04
+Cumulative frequency and box plots,nov2023-1h-11,narrow,5,S04
+Cumulative frequency and box plots,nov2023-3h-13,narrow,6,S04
+Cumulative frequency and box plots,nov2024-1h-9,narrow,6,S04
+Cumulative frequency and box plots,nov2024-3h-1,broad,2,S04
+Scatter graphs,jun2023-1h-6,narrow,3,S03
+Scatter graphs,nov2019-3h-3,narrow,2,S03
+Scatter graphs,nov2021-3h-1,narrow,4,S03
+Scatter graphs,nov2022-2h-1,narrow,4,S03
+Scatter graphs,nov2024-2h-2,narrow,3,S03

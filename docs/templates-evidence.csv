@@ -1,0 +1,114 @@
+claim_id,template,claim_or_pattern,evidence_question_id,source_page,tag
+T01,Number,Show each step of a fraction or HCF process; after prime factorising say what you do next,jun2019-1h-3,ER PDF p16,"FETCHED (examiner report, paraphrased)"
+T02,Number,"Round only at the end; write the unrounded value first, then round to the figures asked",jun2019-3h-7,ER PDF p21,"FETCHED (examiner report, paraphrased)"
+T03,Number,"For estimates, rounding to 1 significant figure is not always the best choice",jun2019-1h-8,ER PDF p16,"FETCHED (examiner report, paraphrased)"
+T04,Number,Give error intervals using the correct inequality form (weak area),jun2019-2h-6,ER PDF p19,UNVERIFIED (spot-check: report names the weakness but not this advice)
+T05,Number,"For bounds, pick the bound that suits the calculation; the midpoint is not the answer to a bounds-of-a-result question",jun2019-3h-19,ER PDF p21,"FETCHED (examiner report, paraphrased)"
+T06,Number,Leave answers in terms of pi when asked; using a decimal value for pi made questions harder,jun2019-1h-15,ER PDF p18,"FETCHED (examiner report, paraphrased)"
+T07,Number,"For surds, simplify then rationalise and finish in the form requested",jun2019-1h-18,ER PDF p17,"FETCHED (examiner report, paraphrased)"
+T08,Algebra,"For a proof, show a general argument; testing a few values is not a proof",jun2019-1h-13,ER PDF p17,"FETCHED (examiner report, paraphrased)"
+T09,Algebra,Rearrange to zero before factorising a quadratic,jun2019-1h-17,ER PDF p17,"FETCHED (examiner report, paraphrased)"
+T10,Algebra,"Recognise completing the square from the required form, and read the turning point from it",jun2019-1h-19,ER PDF p17,"FETCHED (examiner report, paraphrased)"
+T11,Algebra,"For simultaneous equations from graphs, read the intersection point",jun2019-1h-10,ER PDF p17,"FETCHED (examiner report, paraphrased)"
+T12,Algebra,"For simultaneous equations with a quadratic, substitute then solve and pair the values back",jun2019-3h-20,ER PDF p22,UNVERIFIED (spot-check: report names the weakness but not this advice)
+T13,Algebra,For inverse functions use inverse operations rather than a flow chart,jun2019-1h-21,ER PDF p17,"FETCHED (examiner report, paraphrased)"
+T14,Algebra,Check a quadratic sequence answer by substituting terms,jun2019-3h-16,ER PDF p22,"FETCHED (examiner report, paraphrased)"
+T15,Algebra,"For graph matching, learn the proportionality graph shapes",jun2019-3h-17,ER PDF p22,"FETCHED (examiner report, paraphrased)"
+T16,Algebra,"For a tangent, draw it and read its gradient; for area under a curve use trapezia",jun2019-2h-14,ER PDF p19,"FETCHED (examiner report, paraphrased)"
+T17,Ratio,"For compound interest, read whether the interest or the total is asked for",jun2019-3h-2,ER PDF p22,"FETCHED (examiner report, paraphrased)"
+T18,Ratio,"For reverse percentages, undo the multiplier rather than taking a percentage of the end value",jun2019-3h-10,ER PDF p22,UNVERIFIED (spot-check: report names the weakness but not this advice)
+T19,Ratio,"Say whether proportion is direct or inverse, and use a separate constant for each relationship",jun2019-1h-20,ER PDF p17,"FETCHED (examiner report, paraphrased)"
+T20,Ratio,Pick the quantity asked for when sharing in a ratio,jun2019-2h-7,ER PDF p20,"FETCHED (examiner report, paraphrased)"
+T21,Ratio,"For density, multiply density by volume for each material then combine",jun2019-3h-13,ER PDF p22,"FETCHED (examiner report, paraphrased)"
+T22,Ratio,Length and area scale factors must be linked carefully in unfamiliar settings,jun2019-2h-9,ER PDF p20,"FETCHED (examiner report, paraphrased)"
+T23,Geometry,Give a named reason for each angle in circle theorem questions and use the matching theorem,jun2019-2h-18,ER PDF p20,"FETCHED (examiner report, paraphrased)"
+T24,Geometry,Decide which angle is being found before choosing trigonometry in 3D,jun2019-2h-19,ER PDF p20,"FETCHED (examiner report, paraphrased)"
+T25,Geometry,Do not assume triangles are right-angled; check before using trigonometry,jun2019-3h-14,ER PDF p23,"FETCHED (examiner report, paraphrased)"
+T26,Geometry,"For bearings, say which point the bearing is from",jun2019-3h-23,ER PDF p23,"FETCHED (examiner report, paraphrased)"
+T27,Geometry,Read whether surface area or volume is asked for; count both ends of a cylinder,jun2019-3h-6,ER PDF p23,"FETCHED (examiner report, paraphrased)"
+T28,Geometry,"For angles in polygons, start from the total interior angle and then relate the angles",jun2019-3h-5,ER PDF p23,"FETCHED (examiner report, paraphrased)"
+T29,Geometry,Use exact trigonometric values when they are known,jun2019-1h-14,ER PDF p18,"FETCHED (examiner report, paraphrased)"
+T30,Probability,Read at least as including both outcomes in a tree diagram,jun2019-2h-10,ER PDF p20,"FETCHED (examiner report, paraphrased)"
+T31,Probability,Use clear probability language in written explanations,jun2019-1h-11,ER PDF p18,"FETCHED (examiner report, paraphrased)"
+T32,Probability,"For hard probability with algebra, form an equation rather than starting with a tree",jun2019-1h-22,ER PDF p18,"FETCHED (examiner report, paraphrased)"
+T33,Statistics,"In histograms use frequency density, not bar height",jun2019-3h-21,ER PDF p23,"FETCHED, partly supported (report names the bar-height error, not frequency density)"
+T34,Statistics,Know the features of time series graphs,jun2019-3h-4,ER PDF p23,"FETCHED (examiner report, paraphrased)"
+T35,Statistics,Venn set notation needs checking in each part,jun2019-3h-1,ER PDF p21,"FETCHED (examiner report, paraphrased)"
+T36,Statistics,"Cumulative frequency graphs: plot at upper class boundaries (general knowledge, no ER support found)",,ER PDF p,UNVERIFIED
+T37,Geometry,Method marks are awarded for method even when the final value is wrong (general statement),,ER PDF p,UNVERIFIED
+T38,Algebra,Write down the transformation represented by an equation for graph-transformation questions,jun2019-3h-15,ER PDF p22,"FETCHED (examiner report, paraphrased)"
+M01,marking method,Solve linear equations,jun2023-2h-5,June-2023__1ma1-2h-rms-20230824.pdf PDF p9 codes P1 P1 P1 A1,FETCHED (scheme page read; paraphrased)
+M02,marking method,Solve linear equations,nov2019-3h-10,November-2019__1ma1-3h-msc-20200116.pdf PDF p10 codes M1 M1 A1 B1,FETCHED (scheme page read; paraphrased)
+M03,marking method,Solve quadratics by factorising or formula,nov2021-1h-8,November-2021__1ma1-1h-rms-20220113.pdf PDF p11 codes M1 M1 A1,FETCHED (scheme page read; paraphrased)
+M04,marking method,Complete the square and turning point,nov2021-1h-22,November-2021__1ma1-1h-rms-20220113.pdf PDF p17 codes P1 P1 P1 A1,FETCHED (scheme page read; paraphrased)
+M05,marking method,Complete the square and turning point,jun2019-1h-19,"June-2019__1ma1-1h-rms-20190822.pdf PDF p15, 16 codes M1 A1 B1",FETCHED (scheme page read; paraphrased)
+M06,marking method,Simultaneous equations (linear or linear-quadratic),jun2024-1h-10,June-2024__1ma1-1h-rms-20240822.pdf PDF p14 codes M1 A1 M1 A1,FETCHED (scheme page read; paraphrased)
+M07,marking method,Simultaneous equations (linear or linear-quadratic),nov2022-1h-12,November-2022__1ma1-1h-rms-20230112.pdf PDF p11 codes M1 A1 M1 A1,FETCHED (scheme page read; paraphrased)
+M08,marking method,Rearrange formulae,jun2022-3h-2,June-2022__1ma1-3h-rms-20220825.pdf PDF p7 codes M1 A1 M1 A1,FETCHED (scheme page read; paraphrased)
+M09,marking method,Rearrange formulae,jun2023-1h-17,June-2023__1ma1-1h-rms-20230824.pdf PDF p15 codes M1 M1 M1 A1,FETCHED (scheme page read; paraphrased)
+M10,marking method,Inequalities and regions,nov2022-2h-16,November-2022__1ma1-2h-rms-20230112.pdf PDF p12 codes M1 M1 M1 A1,FETCHED (scheme page read; paraphrased)
+M11,marking method,Inequalities and regions,nov2023-3h-4,"November-2023__1ma1-3h-rms-20240111.pdf PDF p9, 10 codes C2 M1 A1",FETCHED (scheme page read; paraphrased)
+M12,marking method,Linear sequences and nth term,nov2022-2h-3,November-2022__1ma1-2h-rms-20230112.pdf PDF p7 codes B2 M1 A1,FETCHED (scheme page read; paraphrased)
+M13,marking method,Quadratic sequences,jun2019-3h-16,June-2019__1ma1-3h-rms-20190822.pdf PDF p16 codes M1 M1 A1,FETCHED (scheme page read; paraphrased)
+M14,marking method,Quadratic sequences,nov2020-2h-16,November-2020__1ma1-2h-msc-20210114.pdf PDF p13 codes M1 M1 A1,FETCHED (scheme page read; paraphrased)
+M15,marking method,Quadratic sequences,nov2024-2h-15,November-2024__1ma1-2h-rms-20250109.pdf PDF p16 codes M1 M1 A1 M1 M1 A1,FETCHED (scheme page read; paraphrased)
+M16,marking method,Iteration,jun2023-2h-17,June-2023__1ma1-2h-rms-20230824.pdf PDF p15 codes C1 M1 M1 A1,FETCHED (scheme page read; paraphrased)
+M17,marking method,Iteration,nov2021-2h-16,November-2021__1ma1-2h-rms-20220113.pdf PDF p14 codes M1 M1 A1 C1,FETCHED (scheme page read; paraphrased)
+M18,marking method,Algebraic proof,nov2022-1h-16,November-2022__1ma1-1h-rms-20230112.pdf PDF p13 codes M1 M1 C1 C1,FETCHED (scheme page read; paraphrased)
+M19,marking method,Algebraic proof,jun2023-2h-18,June-2023__1ma1-2h-rms-20230824.pdf PDF p15 codes M1 M1 A1,FETCHED (scheme page read; paraphrased)
+M20,marking method,Functions: composite and inverse,jun2022-2h-19,June-2022__1ma1-2h-rms-20220825.pdf PDF p19 codes B1 M1 M1 A1,FETCHED (scheme page read; paraphrased)
+M21,marking method,Functions: composite and inverse,nov2023-2h-19,November-2023__1ma1-2h-rms-20240111.pdf PDF p14 codes M1 A1 M1 A1,FETCHED (scheme page read; paraphrased)
+M22,marking method,Algebraic fractions,jun2019-2h-13,June-2019__1ma1-2h-rms-20190822.pdf PDF p13 codes B1 M1 M1 A1,FETCHED (scheme page read; paraphrased)
+M23,marking method,Algebraic fractions,jun2022-3h-19,June-2022__1ma1-3h-rms-20220825.pdf PDF p17 codes M1 M1 M1 A1,FETCHED (scheme page read; paraphrased)
+M24,marking method,Straight-line graphs and equations,jun2024-1h-6,June-2024__1ma1-1h-rms-20240822.pdf PDF p12 codes M1 M1 A1 B1,FETCHED (scheme page read; paraphrased)
+M25,marking method,Straight-line graphs and equations,jun2019-2h-16,June-2019__1ma1-2h-rms-20190822.pdf PDF p15 codes M1 M1 A1,FETCHED (scheme page read; paraphrased)
+M26,marking method,Percentage change and reverse percentages,jun2024-3h-4,June-2024__1ma1-3h-rms-20240822.pdf PDF p9 codes P1 P1 P1 A1,FETCHED (scheme page read; paraphrased)
+M27,marking method,Percentage change and reverse percentages,jun2025-3h-12,"June-2025__1ma1-3h-rms-20250821.pdf PDF p17, 18 codes C1 P1 P1 A1",FETCHED (scheme page read; paraphrased)
+M28,marking method,Compound interest and growth/decay,jun2023-2h-8,June-2023__1ma1-2h-rms-20230824.pdf PDF p10 codes P1 P1 P1 C1,FETCHED (scheme page read; paraphrased)
+M29,marking method,Compound interest and growth/decay,jun2024-3h-14,"June-2024__1ma1-3h-rms-20240822.pdf PDF p15, 16 codes P1 P1 P1 A1",FETCHED (scheme page read; paraphrased)
+M30,marking method,Ratio sharing,jun2019-1h-6,June-2019__1ma1-1h-rms-20190822.pdf PDF p9 codes P1 P1 P1 A1,FETCHED (scheme page read; paraphrased)
+M31,marking method,Ratio sharing,jun2019-2h-17,"June-2019__1ma1-2h-rms-20190822.pdf PDF p16, 17 codes C1 P1 P1 A1",FETCHED (scheme page read; paraphrased)
+M32,marking method,Direct and inverse proportion,jun2019-1h-20,June-2019__1ma1-1h-rms-20190822.pdf PDF p16 codes P1 P1 P1 A1,FETCHED (scheme page read; paraphrased)
+M33,marking method,Direct and inverse proportion,jun2024-2h-12,June-2024__1ma1-2h-rms-20240822.pdf PDF p15 codes M1 A1 M1 A1,FETCHED (scheme page read; paraphrased)
+M34,marking method,"Speed, density and pressure",jun2019-3h-13,June-2019__1ma1-3h-rms-20190822.pdf PDF p15 codes P1 P1 P1 A1,FETCHED (scheme page read; paraphrased)
+M35,marking method,"Speed, density and pressure",jun2022-3h-6,June-2022__1ma1-3h-rms-20220825.pdf PDF p9 codes P1 P1 P1 A1,FETCHED (scheme page read; paraphrased)
+M36,marking method,Bounds and error intervals,nov2019-2h-20,November-2019__1ma1-2h-msc-20200116.pdf PDF p13 codes B1 M1 A1 C1,FETCHED (scheme page read; paraphrased)
+M37,marking method,Bounds and error intervals,nov2020-3h-18,November-2020__1ma1-3h-msc-20210114.pdf PDF p16 codes B1 M1 M1 A1,FETCHED (scheme page read; paraphrased)
+M38,marking method,Standard form,jun2022-1h-4,June-2022__1ma1-1h-rms-20220825.pdf PDF p8 codes B1 B1 M1 A1,FETCHED (scheme page read; paraphrased)
+M39,marking method,Standard form,jun2024-3h-2,June-2024__1ma1-3h-rms-20240822.pdf PDF p7 codes B1 B1 M1 A1,FETCHED (scheme page read; paraphrased)
+M40,marking method,Surds and rationalising,jun2023-1h-23,"June-2023__1ma1-1h-rms-20230824.pdf PDF p19, 20 codes M1 M1 M1 A1",FETCHED (scheme page read; paraphrased)
+M41,marking method,Surds and rationalising,nov2020-1h-20,"November-2020__1ma1-1h-msc-20210114.pdf PDF p15, 16 codes P1 P1 P1 A1",FETCHED (scheme page read; paraphrased)
+M42,marking method,Recurring decimals to fractions,jun2022-1h-12,June-2022__1ma1-1h-rms-20220825.pdf PDF p12 codes M1 M1 A1,FETCHED (scheme page read; paraphrased)
+M43,marking method,Recurring decimals to fractions,jun2023-3h-20,June-2023__1ma1-3h-rms-20230824.pdf PDF p14 codes M1 M1 C1,FETCHED (scheme page read; paraphrased)
+M44,marking method,Indices,jun2022-1h-18,June-2022__1ma1-1h-rms-20220825.pdf PDF p16 codes M1 M1 M1 A1,FETCHED (scheme page read; paraphrased)
+M45,marking method,Indices,jun2022-3h-9,June-2022__1ma1-3h-rms-20220825.pdf PDF p12 codes M1 M1 A1 C1,FETCHED (scheme page read; paraphrased)
+M46,marking method,Pythagoras,nov2021-2h-5,November-2021__1ma1-2h-rms-20220113.pdf PDF p9 codes P1 P1 P1 A1,FETCHED (scheme page read; paraphrased)
+M47,marking method,Pythagoras,jun2022-1h-13,June-2022__1ma1-1h-rms-20220825.pdf PDF p13 codes M1 M1 C1,FETCHED (scheme page read; paraphrased)
+M48,marking method,Right-angled trigonometry,nov2019-2h-12,November-2019__1ma1-2h-msc-20200116.pdf PDF p10 codes P1 P1 P1 A1,FETCHED (scheme page read; paraphrased)
+M49,marking method,Right-angled trigonometry,nov2021-2h-6,November-2021__1ma1-2h-rms-20220113.pdf PDF p9 codes M1 A1 M1 A1,FETCHED (scheme page read; paraphrased)
+M50,marking method,"Sine rule, cosine rule and area formula",jun2022-2h-18,June-2022__1ma1-2h-rms-20220825.pdf PDF p18 codes M1 M1 M1 A1,FETCHED (scheme page read; paraphrased)
+M51,marking method,"Sine rule, cosine rule and area formula",jun2023-2h-13,June-2023__1ma1-2h-rms-20230824.pdf PDF p13 codes P1 P1 P1 A1,FETCHED (scheme page read; paraphrased)
+M52,marking method,3D trigonometry and bearings,jun2019-2h-19,June-2019__1ma1-2h-rms-20190822.pdf PDF p18 codes P1 P1 P1 A1,FETCHED (scheme page read; paraphrased)
+M53,marking method,3D trigonometry and bearings,nov2022-2h-20,November-2022__1ma1-2h-rms-20230112.pdf PDF p14 codes P1 P1 P1 A1,FETCHED (scheme page read; paraphrased)
+M54,marking method,Circle theorems,jun2022-2h-20,June-2022__1ma1-2h-rms-20220825.pdf PDF p19 codes M1 M1 A1 C1,FETCHED (scheme page read; paraphrased)
+M55,marking method,Circle theorems,jun2023-1h-21,June-2023__1ma1-1h-rms-20230824.pdf PDF p18 codes M1 M1 A1 C1,FETCHED (scheme page read; paraphrased)
+M56,marking method,Vectors and vector proofs,jun2023-2h-20,June-2023__1ma1-2h-rms-20230824.pdf PDF p16 codes P1 P1 P1 A1,FETCHED (scheme page read; paraphrased)
+M57,marking method,Vectors and vector proofs,nov2020-1h-21,November-2020__1ma1-1h-msc-20210114.pdf PDF p16 codes M1 M1 B1 C1,FETCHED (scheme page read; paraphrased)
+M58,marking method,Transformations,jun2025-1h-9,June-2025__1ma1-1h-rms-20250821.pdf PDF p13 codes B2 B2,FETCHED (scheme page read; paraphrased)
+M59,marking method,Transformations,nov2020-3h-11,November-2020__1ma1-3h-msc-20210114.pdf PDF p12 codes M1 A2 B1,FETCHED (scheme page read; paraphrased)
+M60,marking method,"Similarity, congruence and scale factors",jun2019-2h-9,June-2019__1ma1-2h-rms-20190822.pdf PDF p10 codes M1 A1 P1 A1,FETCHED (scheme page read; paraphrased)
+M61,marking method,"Similarity, congruence and scale factors",jun2024-2h-17,"June-2024__1ma1-2h-rms-20240822.pdf PDF p18, 19 codes P1 P1 P1 A1",FETCHED (scheme page read; paraphrased)
+M62,marking method,Loci and constructions,nov2019-1h-4,November-2019__1ma1-1h-msc-20200116.pdf PDF p8 codes C2,FETCHED (scheme page read; paraphrased)
+M63,marking method,Loci and constructions,nov2023-1h-5,November-2023__1ma1-1h-rms-20240111.pdf PDF p9 codes C2,FETCHED (scheme page read; paraphrased)
+M64,marking method,Probability trees,jun2022-3h-21,"June-2022__1ma1-3h-rms-20220825.pdf PDF p18, 19 codes P1 P1 P1 A1",FETCHED (scheme page read; paraphrased)
+M65,marking method,Probability trees,jun2024-3h-6,June-2024__1ma1-3h-rms-20240822.pdf PDF p10 codes B1 B1 M1 A1,FETCHED (scheme page read; paraphrased)
+M66,marking method,Venn diagrams and conditional probability,jun2019-3h-1,June-2019__1ma1-3h-rms-20190822.pdf PDF p7 codes M1 M1 C1 M1 A1,FETCHED (scheme page read; paraphrased)
+M67,marking method,Venn diagrams and conditional probability,jun2023-1h-5,June-2023__1ma1-1h-rms-20230824.pdf PDF p9 codes B3 M1 A1,FETCHED (scheme page read; paraphrased)
+M68,marking method,Averages from tables,nov2023-1h-4,November-2023__1ma1-1h-rms-20240111.pdf PDF p9 codes P1 P1 A1 C1,FETCHED (scheme page read; paraphrased)
+M69,marking method,Averages from tables,nov2023-3h-3,"November-2023__1ma1-3h-rms-20240111.pdf PDF p8, 9 codes M1 M1 A1 C1",FETCHED (scheme page read; paraphrased)
+M70,marking method,Histograms,jun2019-3h-21,"June-2019__1ma1-3h-rms-20190822.pdf PDF p20, 21 codes M1 M1 M1 A1",FETCHED (scheme page read; paraphrased)
+M71,marking method,Histograms,jun2023-2h-16,"June-2023__1ma1-2h-rms-20230824.pdf PDF p14, 15 codes M1 A1 M1 A1",FETCHED (scheme page read; paraphrased)
+M72,marking method,Cumulative frequency and box plots,jun2019-1h-11,June-2019__1ma1-1h-rms-20190822.pdf PDF p11 codes B2 C1 C1,FETCHED (scheme page read; paraphrased)
+M73,marking method,Cumulative frequency and box plots,nov2021-2h-9,November-2021__1ma1-2h-rms-20220113.pdf PDF p11 codes M1 A1 C1 C1,FETCHED (scheme page read; paraphrased)
+M74,marking method,Scatter graphs,nov2021-3h-1,November-2021__1ma1-3h-rms-20220113.pdf PDF p7 codes B1 M1 A1 C1,FETCHED (scheme page read; paraphrased)
+M75,marking method,Scatter graphs,nov2022-2h-1,November-2022__1ma1-2h-rms-20230112.pdf PDF p7 codes B1 C1 M1 A1,FETCHED (scheme page read; paraphrased)

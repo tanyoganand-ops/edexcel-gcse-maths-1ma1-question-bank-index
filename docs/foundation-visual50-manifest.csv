@@ -1,0 +1,51 @@
+index,crop_file,question_id,final_primary,final_secondary,verdict
+0,00.png,nov2021-1f-27,N12,,ok
+1,01.png,jun2023-3f-11,A04,,ok
+2,02.png,nov2023-1f-8,S02,,S02 fine; S01 secondary optional
+3,03.png,jun2025-3f-11,N13,,ok
+4,04.png,jun2024-1f-10,R01,,ok
+5,05.png,nov2020-2f-3,A01,,ok
+6,06.png,jun2025-1f-12,N13,,ok
+7,07.png,nov2022-2f-1,N01,,ok
+8,08.png,jun2024-3f-14,S02,,ok
+9,09.png,nov2024-1f-3,N13,,ok
+10,10.png,nov2021-3f-6,A01,,ok
+11,11.png,nov2019-2f-19,R03,N02,corrected N02->R03
+12,12.png,nov2020-2f-9,N13,,ok
+13,13.png,nov2022-1f-14,R04,R08,"corrected: primary R04, secondary R08"
+14,14.png,nov2023-3f-2,N11,,ok
+15,15.png,jun2024-2f-7,G12,G01,ok
+16,16.png,jun2025-3f-16,N07,,ok
+17,17.png,nov2022-2f-12,N07,N01,ok
+18,18.png,nov2019-1f-16,R04,,ok
+19,19.png,nov2022-1f-6,N01,,ok
+20,20.png,jun2022-1f-10,N01,,ok
+21,21.png,jun2024-1f-16,R03,,ok
+22,22.png,nov2024-3f-26,R06,N09,ok
+23,23.png,nov2021-1f-18,A09,,ok
+24,24.png,nov2024-2f-1,N08,,ok
+25,25.png,jun2023-1f-18,A01,,ok
+26,26.png,nov2022-1f-26,A08,A02,ok
+27,27.png,jun2024-2f-1,N01,,ok
+28,28.png,nov2020-2f-5,N04,,ok
+29,29.png,jun2019-3f-17,R08,,ok
+30,30.png,nov2019-2f-14,R03,,ok
+31,31.png,nov2023-3f-15,P01,,ok
+32,32.png,nov2020-2f-10,A04,,ok
+33,33.png,nov2021-1f-16,G15,A01,ok
+34,34.png,jun2022-3f-17,A02,A04,ok
+35,35.png,jun2023-1f-9,A09,,ok
+36,36.png,nov2019-1f-12,N13,N10,N13 fine; N10 secondary optional
+37,37.png,nov2020-1f-4,N08,,ok
+38,38.png,nov2019-2f-10,N13,,ok
+39,39.png,nov2019-1f-11,N03,,ok
+40,40.png,nov2020-2f-28,G01,,ok
+41,41.png,nov2020-2f-8,G01,,ok
+42,42.png,nov2019-1f-2,N11,,ok
+43,43.png,nov2022-3f-18,G11,,ok
+44,44.png,jun2024-2f-3,N08,,ok
+45,45.png,nov2020-1f-30,A05,N04,ok
+46,46.png,jun2024-2f-18,N09,,ok
+47,47.png,jun2024-1f-14,N01,,ok
+48,48.png,jun2019-2f-28,A12,,ok
+49,49.png,jun2024-2f-14,R04,,ok

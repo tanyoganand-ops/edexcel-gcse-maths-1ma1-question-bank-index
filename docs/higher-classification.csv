@@ -1,0 +1,741 @@
+question_id,tier,series,paper,question_no,total_marks,calculator,n_lettered_parts,primary_topic,secondary_topics,confidence,method_note,visual_qa,also_on_foundation,overlap_status
+jun2019-1h-1,Higher,jun2019,1,1,4,no,2,P01,,medium,Find missing probabilities from a total of [value] then use a known count to scale up to the total number of cubes.,none,jun2019-1f-22,verified
+jun2019-1h-2,Higher,jun2019,1,2,5,no,2,R03,R02,medium,"Scale amounts proportionally from [value] biscuits, find flour and butter from the sugar multiples, then convert butter to whole packs.",visual-qa-sample,jun2019-1f-23,verified
+jun2019-1h-3,Higher,jun2019,1,3,2,no,0,N02,,high,List factors of both numbers (or use prime factors) and pick the largest common one.,none,jun2019-1f-24,verified
+jun2019-1h-4,Higher,jun2019,1,4,2,no,0,G14,,medium,Sketch a cylinder showing radius or diameter and height labelled.,visual-qa-sample,jun2019-1f-25,verified
+jun2019-1h-5,Higher,jun2019,1,5,3,no,0,G11,,high,Reflect the shape in the x-axis and read the coordinates to find the two missing values.,none,jun2019-1f-26,verified
+jun2019-1h-6,Higher,jun2019,1,6,4,no,0,R01,,medium,"Turn each colour's packs into pen counts, form the three-part ratio, then find the green share as a fraction or percentage.",none,jun2019-1f-27,verified
+jun2019-1h-7,Higher,jun2019,1,7,4,no,0,G02,A04,high,"Use the rectangle's area to find one side, use the perimeter of the other shape to find another length, then combine.",none,jun2019-1f-28,verified
+jun2019-1h-8,Higher,jun2019,1,8,4,no,3,N10,N11;N04,medium,"Round each number to one significant figure and estimate, with a decimal conversion part.",none,,
+jun2019-1h-9,Higher,jun2019,1,9,3,no,0,N07,,high,"Change mixed numbers to improper fractions, multiply, and simplify.",none,,
+jun2019-1h-10,Higher,jun2019,1,10,2,no,0,A11,A07,medium,Read the intersection of the two drawn lines to give estimated solutions of the pair of equations.,none,,
+jun2019-1h-11,Higher,jun2019,1,11,4,no,3,S04,S01,high,"Find median and quartiles from an ordered list, then compare two data sets with a statement about their ages.",none,,
+jun2019-1h-12,Higher,jun2019,1,12,3,no,0,G04,N09;R07,high,"Link the volumes of three similar shapes through volume scale factors, then find the missing quantity.",none,,
+jun2019-1h-13,Higher,jun2019,1,13,2,no,0,A15,,high,Algebraic proof: factorise and argue by cases (odd or even) that the result is always even.,none,,
+jun2019-1h-14,Higher,jun2019,1,14,2,no,0,G06,N05,medium,Use exact trig values to find the length or ratio in surd form.,none,,
+jun2019-1h-15,Higher,jun2019,1,15,4,no,0,G04,,high,Add volumes of a cone and hemisphere using the correct radius and substitution into the volume formulae.,none,,
+jun2019-1h-16,Higher,jun2019,1,16,4,no,2,N03,,medium,"Count combinations with multiplication, then count those with all digits different and subtract or compare.",none,,
+jun2019-1h-17,Higher,jun2019,1,17,4,no,0,A06,,medium,"Form an equation from the given condition, rearrange to a quadratic equal to zero, factorise or use the formula.",none,,
+jun2019-1h-18,Higher,jun2019,1,18,5,no,2,N05,,medium,"Simplify a power of a surd, then rationalise the denominator.",none,,
+jun2019-1h-19,Higher,jun2019,1,19,3,no,1,A18,A10;A06,medium,Complete the square to find the two constants.,none,,
+jun2019-1h-20,Higher,jun2019,1,20,4,no,0,R02,,medium,"Set up two proportion relationships with constants, find the constants by substitution, then combine to answer.",none,,
+jun2019-1h-21,Higher,jun2019,1,21,7,no,2,A13,,high,"Find an inverse function, build both composite functions, set up and solve the resulting equation.",none,,
+jun2019-1h-22,Higher,jun2019,1,22,5,no,0,P01,A06;A07,medium,"Form two simultaneous equations from the ratios of counters, eliminate a variable and solve.",none,,
+jun2019-2h-1,Higher,jun2019,2,1,5,yes,2,A08,A04,medium,Solve a linear inequality and show a double inequality on a number line.,none,jun2019-2f-20,verified
+jun2019-2h-2,Higher,jun2019,2,2,3,yes,0,A09,,medium,Complete a table and draw a straight line through the plotted points.,none,jun2019-2f-21,verified
+jun2019-2h-3,Higher,jun2019,2,3,3,yes,1,S06,,high,Scale up a sample proportionally to the population and comment on whether the sample is representative.,none,jun2019-2f-22,verified
+jun2019-2h-4,Higher,jun2019,2,4,4,yes,0,G04,N13,medium,"Find the volume of a cuboid, take the stated fraction, and convert to whole cups.",none,jun2019-2f-23,verified
+jun2019-2h-5,Higher,jun2019,2,5,2,yes,0,G06,,medium,Use the sine ratio in a right-angled triangle to find a side.,none,jun2019-2f-24,verified
+jun2019-2h-6,Higher,jun2019,2,6,2,yes,0,N11,,medium,"Give the lower and upper limits for a number given to the stated accuracy, placing each in the correct position.",visual-qa-sample,jun2019-2f-25,verified
+jun2019-2h-7,Higher,jun2019,2,7,4,yes,0,R01,,high,"Share by a combined ratio including fractional parts, find the total of the parts, then the required amount.",none,jun2019-2f-26,verified
+jun2019-2h-8,Higher,jun2019,2,8,2,yes,2,N06,,high,Write a decimal in standard form and convert standard form to an ordinary number.,none,jun2019-2f-27,verified
+jun2019-2h-9,Higher,jun2019,2,9,4,yes,2,R07,G03,medium,Use a scale factor squared for area or cubed for volume to find a ratio.,none,,
+jun2019-2h-10,Higher,jun2019,2,10,5,yes,2,P02,,medium,"Complete the tree diagram with complements, then add the products of the branches for the required outcomes.",visual-qa-sample,,
+jun2019-2h-11,Higher,jun2019,2,11,6,yes,3,S04,,medium,"Complete the cumulative frequency table, plot the points and draw the graph.",none,,
+jun2019-2h-12,Higher,jun2019,2,12,4,yes,0,G03,,high,"Find the sector angle from the arc length or area as a fraction of the circle, then work the other measure.",none,,
+jun2019-2h-13,Higher,jun2019,2,13,4,yes,0,A14,,medium,"Factorise numerators and denominators, then divide algebraic fractions or put over a common denominator.",none,,
+jun2019-2h-14,Higher,jun2019,2,14,7,yes,3,R09,R04,medium,Draw a tangent to the curve at the given time and find its gradient as the rate of change.,none,,
+jun2019-2h-15,Higher,jun2019,2,15,3,yes,0,A05,,high,"Multiply out the fraction, collect terms in the subject on one side, factorise and divide.",none,,
+jun2019-2h-16,Higher,jun2019,2,16,3,yes,0,A09,,high,"Find the gradient of the given line, use the negative reciprocal for the perpendicular, and form the equation through the given point.",none,,
+jun2019-2h-17,Higher,jun2019,2,17,4,yes,2,R01,,medium,Use the lowest common multiple to match the two ratios and combine them to a single ratio or probability.,none,,
+jun2019-2h-18,Higher,jun2019,2,18,5,yes,0,G09,G01,medium,"Use isosceles triangle and cyclic quadrilateral angle facts step by step, giving a reason for each.",none,,
+jun2019-2h-19,Higher,jun2019,2,19,4,yes,0,G08,G06,medium,Combine right-angled triangle trig with Pythagoras in a [value] solid to find the angle.,none,,
+jun2019-2h-20,Higher,jun2019,2,20,6,yes,2,G13,,high,"Express vectors as sums of known vectors along a path, then use a ratio of lengths on a line.",none,,
+jun2019-3h-1,Higher,jun2019,3,1,5,yes,2,P03,P01,high,"Place numbers in a Venn diagram using the set conditions, then work out a probability from it.",none,jun2019-3f-24,verified
+jun2019-3h-2,Higher,jun2019,3,2,3,yes,0,N09,,high,Apply the interest rate repeatedly year by year (compound growth).,none,jun2019-3f-25,verified
+jun2019-3h-3,Higher,jun2019,3,3,3,yes,2,S02,S01,high,Find the class containing the median and draw a frequency polygon using class midpoints.,none,jun2019-3f-26,verified
+jun2019-3h-4,Higher,jun2019,3,4,2,yes,0,S02,,medium,Spot errors in how a time-series graph is drawn or presented.,visual-qa-sample,jun2019-3f-27,verified
+jun2019-3h-5,Higher,jun2019,3,5,4,yes,0,G01,,high,Use the interior angle sum of a polygon and angle facts at a point to find the missing angle.,none,jun2019-3f-28,verified
+jun2019-3h-6,Higher,jun2019,3,6,5,yes,0,G04,,high,"Find the area of the circle and curved surface of a cylinder, then use coverage information to decide.",none,jun2019-3f-29,verified
+jun2019-3h-7,Higher,jun2019,3,7,2,yes,0,N11,,medium,Evaluate on a calculator and round to the requested accuracy.,none,,
+jun2019-3h-8,Higher,jun2019,3,8,2,yes,2,G05,,high,"Describe the mistake in a Pythagoras calculation (wrong side treated as hypotenuse, adding instead of subtracting).",none,,
+jun2019-3h-9,Higher,jun2019,3,9,3,yes,0,R02,,medium,"Work in machine-days: total needed, days already used, then divide the remaining work by the new number of machines.",none,,
+jun2019-3h-10,Higher,jun2019,3,10,3,yes,0,N09,,medium,"Reverse the tax step to get interest before tax, then find the interest rate on the deposit.",none,,
+jun2019-3h-11,Higher,jun2019,3,11,3,yes,2,R04,N06,medium,"Divide distance by speed after standard-form arithmetic, and explain why the time is longer.",none,,
+jun2019-3h-12,Higher,jun2019,3,12,1,yes,0,N04,,medium,"Explain that the notation means a fourth root, not division by four.",none,,
+jun2019-3h-13,Higher,jun2019,3,13,4,yes,0,R05,,high,"Mass of each liquid from volume times density, add them, divide by total volume for the mixture density.",none,,
+jun2019-3h-14,Higher,jun2019,3,14,4,yes,0,G06,R01,medium,"Write the triangle area with half ab sin C, equate rectangle area to a multiple of it, solve for the side.",none,,
+jun2019-3h-15,Higher,jun2019,3,15,2,yes,0,A10,,medium,Describe the effect of a graph transformation on a point and give the image coordinates.,none,,
+jun2019-3h-16,Higher,jun2019,3,16,3,yes,0,A12,,high,"Take differences twice to see a constant second difference, find the n squared coefficient, then the rest of the nth term.",none,,
+jun2019-3h-17,Higher,jun2019,3,17,2,yes,0,A10,,medium,Match graph shapes to equations from their key features.,none,,
+jun2019-3h-18,Higher,jun2019,3,18,6,yes,2,A02,A08,medium,"Expand three linear brackets by multiplying two first, then the third, and collect terms.",visual-qa-sample,,
+jun2019-3h-19,Higher,jun2019,3,19,5,yes,2,N12,,high,Take the bound that makes the whole calculation largest or smallest for each quantity and evaluate.,none,,
+jun2019-3h-20,Higher,jun2019,3,20,5,yes,0,A07,,medium,"Substitute from the linear equation into the quadratic and solve, then back-substitute for both points.",none,,
+jun2019-3h-21,Higher,jun2019,3,21,4,yes,0,S05,,medium,Find total frequency using area of bars (frequency density times class width) and use it to find a missing frequency.,none,,
+jun2019-3h-22,Higher,jun2019,3,22,4,yes,0,A17,G09,high,Use the circle equation x squared plus y squared equals r squared with the radius found from a right-angled triangle.,none,,
+jun2019-3h-23,Higher,jun2019,3,23,5,yes,0,G07,R08,medium,"Use bearings to find an interior angle, then the cosine rule for the length, then a bearing.",none,,
+jun2022-1h-1,Higher,jun2022,1,1,2,no,0,A08,,medium,Solve a linear inequality in one step each side.,none,jun2022-1f-23,verified
+jun2022-1h-2,Higher,jun2022,1,2,2,no,0,N02,,high,Break the number into prime factors by a factor tree or repeated division.,none,jun2022-1f-24,verified
+jun2022-1h-3,Higher,jun2022,1,3,5,no,0,R01,N09;N07,medium,"Split [value] in ratio [value] take fractions of the cars for each fuel type, add them, and combine.",none,jun2022-1f-25,verified
+jun2022-1h-4,Higher,jun2022,1,4,4,no,3,N06,,high,"Standard form conversion, and a calculation with standard form.",none,jun2022-1f-26,verified
+jun2022-1h-5,Higher,jun2022,1,5,3,no,0,G01,,high,Use exterior or interior angles of regular polygons to find the missing angle.,none,jun2022-1f-27,verified
+jun2022-1h-6,Higher,jun2022,1,6,6,no,3,A10,A11,medium,Complete a table of values and plot a smooth curve.,none,jun2022-1f-28,verified
+jun2022-1h-7,Higher,jun2022,1,7,3,no,0,R05,,high,"Find volumes of two cubes, divide mass by volume for each density, and give the ratio.",none,jun2022-1f-29,verified
+jun2022-1h-8,Higher,jun2022,1,8,3,no,0,S01,,medium,"Estimate the mean from a grouped table using class midpoints, with minimum and maximum bounds.",none,,
+jun2022-1h-9,Higher,jun2022,1,9,3,no,0,G04,G02,high,"Find surface area of the two solids by adding the areas of faces, accounting for the hidden overlap, and compare.",none,,
+jun2022-1h-10,Higher,jun2022,1,10,6,no,4,S04,,medium,"Complete a cumulative frequency table, plot the points, and read values off the graph.",visual-qa-sample,,
+jun2022-1h-11,Higher,jun2022,1,11,3,no,0,P01,R01,medium,"Total from the given probability of one colour, then form and solve an equation for the missing quantity.",none,,
+jun2022-1h-12,Higher,jun2022,1,12,3,no,0,N08,,medium,Convert a recurring decimal to a fraction by multiplying by powers of ten and subtracting.,none,,
+jun2022-1h-13,Higher,jun2022,1,13,3,no,0,G05,A15,medium,Show a relation between areas by applying Pythagoras to the diameters of three semicircles.,visual-qa-sample,,
+jun2022-1h-14,Higher,jun2022,1,14,4,no,2,R09,A17,medium,Draw a tangent at a given time and use its gradient as the rate of change.,none,,
+jun2022-1h-15,Higher,jun2022,1,15,5,no,2,G13,A15,medium,"Express vectors in terms of the given ones and show one is a multiple of the other, so the points are collinear.",none,,
+jun2022-1h-16,Higher,jun2022,1,16,4,no,0,P04,P02,medium,Form an equation from two product terms of a probability tree and solve for the unknown probability.,none,,
+jun2022-1h-17,Higher,jun2022,1,17,4,no,0,R02,,medium,"Set up the relationship with a constant, find the constant by substitution, then combine two relationships.",none,,
+jun2022-1h-18,Higher,jun2022,1,18,4,no,0,N04,,high,"Work with fractional and negative indices, handling roots and reciprocals step by step.",none,,
+jun2022-1h-19,Higher,jun2022,1,19,4,no,0,A06,A14,medium,"Put algebraic fractions over a common denominator, rearrange to a quadratic and solve.",none,,
+jun2022-1h-20,Higher,jun2022,1,20,4,no,0,A17,G09,medium,"Find the radius gradient to the point, take the negative reciprocal for the tangent, and form its equation.",none,,
+jun2022-1h-21,Higher,jun2022,1,21,5,no,0,G03,,high,Find sector area and triangle area using angles of [value] and subtract for the segment.,none,,
+jun2022-2h-1,Higher,jun2022,2,1,5,yes,3,A02,A01;N04,high,"Expand and simplify brackets, and factorise with a common factor.",none,jun2022-2f-21,verified
+jun2022-2h-2,Higher,jun2022,2,2,2,yes,0,G11,,high,Describe the single transformation as a translation by a column vector.,none,jun2022-2f-22,verified
+jun2022-2h-3,Higher,jun2022,2,3,2,yes,0,N11,,medium,Give the upper and lower limits for a number rounded to the stated degree.,none,jun2022-2f-23,verified
+jun2022-2h-4,Higher,jun2022,2,4,5,yes,2,N06,N13,medium,Compare area per person at two festivals using standard form arithmetic.,none,jun2022-2f-24,verified
+jun2022-2h-5,Higher,jun2022,2,5,4,yes,0,A09,R01,medium,Use coordinate differences and the given ratio to divide a line segment and find the end point.,none,jun2022-2f-25,verified
+jun2022-2h-6,Higher,jun2022,2,6,3,yes,0,N09,,medium,Apply percentage decrease each year as a repeated multiplier until the target is passed.,none,jun2022-2f-26,verified
+jun2022-2h-7,Higher,jun2022,2,7,4,yes,0,N13,R03,medium,"Convert litres to gallons and pounds to euros, work out unit prices and compare.",none,jun2022-2f-27,verified
+jun2022-2h-8,Higher,jun2022,2,8,2,yes,0,N11,N01,medium,Evaluate a multi-step calculator expression and round.,none,,
+jun2022-2h-9,Higher,jun2022,2,9,3,yes,0,R05,,medium,"Find the area from density or mass formula, then divide by the other dimension to find the width.",none,,
+jun2022-2h-10,Higher,jun2022,2,10,5,yes,3,S04,,high,Explain what the interquartile range tells you about the spread of the data.,none,,
+jun2022-2h-11,Higher,jun2022,2,11,3,yes,0,R02,A15,medium,Work in worker-days to test whether the extra workers finish in the required time.,none,,
+jun2022-2h-12,Higher,jun2022,2,12,2,yes,0,A09,A15,high,Rearrange both equations to y equals form and compare gradients to show parallel lines.,none,,
+jun2022-2h-13,Higher,jun2022,2,13,2,yes,0,G11,,high,Enlarge a shape by a scale factor about a given centre.,none,,
+jun2022-2h-14,Higher,jun2022,2,14,3,yes,0,S06,,medium,Scale up capture-recapture: marked fraction in second sample equals marked fraction overall.,none,,
+jun2022-2h-15,Higher,jun2022,2,15,4,yes,0,R01,,high,"Express the two shares algebraically after the transfer, equate them and solve for the unknown.",none,,
+jun2022-2h-16,Higher,jun2022,2,16,6,yes,2,P03,P01,high,"Fill the eight regions of a three-set Venn diagram from the given counts, working inwards from the intersections.",none,,
+jun2022-2h-17,Higher,jun2022,2,17,5,yes,2,G04,,high,"Find the volume of a hemisphere and a cylinder part, form an equation for the unknown height and solve.",none,,
+jun2022-2h-18,Higher,jun2022,2,18,4,yes,0,G07,,medium,"Use the cosine rule to find a side, then the sine rule to find an angle or length.",none,,
+jun2022-2h-19,Higher,jun2022,2,19,4,yes,2,A13,,high,"Find the inverse function, then compose with another function and solve.",none,,
+jun2022-2h-20,Higher,jun2022,2,20,4,yes,0,G09,,medium,"Use the angle at the centre being twice the angle at the circumference, with cyclic quadrilateral and straight line angles, giving reasons.",none,,
+jun2022-2h-21,Higher,jun2022,2,21,3,yes,2,A13,A10,medium,"Sketch a transformed trig graph by reflection and translation, and state the equation.",none,,
+jun2022-2h-22,Higher,jun2022,2,22,5,yes,0,A08,A03,medium,"Solve a quadratic inequality by finding critical values, and combine with a second inequality.",none,,
+jun2022-3h-1,Higher,jun2022,3,1,2,yes,0,G05,,high,Use Pythagoras with given sides to find the missing length.,none,jun2022-3f-22,verified
+jun2022-3h-2,Higher,jun2022,3,2,4,yes,2,A05,A01,medium,Substitute into a formula and rearrange to make a variable the subject.,none,jun2022-3f-23,verified
+jun2022-3h-3,Higher,jun2022,3,3,5,yes,0,A04,,medium,"Write each person's counters as expressions in one variable, form and solve a linear equation.",none,jun2022-3f-24,verified
+jun2022-3h-4,Higher,jun2022,3,4,4,yes,0,R03,,medium,Find the cost of the same number of rolls under two offers and compare.,none,jun2022-3f-25,verified
+jun2022-3h-5,Higher,jun2022,3,5,2,yes,0,S02,,medium,Spot a plotting error in a frequency polygon (point at the wrong position).,none,jun2022-3f-26,verified
+jun2022-3h-6,Higher,jun2022,3,6,4,yes,0,R04,,high,"Use distance equals speed times time for each stage, add the distances and compare.",none,jun2022-3f-27,verified
+jun2022-3h-7,Higher,jun2022,3,7,3,yes,0,G02,A15,high,"Write the areas of the parts using x, add or subtract them and show the result by algebra.",none,jun2022-3f-28,verified
+jun2022-3h-8,Higher,jun2022,3,8,3,yes,2,A09,R03,high,Read two values off the graph and find the gradient as change in y over change in x.,none,,
+jun2022-3h-9,Higher,jun2022,3,9,4,yes,2,N04,,high,Apply index laws to powers of ten with a root and combine the results.,none,,
+jun2022-3h-10,Higher,jun2022,3,10,3,yes,0,N09,,medium,Work backwards through two successive percentage changes using multipliers.,none,,
+jun2022-3h-11,Higher,jun2022,3,11,2,yes,0,N03,,medium,Multiply the numbers of choices (product rule).,none,,
+jun2022-3h-12,Higher,jun2022,3,12,3,yes,0,G06,,medium,Use trig with a right angle and a given angle in two steps to find a length.,none,,
+jun2022-3h-13,Higher,jun2022,3,13,3,yes,0,G13,,medium,"Work with column vectors, multiply and subtract to find the unknown vector.",none,,
+jun2022-3h-14,Higher,jun2022,3,14,5,yes,2,A02,,medium,"Take out the common factor, then factorise the difference of two squares.",none,,
+jun2022-3h-15,Higher,jun2022,3,15,3,yes,0,G10,G09,medium,Prove similar triangles using angles in the same segment and vertically opposite angles.,none,,
+jun2022-3h-16,Higher,jun2022,3,16,3,yes,0,N12,,medium,Use upper and lower bounds in the combination that gives the extreme value of the calculation.,none,,
+jun2022-3h-17,Higher,jun2022,3,17,5,yes,2,S05,,high,Draw a histogram using frequency density for unequal class widths.,none,,
+jun2022-3h-18,Higher,jun2022,3,18,5,yes,0,G08,G07,medium,"Find lengths in the base with ratios and Pythagoras, then the angle between a line and a plane using trig.",none,,
+jun2022-3h-19,Higher,jun2022,3,19,4,yes,0,A14,A15,medium,Combine algebraic fractions over a common denominator and simplify.,none,,
+jun2022-3h-20,Higher,jun2022,3,20,4,yes,0,A12,N09,medium,Use the recurrence rule twice to find the constant and then later terms.,none,,
+jun2022-3h-21,Higher,jun2022,3,21,4,yes,0,P02,P01,medium,Use the complement of an unwanted outcome and multiply probabilities of picks without replacement.,none,,
+jun2022-3h-22,Higher,jun2022,3,22,5,yes,0,A07,,medium,"Substitute the line into the curve to get a quadratic, solve and find both intersection points.",none,,
+jun2023-1h-1,Higher,jun2023,1,1,3,no,0,N01,,medium,Divide decimals by making the divisor a whole number or using a build-up method.,none,jun2023-1f-20,verified
+jun2023-1h-2,Higher,jun2023,1,2,3,no,0,N07,,high,Combine mixed numbers using a common denominator.,none,jun2023-1f-21,verified
+jun2023-1h-3,Higher,jun2023,1,3,4,no,0,G04,,high,"Surface area gives the area of one face, so the side length, then the volume of the cube.",none,jun2023-1f-22,verified
+jun2023-1h-4,Higher,jun2023,1,4,2,no,0,S02,,high,Draw a frequency polygon with points at class midpoints joined by straight lines.,none,jun2023-1f-23,verified
+jun2023-1h-5,Higher,jun2023,1,5,5,no,2,P03,P01,high,Complete a Venn diagram from the conditions and read off a probability.,none,jun2023-1f-24,verified
+jun2023-1h-6,Higher,jun2023,1,6,3,no,2,S03,,high,Describe the relationship on a scatter graph (positive correlation).,none,jun2023-1f-25,verified
+jun2023-1h-7,Higher,jun2023,1,7,2,no,0,N09,,medium,Reverse percentage: divide the sale price by the multiplier.,none,jun2023-1f-26,verified
+jun2023-1h-8,Higher,jun2023,1,8,3,no,0,R05,G04,high,Find the base area from the mass or volume then use pressure equals force divided by area.,none,jun2023-1f-27,verified
+jun2023-1h-9,Higher,jun2023,1,9,1,no,0,A07,A11,medium,Solve the pair of simultaneous equations.,none,jun2023-1f-28,verified
+jun2023-1h-10,Higher,jun2023,1,10,4,no,0,G01,,high,Use the pentagon interior angle sum and angle facts to find the unknown angle.,none,,
+jun2023-1h-11,Higher,jun2023,1,11,3,no,0,A01,N04,high,Simplify the product and quotient of terms using index laws on each letter.,none,,
+jun2023-1h-12,Higher,jun2023,1,12,3,no,0,P02,,medium,"Multiply probabilities along branches for each way of getting the required outcome and add, or use the complement.",visual-qa-sample,,
+jun2023-1h-13,Higher,jun2023,1,13,3,no,0,R02,,high,Direct proportion: find the constant of proportionality and apply it.,none,,
+jun2023-1h-14,Higher,jun2023,1,14,4,no,2,N04,,high,Write a fraction as a power of [value] and evaluate fractional powers.,visual-qa-sample,,
+jun2023-1h-15,Higher,jun2023,1,15,3,no,0,A09,,high,"Rearrange the line to find the gradient, use the negative reciprocal condition for perpendicular lines, and solve for k.",none,,
+jun2023-1h-16,Higher,jun2023,1,16,4,no,0,G04,N05,high,Use surface area ratio of part of a sphere to find the radius.,visual-qa-sample,,
+jun2023-1h-17,Higher,jun2023,1,17,4,no,0,A05,,medium,"Clear the fraction, collect terms in x on one side, factorise and make x the subject.",none,,
+jun2023-1h-18,Higher,jun2023,1,18,4,no,0,R01,A07,medium,Form equations from the cost ratio of two item types and solve for the quantity.,none,,
+jun2023-1h-19,Higher,jun2023,1,19,2,no,0,N03,A04,medium,Use the product rule to find the number of dessert choices.,none,,
+jun2023-1h-20,Higher,jun2023,1,20,5,no,2,A13,,high,"Find the inverse function and a composite, then solve the resulting equation.",none,,
+jun2023-1h-21,Higher,jun2023,1,21,4,no,0,G09,,high,"Use the angle at the centre rule and isosceles triangles with the tangent or radius facts to build the angle chain, giving reasons.",none,,
+jun2023-1h-22,Higher,jun2023,1,22,2,no,0,G08,,medium,"Use a right-angled triangle in the [value] solid, set up sine of the angle from two known lengths.",none,,
+jun2023-1h-23,Higher,jun2023,1,23,4,no,0,N05,,medium,"Rationalise each fraction or put over a common denominator, then combine surds and simplify.",none,,
+jun2023-1h-24,Higher,jun2023,1,24,5,no,0,A08,A06,medium,Find critical values of a quadratic inequality and state the range of integer or real solutions.,none,,
+jun2023-2h-1,Higher,jun2023,2,1,3,yes,2,N01,,medium,Evaluate on a calculator in stages and give all digits shown.,none,jun2023-2f-20,verified
+jun2023-2h-2,Higher,jun2023,2,2,2,yes,0,N02,,high,Prime factorisation by a factor tree or repeated division.,none,jun2023-2f-21,verified
+jun2023-2h-3,Higher,jun2023,2,3,1,yes,0,R01,,medium,"Compare the stated ratio with the real counts to show the claim is wrong, giving a reason.",none,jun2023-2f-22,verified
+jun2023-2h-4,Higher,jun2023,2,4,6,yes,3,A08,,high,Show an inequality on a number line with correct open or closed end circles.,none,jun2023-2f-23,verified
+jun2023-2h-5,Higher,jun2023,2,5,4,yes,0,A04,G02,medium,"Write the area of each shape in x, equate with the given difference and solve the linear equation.",none,jun2023-2f-24,verified
+jun2023-2h-6,Higher,jun2023,2,6,3,yes,0,N09,R01,high,"Split the total in the given ratio, apply a percentage, then combine to compare quantities.",none,jun2023-2f-25,verified
+jun2023-2h-7,Higher,jun2023,2,7,2,yes,0,N11,,medium,Give the lower and upper bounds for a rounded number.,none,jun2023-2f-26,verified
+jun2023-2h-8,Higher,jun2023,2,8,4,yes,0,N09,,high,Calculate the compound interest for each person's investment and compare.,none,jun2023-2f-27,verified
+jun2023-2h-9,Higher,jun2023,2,9,3,yes,2,S04,,high,Plot cumulative frequency points against upper class bounds and draw the curve.,none,,
+jun2023-2h-10,Higher,jun2023,2,10,4,yes,2,P05,,high,Use relative frequency from the experiment to estimate a probability and expected count.,none,,
+jun2023-2h-11,Higher,jun2023,2,11,4,yes,0,A07,,medium,Eliminate a variable from the pair of linear equations and substitute back.,none,,
+jun2023-2h-12,Higher,jun2023,2,12,4,yes,0,G03,,high,"Use Pythagoras to find the diameter, then the circumference.",none,,
+jun2023-2h-13,Higher,jun2023,2,13,4,yes,0,G07,,medium,"Use the sine rule to find an angle, then the angle sum of a triangle.",visual-qa-sample,,
+jun2023-2h-14,Higher,jun2023,2,14,3,yes,0,A14,,medium,Factorise numerator and denominator and cancel to give the required form.,visual-qa-sample,,
+jun2023-2h-15,Higher,jun2023,2,15,3,yes,0,A12,,high,"Find the constant second difference, deduce the n squared coefficient, then the linear part and constant.",none,,
+jun2023-2h-16,Higher,jun2023,2,16,4,yes,2,S05,,high,Use area of histogram bars as frequency to find an unknown bar height or frequency density.,none,,
+jun2023-2h-17,Higher,jun2023,2,17,4,yes,2,A16,,medium,Show a rearrangement of an equation into iteration form and iterate to get an approximate root.,none,,
+jun2023-2h-18,Higher,jun2023,2,18,3,yes,0,A15,R01,medium,Use the given ratios to link variables then prove the required relationship algebraically.,none,,
+jun2023-2h-19,Higher,jun2023,2,19,3,yes,0,N12,G06,medium,"Use upper and lower bounds of each quantity in the formula to get the extreme values, then quote an accurate answer.",none,,
+jun2023-2h-20,Higher,jun2023,2,20,4,yes,0,G13,,medium,Express the required vector as a path through known vectors using the ratio on the line.,none,,
+jun2023-2h-21,Higher,jun2023,2,21,2,yes,2,A13,A10,medium,Draw the transformed curve by translating the given turning points.,none,,
+jun2023-2h-22,Higher,jun2023,2,22,2,yes,0,P01,P02,medium,Use one minus the probability of all one colour or all the other for the n-item probability.,none,,
+jun2023-2h-23,Higher,jun2023,2,23,3,yes,0,R07,G02,medium,Use the ratio of the areas and the lengths ratio to show similar-figure relationship.,none,,
+jun2023-2h-24,Higher,jun2023,2,24,5,yes,0,G02,,high,"Split the shape into a square and triangles using the octagon angles and side lengths, write the area in a, and put in required form.",visual-qa-sample,,
+jun2023-3h-1,Higher,jun2023,3,1,4,yes,3,A01,A02;N04,medium,Simplify using the index law and expand a bracket.,none,jun2023-3f-20,verified
+jun2023-3h-2,Higher,jun2023,3,2,5,yes,2,N09,N10,high,"Work with [value] of the number of people, then scale for two groups and total.",none,jun2023-3f-21,verified
+jun2023-3h-3,Higher,jun2023,3,3,5,yes,0,G01,,high,Use parallel line angle facts with reasons for the unknown angle.,none,jun2023-3f-22,verified
+jun2023-3h-4,Higher,jun2023,3,4,2,yes,0,R02,,medium,Inverse proportion: pumps times hours is constant.,none,jun2023-3f-23,verified
+jun2023-3h-5,Higher,jun2023,3,5,3,yes,2,N02,,high,Use prime factorisation and multiples to find the lowest common multiple and the number of packs.,none,jun2023-3f-24,verified
+jun2023-3h-6,Higher,jun2023,3,6,3,yes,0,N06,N13,medium,Convert the volume at a flow rate to seconds then to days and round.,none,jun2023-3f-25,verified
+jun2023-3h-7,Higher,jun2023,3,7,2,yes,2,A10,A11,medium,State the turning point and estimate the roots from the graph.,none,jun2023-3f-26,verified
+jun2023-3h-8,Higher,jun2023,3,8,2,yes,0,R05,,high,Substitute into the density formula.,none,jun2023-3f-27,verified
+jun2023-3h-9,Higher,jun2023,3,9,2,yes,0,N09,,medium,Find successive percentages by multiplying decimal multipliers.,none,,
+jun2023-3h-10,Higher,jun2023,3,10,3,yes,0,G07,,medium,Use the sine rule or trig in two triangles to find the required length.,none,,
+jun2023-3h-11,Higher,jun2023,3,11,5,yes,2,S04,,high,Draw a box plot from the five-number summary.,none,,
+jun2023-3h-12,Higher,jun2023,3,12,3,yes,0,A02,,medium,"Expand two brackets, multiply by the third and collect like terms to show the result.",none,,
+jun2023-3h-13,Higher,jun2023,3,13,3,yes,0,A15,,high,Write the general consecutive triangular numbers and show the sum is a square.,none,,
+jun2023-3h-14,Higher,jun2023,3,14,4,yes,0,G03,G07,high,Use the cosine rule to find a side and then a circle measure.,none,,
+jun2023-3h-15,Higher,jun2023,3,15,3,yes,2,A15,A03,medium,Factorise a difference of squares and use it with a large number to show it is a multiple.,none,,
+jun2023-3h-16,Higher,jun2023,3,16,2,yes,0,G11,,medium,Enlarge with a negative or fractional scale factor about a given centre.,none,,
+jun2023-3h-17,Higher,jun2023,3,17,4,yes,2,R09,,medium,Draw a tangent at the given time and use its gradient as the rate of change.,none,,
+jun2023-3h-18,Higher,jun2023,3,18,5,yes,0,G04,,high,"Find the frustum's top radius with ratios, then curved surface area of the big and small cones and subtract.",none,,
+jun2023-3h-19,Higher,jun2023,3,19,1,yes,0,A10,A09,medium,Explain from the equation why the graph should pass through a given point.,none,,
+jun2023-3h-20,Higher,jun2023,3,20,3,yes,0,N08,A15,medium,Prove a recurring decimal equals a fraction by multiplying by powers of ten and subtracting.,none,,
+jun2023-3h-21,Higher,jun2023,3,21,4,yes,0,A14,,medium,"Clear fractions to get a quadratic equation, then solve it.",none,,
+jun2023-3h-22,Higher,jun2023,3,22,3,yes,0,G13,,medium,Write vectors in terms of a and b and equate coefficients to find the relationship.,none,,
+jun2023-3h-23,Higher,jun2023,3,23,4,yes,0,A17,G09,high,Use the radius gradient to the point and the perpendicular tangent condition to show the line is not a tangent.,none,,
+jun2023-3h-24,Higher,jun2023,3,24,5,yes,0,P02,A06,medium,"Express both counter counts in one variable using the ratio, form the without-replacement probability product and solve.",none,,
+jun2024-1h-1,Higher,jun2024,1,1,2,no,0,A12,,medium,Find the nth term of a linear sequence from the common difference.,none,jun2024-1f-20,verified
+jun2024-1h-2,Higher,jun2024,1,2,3,no,2,N07,,medium,Subtract fractions using a common denominator.,none,jun2024-1f-21,verified
+jun2024-1h-3,Higher,jun2024,1,3,5,no,2,G02,N13,medium,"Find the area of each shape and compare with the stated amount, giving a yes or no.",none,jun2024-1f-22,verified
+jun2024-1h-4,Higher,jun2024,1,4,3,no,2,P03,,medium,Complete the Venn diagram from the conditions and give a probability from it.,none,jun2024-1f-23,verified
+jun2024-1h-5,Higher,jun2024,1,5,4,no,2,N10,,high,"Round each value to one significant figure to estimate, and say whether it is an over or under estimate.",none,jun2024-1f-24,verified
+jun2024-1h-6,Higher,jun2024,1,6,4,no,2,A09,,high,Find the gradient and intercept from the graph and write the line equation.,none,jun2024-1f-25,verified
+jun2024-1h-7,Higher,jun2024,1,7,5,no,0,R01,N07,medium,Use the ratio chain across jars to find the number of empty jars and the final amount.,none,jun2024-1f-26,verified
+jun2024-1h-8,Higher,jun2024,1,8,3,no,0,S01,,medium,"Total from means: sum of the sets, subtract the known sum, divide by the remaining count.",none,,
+jun2024-1h-9,Higher,jun2024,1,9,1,no,0,N09,,medium,Percentage change found from a multiplier relation.,none,,
+jun2024-1h-10,Higher,jun2024,1,10,4,no,0,A07,,medium,Solve a pair of linear simultaneous equations by elimination.,none,,
+jun2024-1h-11,Higher,jun2024,1,11,3,no,0,G11,,high,"Describe the rotation (angle, direction, centre) that maps one shape to the other.",none,,
+jun2024-1h-12,Higher,jun2024,1,12,3,no,1,A10,,medium,Match the graphs to their equation types by shape.,none,,
+jun2024-1h-13,Higher,jun2024,1,13,5,no,2,S05,,high,Draw a histogram using frequency density.,none,,
+jun2024-1h-14,Higher,jun2024,1,14,3,no,0,A02,,medium,Multiply out three brackets stepwise and collect terms.,none,,
+jun2024-1h-15,Higher,jun2024,1,15,4,no,0,G03,,medium,"Find the sector angle from the arc length, then the area as that fraction of the circle.",none,,
+jun2024-1h-16,Higher,jun2024,1,16,2,no,0,P02,A06,medium,Write the two without-replacement probabilities as fractions in n and show the product equals the given value.,none,,
+jun2024-1h-17,Higher,jun2024,1,17,3,no,2,N05,,medium,"Rationalise a fraction with a surd denominator, and simplify a surd by taking out a square factor.",none,,
+jun2024-1h-18,Higher,jun2024,1,18,3,no,0,N08,,medium,"Convert two recurring decimals to fractions, add, and show the sum.",none,,
+jun2024-1h-19,Higher,jun2024,1,19,3,no,0,R07,G01,high,Use similar triangles to set up the ratio of sides and solve.,none,,
+jun2024-1h-20,Higher,jun2024,1,20,3,no,0,N04,,high,Write each variable as a power of [value] and add the indices.,none,,
+jun2024-1h-21,Higher,jun2024,1,21,5,no,0,G04,,high,"Form equations from the cuboid's volume and surface area, solve for the unknown width and height.",none,,
+jun2024-1h-22,Higher,jun2024,1,22,4,no,2,A10,G06,medium,Sketch the sine graph with labelled extremes and solve the equation using symmetry of the graph.,none,,
+jun2024-1h-23,Higher,jun2024,1,23,5,no,0,A17,A09,medium,"Use the circle equation and the given point to find the radius, the other intersection and line equation.",none,,
+jun2024-2h-1,Higher,jun2024,2,1,2,yes,0,G05,,medium,Use Pythagoras to find a shorter side.,none,jun2024-2f-20,verified
+jun2024-2h-2,Higher,jun2024,2,2,3,yes,2,N02,,high,Prime factorisation of [value] and LCM using the given factorisations.,none,jun2024-2f-21,verified
+jun2024-2h-3,Higher,jun2024,2,3,2,yes,0,R02,,medium,Substitute into the formula for each case and compare the times.,none,jun2024-2f-22,verified
+jun2024-2h-4,Higher,jun2024,2,4,4,yes,0,P01,R01,high,"Use the given probability of yellow to find the total, then the number of the other colours.",none,jun2024-2f-23,verified
+jun2024-2h-5,Higher,jun2024,2,5,6,yes,3,A11,A10,medium,"Complete a table of values, plot, and use the curve to solve an equation.",none,jun2024-2f-24,verified
+jun2024-2h-6,Higher,jun2024,2,6,4,yes,0,R01,N07,high,"Work out the amounts from the ratio, apply the two transfers, then compare the three people.",none,jun2024-2f-25,verified
+jun2024-2h-7,Higher,jun2024,2,7,4,yes,0,G01,,high,Form an equation from the angle sum of the quadrilateral and use the angle values to show a trapezium.,none,jun2024-2f-26,verified
+jun2024-2h-8,Higher,jun2024,2,8,3,yes,0,R08,R07,high,"Use the scale for a length, area scale factor for areas, and find the real area or length.",none,,
+jun2024-2h-9,Higher,jun2024,2,9,2,yes,2,N11,,high,Give the lower limit of a rounded number and explain why the stated upper limit is wrong.,visual-qa-sample,,
+jun2024-2h-10,Higher,jun2024,2,10,3,yes,0,G06,,high,"Write sine and tangent as ratios of sides, equate them and solve for x.",none,,
+jun2024-2h-11,Higher,jun2024,2,11,7,yes,4,S04,,high,"Complete cumulative frequency, plot and draw the curve, then read values.",none,,
+jun2024-2h-12,Higher,jun2024,2,12,4,yes,2,R02,A05,medium,"Write inverse proportion with constant k, find k, then solve for the unknown.",none,,
+jun2024-2h-13,Higher,jun2024,2,13,3,yes,0,A08,,high,Shade the region satisfying four inequalities by drawing their boundary lines.,none,,
+jun2024-2h-14,Higher,jun2024,2,14,6,yes,2,R09,,medium,Draw a tangent at the given time and find its gradient for the acceleration.,none,,
+jun2024-2h-15,Higher,jun2024,2,15,2,yes,0,N05,,high,Rationalise the denominator using the conjugate.,none,,
+jun2024-2h-16,Higher,jun2024,2,16,2,yes,0,A08,A06,medium,Find the critical values of the quadratic inequality and state the interval.,none,,
+jun2024-2h-17,Higher,jun2024,2,17,4,yes,0,R07,G04,medium,"Use the mass ratio to find a linear scale factor, then square for area.",none,,
+jun2024-2h-18,Higher,jun2024,2,18,5,yes,0,P02,,medium,Add probabilities of the successive pick combinations without replacement that give the required colour counts.,none,,
+jun2024-2h-19,Higher,jun2024,2,19,5,yes,2,G13,,high,Express vectors along each route through the points and find the one asked for in a and b.,none,,
+jun2024-2h-20,Higher,jun2024,2,20,3,yes,0,A18,A06,medium,Complete the square to find the turning point.,none,,
+jun2024-2h-21,Higher,jun2024,2,21,2,yes,0,A13,A10,medium,Reflect in the y-axis and translate by two units upwards.,none,,
+jun2024-2h-22,Higher,jun2024,2,22,4,yes,0,G09,G10,medium,"Prove with the right angle between radius and tangent and equal radii, so the triangles are congruent.",targeted-qa,,
+jun2024-3h-1,Higher,jun2024,3,1,2,yes,0,N02,,high,Factor trees or factor lists to find the highest common factor.,none,jun2024-3f-22,verified
+jun2024-3h-2,Higher,jun2024,3,2,4,yes,3,N06,,high,Convert between standard form and ordinary number and add large numbers in standard form.,none,jun2024-3f-23,verified
+jun2024-3h-3,Higher,jun2024,3,3,3,yes,2,G14,,high,"Explain the error in a side elevation, such as the wrong height.",none,jun2024-3f-24,verified
+jun2024-3h-4,Higher,jun2024,3,4,4,yes,0,N09,,high,"Apply the yearly percentage increase repeatedly with compound interest, then subtract the starting amount.",none,jun2024-3f-25,verified
+jun2024-3h-5,Higher,jun2024,3,5,4,yes,0,R05,,high,"Use the density relation to find the volume of the tin and the salt, then the mass of the remainder.",none,jun2024-3f-26,verified
+jun2024-3h-6,Higher,jun2024,3,6,4,yes,2,P02,,medium,"Complete the probability tree, then multiply along branches and add for the required outcomes.",visual-qa-sample,jun2024-3f-27,verified
+jun2024-3h-7,Higher,jun2024,3,7,4,yes,0,G04,N13,high,"Find the volume of a cylinder, convert to a time using the flow rate, give in minutes.",none,jun2024-3f-28,verified
+jun2024-3h-8,Higher,jun2024,3,8,3,yes,0,G13,G11,high,Apply the transformation described by a combined translation and scaling to a point.,none,,
+jun2024-3h-9,Higher,jun2024,3,9,3,yes,0,G04,R07,high,Equate the cube and pyramid volumes with a scale factor and solve for the height.,none,,
+jun2024-3h-10,Higher,jun2024,3,10,3,yes,0,A15,R01,medium,Write the counts in each bag algebraically from the ratios and show the required fraction.,visual-qa-sample,,
+jun2024-3h-11,Higher,jun2024,3,11,5,yes,2,S04,,high,Find the quartiles and extremes from the table and draw the box plot.,none,,
+jun2024-3h-12,Higher,jun2024,3,12,2,yes,0,G11,,high,Enlarge the triangle with a negative scale factor from the stated centre.,none,,
+jun2024-3h-13,Higher,jun2024,3,13,2,yes,0,N03,P01,medium,"Count the pairs: the number of ways to choose two from thirty, halving the ordered pairs.",none,,
+jun2024-3h-14,Higher,jun2024,3,14,4,yes,0,N09,,medium,Work backwards through compound interest with a withdrawal to find the original investment.,visual-qa-sample,,
+jun2024-3h-15,Higher,jun2024,3,15,6,yes,3,A02,A14,high,Factorise a quadratic over a quadratic and cancel the common factor.,none,,
+jun2024-3h-16,Higher,jun2024,3,16,5,yes,3,A13,,high,"Compose functions in the stated order and evaluate, or find the inverse.",none,,
+jun2024-3h-17,Higher,jun2024,3,17,3,yes,0,A12,N07,medium,Use the geometric bounce ratio to find the height after n bounces.,none,,
+jun2024-3h-18,Higher,jun2024,3,18,5,yes,0,G07,G06,medium,Use sine rule to find a length then area formula or the angle.,none,,
+jun2024-3h-19,Higher,jun2024,3,19,3,yes,0,N12,N06,high,Use upper and lower bounds on the two quantities to give an answer correct to the justified accuracy.,visual-qa-sample,,
+jun2024-3h-20,Higher,jun2024,3,20,7,yes,2,A12,,medium,Equate common differences of the arithmetic sequence and solve.,none,,
+jun2024-3h-21,Higher,jun2024,3,21,4,yes,0,G02,G03,high,Use trig in the regular hexagon to relate the sides and show the result.,none,,
+jun2025-1h-1,Higher,jun2025,1,1,2,no,0,N02,,high,Prime factor trees to get the HCF of two numbers.,none,jun2025-1f-19,verified
+jun2025-1h-2,Higher,jun2025,1,2,5,no,2,P01,,medium,"Probabilities sum to one, so solve for the unknown and find the required value.",none,jun2025-1f-20,verified
+jun2025-1h-3,Higher,jun2025,1,3,5,no,3,A10,A11,high,Complete a table for a cubic and draw its graph.,visual-qa-sample,jun2025-1f-21,verified
+jun2025-1h-4,Higher,jun2025,1,4,6,no,2,R01,N07,medium,Work through the ratio and fractions of the whole to find the amounts of each kind.,none,jun2025-1f-22,verified
+jun2025-1h-5,Higher,jun2025,1,5,3,no,0,N06,,high,Add two numbers in standard form by converting to ordinary numbers and back.,none,jun2025-1f-23,verified
+jun2025-1h-6,Higher,jun2025,1,6,4,no,0,G01,,high,Use interior and exterior angles of regular polygons to find the number of sides.,none,jun2025-1f-24,verified
+jun2025-1h-7,Higher,jun2025,1,7,6,no,3,A08,,medium,"Expand and simplify an expression, then solve a linear inequality.",none,,
+jun2025-1h-8,Higher,jun2025,1,8,5,no,2,G10,R07,medium,Prove similar triangles using common angle and corresponding angles with reasons.,visual-qa-sample,,
+jun2025-1h-9,Higher,jun2025,1,9,4,no,2,G11,,high,"Describe the transformation as a rotation with angle, direction and centre.",none,,
+jun2025-1h-10,Higher,jun2025,1,10,3,no,0,A15,,high,Write consecutive even numbers as [value] form the expression and show a result.,none,,
+jun2025-1h-11,Higher,jun2025,1,11,5,no,0,R02,,medium,"Inverse proportion with a cube: form the equation with constant k, find k and apply it.",none,,
+jun2025-1h-12,Higher,jun2025,1,12,7,no,3,R09,,medium,Draw a tangent at the time given and find its gradient for the rate.,none,,
+jun2025-1h-13,Higher,jun2025,1,13,5,no,0,N08,N07,high,"Convert the recurring decimal to a fraction via multiples and subtract, then find the value.",none,,
+jun2025-1h-14,Higher,jun2025,1,14,5,no,0,P02,P01,medium,"Find probabilities of each way for the draws without replacement and compare, giving a decision.",none,,
+jun2025-1h-15,Higher,jun2025,1,15,4,no,0,S05,P01,medium,Use the areas of histogram bars as frequency and find a total or estimate.,none,,
+jun2025-1h-16,Higher,jun2025,1,16,6,no,2,N05,,high,Rationalise the denominator and simplify surds to the required form.,none,,
+jun2025-1h-17,Higher,jun2025,1,17,5,no,0,A13,A06,medium,Compose functions both ways and show they are different.,none,,
+jun2025-2h-1,Higher,jun2025,2,1,4,yes,2,N02,,high,Prime factorisation written in index form.,none,jun2025-2f-20,verified
+jun2025-2h-2,Higher,jun2025,2,2,3,yes,0,R01,,high,Share a total in a ratio and find one or more shares.,none,jun2025-2f-21,verified
+jun2025-2h-3,Higher,jun2025,2,3,5,yes,2,G02,G03,medium,Find the area of a triangle minus a sector or circle to get the shaded area.,none,jun2025-2f-22,verified
+jun2025-2h-4,Higher,jun2025,2,4,1,yes,0,G12,,medium,Explain the error in the locus drawing (shaded the wrong side).,none,jun2025-2f-23,verified
+jun2025-2h-5,Higher,jun2025,2,5,3,yes,0,N06,N09,medium,"Reverse percentage with a stated percentage, and convert to the original quantity.",none,jun2025-2f-24,verified
+jun2025-2h-6,Higher,jun2025,2,6,5,yes,0,S01,,high,Use the mean of one list to form an equation for the mean of another list and solve.,none,jun2025-2f-25,verified
+jun2025-2h-7,Higher,jun2025,2,7,2,yes,0,G06,,medium,Use tangent with the right-angled triangle to find an angle.,none,jun2025-2f-26,verified
+jun2025-2h-8,Higher,jun2025,2,8,3,yes,0,R05,N13,high,Use density with unit conversions to find the volume and mass.,none,jun2025-2f-27,verified
+jun2025-2h-9,Higher,jun2025,2,9,2,yes,0,N04,A02,high,Write the expression as a quadratic in the required form by expanding and matching.,none,,
+jun2025-2h-10,Higher,jun2025,2,10,2,yes,0,A04,A14,high,Solve an equation with algebraic fractions by clearing denominators.,none,,
+jun2025-2h-11,Higher,jun2025,2,11,5,yes,2,P02,,high,Complete a probability tree and multiply branch values for the required outcomes.,none,,
+jun2025-2h-12,Higher,jun2025,2,12,5,yes,3,S04,,high,Draw a box plot from given summary statistics.,none,,
+jun2025-2h-13,Higher,jun2025,2,13,3,yes,0,A02,A15,medium,Expand the brackets and collect terms to show the result.,none,,
+jun2025-2h-14,Higher,jun2025,2,14,3,yes,0,N03,,medium,Multiply the numbers of choices for selections in order for the total arrangements.,visual-qa-sample,,
+jun2025-2h-15,Higher,jun2025,2,15,5,yes,2,A08,,medium,"Shade the region on a graph from several inequalities, with their boundary lines.",none,,
+jun2025-2h-16,Higher,jun2025,2,16,5,yes,2,R07,,high,Use scale factors cubed on volumes of similar solids to find the unknown height.,none,,
+jun2025-2h-17,Higher,jun2025,2,17,2,yes,0,A10,,medium,Substitute known values to find a constant in an exponential-type equation.,none,,
+jun2025-2h-18,Higher,jun2025,2,18,3,yes,0,R06,,medium,Find the growth constant from two values and apply it over several years to show the claim.,none,,
+jun2025-2h-19,Higher,jun2025,2,19,4,yes,0,G08,,medium,Use tangent in a right-angled triangle to find a length in a plane figure.,none,,
+jun2025-2h-20,Higher,jun2025,2,20,5,yes,0,A09,,high,"Find a midpoint or point on a line, use gradients of perpendicular lines and show a coordinate.",none,,
+jun2025-2h-21,Higher,jun2025,2,21,2,yes,0,A08,,medium,Solve a quadratic inequality using critical values and state the interval.,none,,
+jun2025-2h-22,Higher,jun2025,2,22,3,yes,0,A17,A10,medium,Sketch a circle from its equation with centre and axis intercepts labelled.,none,,
+jun2025-2h-23,Higher,jun2025,2,23,5,yes,0,G07,,medium,Use the cosine rule with the given angle and then the sine rule or an area result.,none,,
+jun2025-3h-1,Higher,jun2025,3,1,2,yes,0,S02,,high,Plot a frequency polygon at midpoints and join with straight lines.,visual-qa-sample,jun2025-3f-22,verified
+jun2025-3h-2,Higher,jun2025,3,2,3,yes,2,A05,A02,medium,Identify the mistake in a worked expansion or equation (term not multiplied).,none,jun2025-3f-23,verified
+jun2025-3h-3,Higher,jun2025,3,3,3,yes,0,N09,,high,Work out selling price per bag and profit percentage.,none,jun2025-3f-24,verified
+jun2025-3h-4,Higher,jun2025,3,4,4,yes,0,N13,R03,medium,"Convert weight units and currency, compare costs between two options.",none,jun2025-3f-25,verified
+jun2025-3h-5,Higher,jun2025,3,5,2,yes,0,N11,,medium,Give the lower and upper bounds for a rounded value.,none,jun2025-3f-26,verified
+jun2025-3h-6,Higher,jun2025,3,6,3,yes,0,R04,N13,high,"Convert time to hours and use speed, distance, time relation.",none,jun2025-3f-27,verified
+jun2025-3h-7,Higher,jun2025,3,7,3,yes,0,A09,R01,medium,Find the point dividing a line segment using coordinate differences and a ratio.,none,jun2025-3f-28,verified
+jun2025-3h-8,Higher,jun2025,3,8,5,yes,0,G02,,high,"Write the trapezium area in terms of x, equate and solve.",none,jun2025-3f-29,verified
+jun2025-3h-9,Higher,jun2025,3,9,2,yes,2,N06,,medium,Convert between ordinary number and standard form for large and small values.,none,,
+jun2025-3h-10,Higher,jun2025,3,10,2,yes,0,N11,G06,medium,Evaluate with a calculator in stages and give the answer to one decimal place.,none,,
+jun2025-3h-11,Higher,jun2025,3,11,4,yes,2,N04,,medium,"Use index laws, set the indices equal, and solve for n.",none,,
+jun2025-3h-12,Higher,jun2025,3,12,4,yes,2,N09,,high,Explain why the percentage was calculated on the new amount instead of the original.,none,,
+jun2025-3h-13,Higher,jun2025,3,13,3,yes,0,A10,,medium,Match each graph with its type of equation.,none,,
+jun2025-3h-14,Higher,jun2025,3,14,2,yes,0,G07,,medium,Use the area formula with two sides and the included angle.,none,,
+jun2025-3h-15,Higher,jun2025,3,15,4,yes,0,P02,,medium,Multiply probabilities for each case with replacement and add.,none,,
+jun2025-3h-16,Higher,jun2025,3,16,4,yes,0,G04,,high,Equate volumes of the cone and cylinder parts to find the height.,none,,
+jun2025-3h-17,Higher,jun2025,3,17,3,yes,0,A14,A06,medium,Combine algebraic fractions over a common denominator and simplify to show a result.,none,,
+jun2025-3h-18,Higher,jun2025,3,18,6,yes,2,P03,,high,Complete a three-set Venn diagram from the information given.,none,,
+jun2025-3h-19,Higher,jun2025,3,19,3,yes,0,N12,,high,Use bounds of every quantity in the formula for the answer limits.,none,,
+jun2025-3h-20,Higher,jun2025,3,20,4,yes,0,G09,,high,Use cyclic quadrilateral and angle at centre facts to find the angle.,none,,
+jun2025-3h-21,Higher,jun2025,3,21,5,yes,0,A07,,medium,Solve simultaneous equations (linear and non-linear) by substitution.,none,,
+jun2025-3h-22,Higher,jun2025,3,22,4,yes,0,A17,G09,medium,Find the equation of a perpendicular or tangent line and the point where it meets the curve.,none,,
+jun2025-3h-23,Higher,jun2025,3,23,5,yes,0,G13,,high,Express the vector in terms of a and b through path and ratio.,visual-qa-sample,,
+nov2019-1h-1,Higher,nov2019,1,1,3,no,0,N02,,high,Prime factorisation to find the lowest common multiple.,none,nov2019-1f-20,verified
+nov2019-1h-2,Higher,nov2019,1,2,4,no,0,R01,,medium,Use the ratio of groups to find the number of men and children.,none,nov2019-1f-21,verified
+nov2019-1h-3,Higher,nov2019,1,3,3,no,0,N07,,high,Multiply mixed numbers as fractions.,none,nov2019-1f-22,verified
+nov2019-1h-4,Higher,nov2019,1,4,2,no,0,G12,,high,Construct the perpendicular from a point to a line with compasses.,none,nov2019-1f-23,verified
+nov2019-1h-5,Higher,nov2019,1,5,4,no,0,G01,,high,Use the angle sum of a triangle and angles on a straight line.,none,nov2019-1f-24,verified
+nov2019-1h-6,Higher,nov2019,1,6,3,no,0,S01,,medium,Compare total weights from the means to decide the claim.,none,nov2019-1f-25,verified
+nov2019-1h-7,Higher,nov2019,1,7,3,no,2,A01,N04,medium,Simplify with index laws on number and letters.,none,nov2019-1f-26,verified
+nov2019-1h-8,Higher,nov2019,1,8,5,no,1,R08,R04,high,Draw the bearing and find the position and a distance.,none,nov2019-1f-27,verified
+nov2019-1h-9,Higher,nov2019,1,9,4,no,2,R04,,high,Use distance equals speed times time with a unit change.,none,,
+nov2019-1h-10,Higher,nov2019,1,10,6,no,3,S04,,high,Draw a cumulative frequency graph from the table and read values.,none,,
+nov2019-1h-11,Higher,nov2019,1,11,2,no,0,S06,R01,medium,Use the sample proportion to estimate the total (capture-recapture).,none,,
+nov2019-1h-12,Higher,nov2019,1,12,1,no,0,A05,,medium,Identify the error in expanding a bracket with three terms.,none,,
+nov2019-1h-13,Higher,nov2019,1,13,3,no,2,A14,,medium,Add algebraic fractions over a common denominator.,visual-qa-sample,,
+nov2019-1h-14,Higher,nov2019,1,14,4,no,0,A06,G02,medium,Equate the triangle area expression and solve the quadratic to find x.,none,,
+nov2019-1h-15,Higher,nov2019,1,15,3,no,0,N08,,medium,Convert the recurring decimal to a fraction by multiples and subtraction.,none,,
+nov2019-1h-16,Higher,nov2019,1,16,5,no,2,N05,,high,Rationalise the denominator of fractions with surds.,none,,
+nov2019-1h-17,Higher,nov2019,1,17,4,no,0,R07,G04,medium,"Linear scale factor, cube it for volume and divide to find the mass or cost.",none,,
+nov2019-1h-18,Higher,nov2019,1,18,6,no,2,A13,,high,Find the inverse function and show the value by substitution.,none,,
+nov2019-1h-19,Higher,nov2019,1,19,3,no,0,N04,,medium,Convert to a common base and equate the indices (indices solve).,none,,
+nov2019-1h-20,Higher,nov2019,1,20,3,no,2,A13,A10,medium,Translate the graph by a given vector and draw the new curve.,none,,
+nov2019-1h-21,Higher,nov2019,1,21,5,no,0,A10,A06,high,"Sketch a parabola with its intercepts found by solving the quadratic, with the turning point.",none,,
+nov2019-1h-22,Higher,nov2019,1,22,4,no,0,G10,G09,high,"Prove similar triangles using equal angles in the same segment and a second pair of equal angles, with reasons.",none,,
+nov2019-2h-1,Higher,nov2019,2,1,2,yes,0,S02,,medium,Give two statements criticising the graph (missing labels or title).,none,,
+nov2019-2h-2,Higher,nov2019,2,2,2,yes,0,N11,,medium,Give the lower and upper bounds of a rounded value.,none,,
+nov2019-2h-3,Higher,nov2019,2,3,4,yes,0,R01,,medium,"Share in two ratios, find the amounts by one-part value and compare or combine.",none,,
+nov2019-2h-4,Higher,nov2019,2,4,3,yes,1,S06,,high,"Scale up from a sample proportion to estimate the population, and comment on the sample.",none,,
+nov2019-2h-5,Higher,nov2019,2,5,2,yes,2,A10,,medium,Match the graphs to their equations.,none,,
+nov2019-2h-6,Higher,nov2019,2,6,3,yes,0,A12,,high,Generate terms of the sequence and show a common second difference or a term in both.,none,,
+nov2019-2h-7,Higher,nov2019,2,7,2,yes,0,N06,,medium,Divide numbers in standard form by converting to ordinary form.,none,,
+nov2019-2h-8,Higher,nov2019,2,8,3,yes,0,R02,,medium,Find the times at two speeds and take the difference.,visual-qa-sample,,
+nov2019-2h-9,Higher,nov2019,2,9,5,yes,0,G04,,high,Add the areas of the faces of the cuboid and compare with the given amount.,none,,
+nov2019-2h-10,Higher,nov2019,2,10,2,yes,0,A05,,medium,Square both sides and rearrange to make the letter the subject.,none,,
+nov2019-2h-11,Higher,nov2019,2,11,3,yes,2,S04,,high,Compare the medians and give a conclusion in context.,none,,
+nov2019-2h-12,Higher,nov2019,2,12,4,yes,0,G06,,medium,"Use sine in a right-angled triangle for a side, then another trig step to find a length.",none,,
+nov2019-2h-13,Higher,nov2019,2,13,3,yes,0,N09,,high,Compound interest at a yearly rate to find how many years or the final amount.,none,,
+nov2019-2h-14,Higher,nov2019,2,14,2,yes,0,N03,,medium,Product of choices: divide the total by one of the numbers of choices.,none,,
+nov2019-2h-15,Higher,nov2019,2,15,3,yes,0,A02,,medium,"Expand two brackets and subtract another expansion, collecting terms.",none,,
+nov2019-2h-16,Higher,nov2019,2,16,3,yes,0,P02,P01,medium,Multiply probabilities without replacement for the outcomes and use the complement.,none,,
+nov2019-2h-17,Higher,nov2019,2,17,3,yes,0,G09,,medium,Use tangent-radius right angle and isosceles triangle angle facts to find the angle.,none,,
+nov2019-2h-18,Higher,nov2019,2,18,3,yes,0,S05,,medium,Use frequency from bar area to find the missing bar height.,none,,
+nov2019-2h-19,Higher,nov2019,2,19,2,yes,0,G04,,high,Volume of a hemisphere and a cylinder or cone added.,none,,
+nov2019-2h-20,Higher,nov2019,2,20,4,yes,0,N12,,high,"Use bounds of each quantity in the formula to find the extreme value, and give the answer to justified accuracy.",visual-qa-sample,,
+nov2019-2h-21,Higher,nov2019,2,21,5,yes,2,R09,,high,Find the area under the speed-time graph in parts for distance.,none,,
+nov2019-2h-22,Higher,nov2019,2,22,4,yes,2,R06,A12,medium,Apply the monthly growth and withdrawal rule repeatedly to find the later balance.,none,,
+nov2019-2h-23,Higher,nov2019,2,23,6,yes,2,A08,A06,medium,"Write the area of the parallelogram with sine of the angle, equate, rearrange to show the quadratic.",none,,
+nov2019-2h-24,Higher,nov2019,2,24,2,yes,0,G11,,high,"Describe the rotation with angle, direction and centre.",none,,
+nov2019-2h-25,Higher,nov2019,2,25,5,yes,0,A09,A07,medium,"Find the gradient of line L, use the negative reciprocal for the perpendicular, and form the line equation.",none,,
+nov2019-3h-1,Higher,nov2019,3,1,4,yes,2,A02,,medium,Expand double brackets and factorise a quadratic with a common factor.,none,nov2019-3f-22,verified
+nov2019-3h-2,Higher,nov2019,3,2,3,yes,2,N11,,high,Evaluate in stages on a calculator and give at least three decimal places.,none,nov2019-3f-23,verified
+nov2019-3h-3,Higher,nov2019,3,3,2,yes,0,S03,,high,Draw a line of best fit and read an estimate.,none,nov2019-3f-24,verified
+nov2019-3h-4,Higher,nov2019,3,4,3,yes,0,S01,,medium,Estimate the mean from grouped data using midpoints (or ends for bounds).,none,nov2019-3f-25,verified
+nov2019-3h-5,Higher,nov2019,3,5,1,yes,0,N13,,medium,Round a quantity to an appropriate degree of accuracy.,none,nov2019-3f-26,verified
+nov2019-3h-6,Higher,nov2019,3,6,4,yes,0,R04,,high,Find the time taken and convert to hours then use speed.,none,nov2019-3f-27,verified
+nov2019-3h-7,Higher,nov2019,3,7,3,yes,3,N06,,high,"Convert standard form, compare the sizes using the power of ten and explain.",none,nov2019-3f-28,verified
+nov2019-3h-8,Higher,nov2019,3,8,4,yes,0,G01,,high,Use exterior and interior angle facts of the polygon with straight lines.,none,nov2019-3f-29,verified
+nov2019-3h-9,Higher,nov2019,3,9,2,yes,0,G11,,high,Enlarge with a fractional scale factor about a given centre.,none,,
+nov2019-3h-10,Higher,nov2019,3,10,4,yes,2,A04,A01,medium,Multiply both sides by [value] first and solve the linear equation.,none,,
+nov2019-3h-11,Higher,nov2019,3,11,3,yes,0,P02,,medium,Multiply branch probabilities for each combination and add.,none,,
+nov2019-3h-12,Higher,nov2019,3,12,3,yes,0,S04,,high,Find quartiles from the stem and leaf diagram and draw the box plot.,none,,
+nov2019-3h-13,Higher,nov2019,3,13,4,yes,0,R05,,high,"Volumes of cylinders, find the total or compare with the mass density.",none,,
+nov2019-3h-14,Higher,nov2019,3,14,4,yes,0,R01,,medium,Work with fractions of a chosen starting number and the ratio to find the number or percentage.,none,,
+nov2019-3h-15,Higher,nov2019,3,15,3,yes,0,A15,,high,"Write two consecutive even numbers, expand the sum of squares and show it is divisible by [value]",none,,
+nov2019-3h-16,Higher,nov2019,3,16,3,yes,0,R02,,medium,"Direct or inverse proportion with a constant found from one pair, then use it.",none,,
+nov2019-3h-17,Higher,nov2019,3,17,4,yes,0,A11,A10,high,Draw the line [value] on the grid and read the intersections for the equation's solutions.,none,,
+nov2019-3h-18,Higher,nov2019,3,18,5,yes,0,G07,R07;G10,medium,Use the cosine rule to find an angle then a length or area.,none,,
+nov2019-3h-19,Higher,nov2019,3,19,3,yes,0,R09,,medium,Draw a tangent at [value] and find its gradient as change in y over change in x.,none,,
+nov2019-3h-20,Higher,nov2019,3,20,2,yes,0,A12,,medium,"Find the second difference to get the n squared term, then the linear part.",none,,
+nov2019-3h-21,Higher,nov2019,3,21,2,yes,0,P02,,medium,Find probabilities from a given product and square root in a repeated trial.,none,,
+nov2019-3h-22,Higher,nov2019,3,22,4,yes,0,A14,A15,medium,Divide algebraic fractions by multiplying by the reciprocal and factorising.,none,,
+nov2019-3h-23,Higher,nov2019,3,23,5,yes,0,G04,G03,high,"Form the cylinder or cone volume equation, find the radius squared, then the required area or height.",none,,
+nov2019-3h-24,Higher,nov2019,3,24,5,yes,0,G13,,medium,"Express the vectors with the ratios on the sides and compare, giving a ratio of lengths.",none,,
+nov2020-1h-1,Higher,nov2020,1,1,2,no,0,A12,,medium,Find the nth term of a linear sequence from the common difference.,none,nov2020-1f-20,verified
+nov2020-1h-2,Higher,nov2020,1,2,3,no,0,N07,A15,medium,Convert mixed numbers to improper fractions and multiply to show a result.,none,nov2020-1f-21,verified
+nov2020-1h-3,Higher,nov2020,1,3,2,no,0,A10,,medium,Match the graphs with their equations by shape.,none,nov2020-1f-22,verified
+nov2020-1h-4,Higher,nov2020,1,4,1,no,0,G10,,medium,Identify the pair of congruent or similar shapes from the diagram.,none,,candidate
+nov2020-1h-5,Higher,nov2020,1,5,3,no,0,N09,,high,Work out cost and selling price per item and the percentage profit.,none,nov2020-1f-24,verified
+nov2020-1h-6,Higher,nov2020,1,6,5,no,0,G01,,high,Use corresponding and co-interior angles for the unknown angle with reasons.,none,nov2020-1f-25,verified
+nov2020-1h-7,Higher,nov2020,1,7,3,no,0,S01,S04,high,Compare the median and range of the two groups and conclude.,none,nov2020-1f-26,verified
+nov2020-1h-8,Higher,nov2020,1,8,3,no,0,R05,G04,medium,Use the direct proportion or pressure formula with an intermediate area value.,none,nov2020-1f-27,verified
+nov2020-1h-9,Higher,nov2020,1,9,2,no,0,N06,,high,Write numbers in standard form and in order of size.,none,nov2020-1f-28,verified
+nov2020-1h-10,Higher,nov2020,1,10,3,no,0,R01,,medium,"Equate the shared quantity in two ratios by choosing a multiplier, to combine into one ratio.",none,nov2020-1f-29,verified
+nov2020-1h-11,Higher,nov2020,1,11,6,no,3,N04,,high,Evaluate roots and powers of standard form numbers.,none,,
+nov2020-1h-12,Higher,nov2020,1,12,6,no,3,S04,,medium,Draw a cumulative frequency graph from the table.,none,,
+nov2020-1h-13,Higher,nov2020,1,13,3,no,0,R05,,high,"Use density to find volumes and masses of the parts, and total density.",none,,
+nov2020-1h-14,Higher,nov2020,1,14,3,no,0,P02,,medium,Multiply branch probabilities for the combinations and add.,none,,
+nov2020-1h-15,Higher,nov2020,1,15,3,no,0,A09,,high,"Find gradient of the perpendicular line, then its equation through a given point.",none,,
+nov2020-1h-16,Higher,nov2020,1,16,4,no,2,S06,,medium,Capture-recapture: scale up the sample proportion to estimate the population.,none,,
+nov2020-1h-17,Higher,nov2020,1,17,4,no,0,A05,,medium,"Clear the fraction, collect the terms in the subject and factorise.",none,,
+nov2020-1h-18,Higher,nov2020,1,18,3,no,0,R02,N09,high,"Set up a proportion with constant k, find k and use it.",none,,
+nov2020-1h-19,Higher,nov2020,1,19,5,no,3,A13,,high,Compose the two functions in the order given and evaluate.,none,,
+nov2020-1h-20,Higher,nov2020,1,20,4,no,0,N05,A15,medium,Rationalise the denominator with surds and simplify.,none,,
+nov2020-1h-21,Higher,nov2020,1,21,4,no,0,G13,,high,Write vectors for each segment with midpoints and show the result by comparing vectors.,none,,
+nov2020-1h-22,Higher,nov2020,1,22,5,no,0,G03,,medium,"Write the areas of both circles in terms of x, simplify and find x.",none,,
+nov2020-1h-23,Higher,nov2020,1,23,3,no,0,R01,N07,medium,Use the fractions of the total number of cards and a common total of [value],none,,
+nov2020-2h-1,Higher,nov2020,2,1,4,yes,2,N02,,high,Prime factorisation in index or product form.,none,nov2020-2f-21,verified
+nov2020-2h-2,Higher,nov2020,2,2,5,yes,2,P03,P01,medium,Fill the Venn diagram regions from the information given.,none,nov2020-2f-22,verified
+nov2020-2h-3,Higher,nov2020,2,3,5,yes,0,R01,A07,medium,"Share the total in the ratio, apply the further ratio or percentage and compare.",none,nov2020-2f-23,verified
+nov2020-2h-4,Higher,nov2020,2,4,4,yes,2,A10,,medium,Complete a table of values and draw the graph.,none,nov2020-2f-24,verified
+nov2020-2h-5,Higher,nov2020,2,5,2,yes,0,G06,,medium,Use the sine ratio in a right-angled triangle to find a length.,none,nov2020-2f-25,verified
+nov2020-2h-6,Higher,nov2020,2,6,2,yes,0,G13,,medium,Use column vector multiplication and subtraction for the combination.,none,nov2020-2f-26,verified
+nov2020-2h-7,Higher,nov2020,2,7,4,yes,0,G02,G03,medium,"Use Pythagoras to find the third side, then the area or perimeter.",none,nov2020-2f-27,verified
+nov2020-2h-8,Higher,nov2020,2,8,5,yes,2,N09,,medium,"Undo a percentage increase by dividing, then apply two successive multipliers.",none,,
+nov2020-2h-9,Higher,nov2020,2,9,2,yes,0,S04,,high,Describe the plotting errors in the cumulative frequency graph.,none,,
+nov2020-2h-10,Higher,nov2020,2,10,4,yes,3,A01,N04,medium,Simplify with index laws and solve an equation.,visual-qa-sample,,
+nov2020-2h-11,Higher,nov2020,2,11,2,yes,0,N03,,medium,Multiply the numbers of choices to test whether the total is possible.,none,,
+nov2020-2h-12,Higher,nov2020,2,12,3,yes,2,A09,A18,high,Find the gradient from the graph as a rate of change.,none,,
+nov2020-2h-13,Higher,nov2020,2,13,3,yes,0,G07,,medium,Use the sine rule with the third angle from the angle sum.,none,,
+nov2020-2h-14,Higher,nov2020,2,14,4,yes,0,A06,G02,medium,"Set up an equation from the squared side and the area difference, form and solve it.",none,,
+nov2020-2h-15,Higher,nov2020,2,15,2,yes,0,G11,,high,Describe the enlargement with scale factor and centre.,none,,
+nov2020-2h-16,Higher,nov2020,2,16,3,yes,0,A12,,high,Use the constant second difference and the quadratic nth term.,none,,
+nov2020-2h-17,Higher,nov2020,2,17,1,yes,0,A10,,medium,Read the solutions from the graph or the function values.,none,,
+nov2020-2h-18,Higher,nov2020,2,18,4,yes,0,G04,G03,high,Compare cone curved surface areas for the full and cut-off cone.,none,,
+nov2020-2h-19,Higher,nov2020,2,19,4,yes,0,A12,A06,high,Substitute to find the constant in a linear relationship and apply.,none,,
+nov2020-2h-20,Higher,nov2020,2,20,8,yes,2,P01,A06,high,Form an equation with the ratio and number of counters to show the result.,none,,
+nov2020-2h-21,Higher,nov2020,2,21,4,yes,2,A13,G11,medium,Draw the reflected graph through the transformed key points.,none,,
+nov2020-2h-22,Higher,nov2020,2,22,5,yes,0,G09,A09,high,"Use radius-tangent facts, the circle equation and Pythagoras to find the radius squared.",none,,
+nov2020-3h-1,Higher,nov2020,3,1,5,yes,3,A01,A08;A14,medium,Simplify the algebraic fraction using index laws.,none,nov2020-3f-23,verified
+nov2020-3h-2,Higher,nov2020,3,2,3,yes,0,R04,,medium,Find each journey time from distance and speed and add.,visual-qa-sample,nov2020-3f-24,verified
+nov2020-3h-3,Higher,nov2020,3,3,2,yes,0,N11,,medium,Give the lower and upper bounds of the rounded value.,none,nov2020-3f-25,verified
+nov2020-3h-4,Higher,nov2020,3,4,5,yes,2,R01,,medium,Estimate with rounding and compare to decide whether it is true.,none,nov2020-3f-26,verified
+nov2020-3h-5,Higher,nov2020,3,5,4,yes,2,P02,,medium,Complete the probability tree for outcomes.,none,nov2020-3f-27,verified
+nov2020-3h-6,Higher,nov2020,3,6,3,yes,2,A07,A06,medium,Solve the quadratic graphically from its x-axis intercepts.,none,nov2020-3f-28,verified
+nov2020-3h-7,Higher,nov2020,3,7,3,yes,0,S01,,medium,Find the total of the ages from the mean and subtract.,none,,
+nov2020-3h-8,Higher,nov2020,3,8,3,yes,0,P01,,high,Use the table of probabilities summing to one to find the unknown.,none,,
+nov2020-3h-9,Higher,nov2020,3,9,5,yes,0,G04,G06,high,"Use tangent in a right-angled triangle to find the height, then the volume or area.",none,,
+nov2020-3h-10,Higher,nov2020,3,10,4,yes,2,N06,,high,Multiply the large numbers and give the result in standard form.,none,,
+nov2020-3h-11,Higher,nov2020,3,11,4,yes,2,G11,,high,Rotate [value] about the given centre and place the image.,none,,
+nov2020-3h-12,Higher,nov2020,3,12,6,yes,2,A14,A02,medium,Subtract algebraic fractions over the common denominator and simplify.,none,,
+nov2020-3h-13,Higher,nov2020,3,13,5,yes,2,A08,,high,Draw the three boundary lines and identify the region satisfying the inequalities.,none,,
+nov2020-3h-14,Higher,nov2020,3,14,4,yes,0,G09,G01,medium,"Use angle sums of triangles and straight lines, then circle facts, with reasons.",visual-qa-sample,,
+nov2020-3h-15,Higher,nov2020,3,15,2,yes,0,A15,N08,high,Convert the recurring decimal to a fraction by multiplying and subtracting.,none,,
+nov2020-3h-16,Higher,nov2020,3,16,4,yes,3,R09,,high,Estimate the area under the curve using trapezia for the distance.,none,,
+nov2020-3h-17,Higher,nov2020,3,17,4,yes,0,S05,S01,medium,Find frequencies from histogram bar areas and estimate a mean.,visual-qa-sample,,
+nov2020-3h-18,Higher,nov2020,3,18,4,yes,0,N12,G01,medium,Use bounds with Pythagoras in [value] for the diagonal and give the length to a stated accuracy.,none,,
+nov2020-3h-19,Higher,nov2020,3,19,4,yes,0,G02,R07,high,Split the hexagon into triangles with sixty degree angles and show the area.,none,,
+nov2020-3h-20,Higher,nov2020,3,20,1,yes,0,N02,,medium,Write the largest number with the given digit conditions.,none,,
+nov2020-3h-21,Higher,nov2020,3,21,5,yes,2,R01,A06,high,Rearrange the given equation into a ratio and simplify.,none,,
+nov2021-1h-1,Higher,nov2021,1,1,6,no,2,N01,,high,Multiply decimals with correct place values.,none,nov2021-1f-20,verified
+nov2021-1h-2,Higher,nov2021,1,2,3,no,0,P03,,medium,Complete a Venn diagram from given totals.,none,nov2021-1f-21,verified
+nov2021-1h-3,Higher,nov2021,1,3,3,no,0,N07,,high,Subtract and add mixed numbers using common denominators.,none,nov2021-1f-22,verified
+nov2021-1h-4,Higher,nov2021,1,4,4,no,0,N09,,high,Find a percentage of each amount and compare.,none,nov2021-1f-23,verified
+nov2021-1h-5,Higher,nov2021,1,5,3,no,0,R01,A04,medium,Use the ratio difference to find one part and scale up.,none,nov2021-1f-24,verified
+nov2021-1h-6,Higher,nov2021,1,6,3,no,0,G04,,medium,Find the cross-section area from volume and length then the height.,none,nov2021-1f-25,verified
+nov2021-1h-7,Higher,nov2021,1,7,4,no,0,G04,A15,high,Express surface area and volume of the cube in terms of x to show the result.,none,nov2021-1f-26,verified
+nov2021-1h-8,Higher,nov2021,1,8,3,no,0,A06,,medium,Rearrange to a quadratic equal to zero and factorise to solve.,none,,
+nov2021-1h-9,Higher,nov2021,1,9,4,no,4,N04,,high,Evaluate negative and fractional powers and roots.,visual-qa-sample,,
+nov2021-1h-10,Higher,nov2021,1,10,4,no,2,N10,G02,high,Find a number rounded to one significant figure and divide to estimate.,none,,
+nov2021-1h-11,Higher,nov2021,1,11,4,no,0,A02,A05,medium,Form an equation from the given relation and rearrange to make a letter the subject.,none,,
+nov2021-1h-12,Higher,nov2021,1,12,3,no,2,S04,,medium,Plot a cumulative frequency graph from the table.,none,,
+nov2021-1h-13,Higher,nov2021,1,13,1,no,0,N08,,medium,Explain the error in converting a recurring decimal.,none,,
+nov2021-1h-14,Higher,nov2021,1,14,3,no,0,A02,,medium,"Write the area as expressions in x, expand and show the result.",none,,
+nov2021-1h-15,Higher,nov2021,1,15,3,no,0,A15,A14,medium,Combine algebraic fractions with a common denominator and show a result.,none,,
+nov2021-1h-16,Higher,nov2021,1,16,4,no,0,P02,P01,medium,Multiply the probabilities for each way without replacement and add.,none,,
+nov2021-1h-17,Higher,nov2021,1,17,3,no,0,A08,,medium,Draw the three lines and shade the region.,none,,
+nov2021-1h-18,Higher,nov2021,1,18,5,no,0,G02,R01,high,"Use sine to find the height of the triangle, then use the area formula.",none,,
+nov2021-1h-19,Higher,nov2021,1,19,4,no,0,N05,A15,medium,Rationalise the denominator and write the surd [value] as [value] root [value],none,,
+nov2021-1h-20,Higher,nov2021,1,20,3,no,0,A17,A07,medium,Draw the line on the graph and read the points of intersection.,none,,
+nov2021-1h-21,Higher,nov2021,1,21,6,no,2,A13,,high,"Compose functions in the given order, then solve or compare.",none,,
+nov2021-1h-22,Higher,nov2021,1,22,4,no,0,A18,A10,medium,Complete the square for the turning point.,none,,
+nov2021-2h-1,Higher,nov2021,2,1,3,yes,2,A08,,medium,Solve a linear inequality and show an inequality on a number line.,none,nov2021-2f-21,verified
+nov2021-2h-2,Higher,nov2021,2,2,4,yes,2,N02,,high,Prime factors of two numbers to find the highest common factor.,none,nov2021-2f-22,verified
+nov2021-2h-3,Higher,nov2021,2,3,5,yes,2,R04,,high,Read a distance-time graph and find speed from distance over time.,none,nov2021-2f-23,verified
+nov2021-2h-4,Higher,nov2021,2,4,6,yes,3,A10,A11,medium,Complete a table of values and draw the graph.,none,nov2021-2f-24,verified
+nov2021-2h-5,Higher,nov2021,2,5,4,yes,0,G05,,medium,Use Pythagoras to find the hypotenuse then a further length.,none,nov2021-2f-25,verified
+nov2021-2h-6,Higher,nov2021,2,6,4,yes,2,G06,,medium,Use the tangent ratio to find a length.,none,nov2021-2f-26,verified
+nov2021-2h-7,Higher,nov2021,2,7,3,yes,0,R05,,medium,Find the mean density from the total mass and total volume.,none,,
+nov2021-2h-8,Higher,nov2021,2,8,1,yes,0,S01,,medium,Spot the errors in the class interval inequalities of a frequency table.,none,,
+nov2021-2h-9,Higher,nov2021,2,9,4,yes,3,S04,,high,Read the quartiles from the cumulative frequency graph and find the interquartile range.,none,,
+nov2021-2h-10,Higher,nov2021,2,10,4,yes,0,N09,,medium,Work backwards through compound interest to find the initial investment.,none,,
+nov2021-2h-11,Higher,nov2021,2,11,5,yes,2,A09,G13,high,Use the section ratios on a line to find a point's coordinates.,none,,
+nov2021-2h-12,Higher,nov2021,2,12,3,yes,0,A02,,medium,Expand a triple product or two brackets and simplify.,visual-qa-sample,,
+nov2021-2h-13,Higher,nov2021,2,13,2,yes,0,N03,,medium,Multiply together the quantities and conversions for the total.,none,,
+nov2021-2h-14,Higher,nov2021,2,14,4,yes,0,G09,G01,high,"Divide [value] by the ratio parts to find angles, then circle theorem reasoning.",none,,
+nov2021-2h-15,Higher,nov2021,2,15,5,yes,2,G07,,medium,Use the cosine rule with the given angle and sides.,none,,
+nov2021-2h-16,Higher,nov2021,2,16,4,yes,2,A16,,medium,Substitute into the iteration formula repeatedly to find successive values.,none,,
+nov2021-2h-17,Higher,nov2021,2,17,4,yes,0,S05,N09,medium,Find the frequency from each bar area and combine.,none,,
+nov2021-2h-18,Higher,nov2021,2,18,4,yes,3,G06,A13,high,Solve a trig equation with all solutions in the range using symmetry.,none,,
+nov2021-2h-19,Higher,nov2021,2,19,3,yes,0,R07,G04,medium,"Use the linear scale factor, square it for area to get the ratio.",none,,
+nov2021-2h-20,Higher,nov2021,2,20,4,yes,0,P02,,medium,Multiply probabilities along two-day branches and add the combinations.,none,,
+nov2021-2h-21,Higher,nov2021,2,21,4,yes,0,N12,,high,Use bounds of each quantity in the formula for the extreme value and the justified accuracy.,none,,
+nov2021-3h-1,Higher,nov2021,3,1,4,yes,3,S03,,high,Draw a line of best fit and read an estimate for the given value.,none,nov2021-3f-21,verified
+nov2021-3h-2,Higher,nov2021,3,2,4,yes,0,R01,N09,medium,"Work out the number of portions and the cost from the amounts, rounding up for packs.",none,nov2021-3f-22,verified
+nov2021-3h-3,Higher,nov2021,3,3,4,yes,3,N06,,high,Convert between ordinary and standard form numbers.,none,nov2021-3f-23,verified
+nov2021-3h-4,Higher,nov2021,3,4,4,yes,0,R04,N13,medium,Convert units of capacity and compare the costs of two companies.,none,nov2021-3f-24,verified
+nov2021-3h-5,Higher,nov2021,3,5,3,yes,0,A12,A06,medium,"Write the terms of the sequence in a, form an equation for the sum and solve.",none,nov2021-3f-25,verified
+nov2021-3h-6,Higher,nov2021,3,6,4,yes,2,P01,,medium,"Probabilities sum to one for the unknowns, then use a frequency to find the total.",visual-qa-sample,nov2021-3f-26,verified
+nov2021-3h-7,Higher,nov2021,3,7,4,yes,0,G02,G03,high,"Find the area of a triangle and circle part, and subtract for the shaded area.",none,nov2021-3f-27,verified
+nov2021-3h-8,Higher,nov2021,3,8,2,yes,2,R02,,medium,Sketch the graph showing the proportional relationship.,none,,
+nov2021-3h-9,Higher,nov2021,3,9,3,yes,2,R02,,medium,"Inverse proportion: workers times days constant, and comment on the assumption.",none,,
+nov2021-3h-10,Higher,nov2021,3,10,4,yes,0,R07,G06;G01,medium,Use similar triangles with the scale factor to find the length.,none,,
+nov2021-3h-11,Higher,nov2021,3,11,2,yes,0,N11,,medium,Give the lower and upper bounds of the rounded value.,none,,
+nov2021-3h-12,Higher,nov2021,3,12,2,yes,0,N04,A06,high,Use index laws to find the unknown power and the root.,none,,
+nov2021-3h-13,Higher,nov2021,3,13,5,yes,0,G01,A09,high,Form equations for the width and length from the pattern and solve.,none,,
+nov2021-3h-14,Higher,nov2021,3,14,4,yes,0,R01,,high,Combine two ratios by making the common part equal.,none,,
+nov2021-3h-15,Higher,nov2021,3,15,3,yes,0,R09,,medium,Draw a tangent at [value] and find the gradient for the rate of change.,none,,
+nov2021-3h-16,Higher,nov2021,3,16,4,yes,0,A07,A06,medium,Substitute the line into the quadratic to show the line touches (repeated root).,none,,
+nov2021-3h-17,Higher,nov2021,3,17,4,yes,0,R02,,high,Set up joint proportion with constants and find the value.,none,,
+nov2021-3h-18,Higher,nov2021,3,18,4,yes,0,G13,,medium,Write vectors with the ratio on the line and combine to show the relationship.,none,,
+nov2021-3h-19,Higher,nov2021,3,19,3,yes,0,R06,,medium,Apply the growth multiplier twice to find the constant per period.,none,,
+nov2021-3h-20,Higher,nov2021,3,20,2,yes,0,P01,N03,medium,Use the complement probability with repeated halves for n trials.,none,,
+nov2021-3h-21,Higher,nov2021,3,21,4,yes,2,R09,R04,medium,Estimate the area under the curve with trapezia.,none,,
+nov2021-3h-22,Higher,nov2021,3,22,3,yes,0,A14,A15,medium,"Invert and multiply the algebraic fractions, factorise and cancel.",none,,
+nov2021-3h-23,Higher,nov2021,3,23,4,yes,0,G07,A15,medium,Use the sine rule in two triangles to relate the lengths and show the result.,none,,
+nov2022-1h-1,Higher,nov2022,1,1,3,no,0,N02,,high,Prime factorisation in index form.,none,nov2022-1f-19,verified
+nov2022-1h-2,Higher,nov2022,1,2,4,no,2,N07,,high,Subtract or compare fractions using a common denominator.,none,nov2022-1f-20,verified
+nov2022-1h-3,Higher,nov2022,1,3,2,no,0,N04,,medium,Simplify a fractional power by taking the root first.,none,nov2022-1f-21,verified
+nov2022-1h-4,Higher,nov2022,1,4,2,no,0,N01,,medium,Multiply decimals using place value.,none,nov2022-1f-22,verified
+nov2022-1h-5,Higher,nov2022,1,5,2,no,0,P01,,medium,Use the relative frequency of model B to estimate the expected number.,none,nov2022-1f-23,verified
+nov2022-1h-6,Higher,nov2022,1,6,6,no,3,R01,,medium,Compare the two ratios by common multiples to combine into a three-part ratio.,none,nov2022-1f-24,verified
+nov2022-1h-7,Higher,nov2022,1,7,2,no,0,R05,,medium,Use pressure formula with the base area.,none,nov2022-1f-25,verified
+nov2022-1h-8,Higher,nov2022,1,8,2,no,0,N02,,high,List multiples of both numbers to find the common multiple.,visual-qa-sample,,
+nov2022-1h-9,Higher,nov2022,1,9,4,no,2,A10,,medium,Complete the table for a quadratic and draw the curve.,none,,
+nov2022-1h-10,Higher,nov2022,1,10,4,no,2,P05,,medium,Find the probability of a score from the spinner and use relative frequency.,none,,
+nov2022-1h-11,Higher,nov2022,1,11,2,no,0,G11,,high,Enlarge by scale factor one third about the centre.,none,,
+nov2022-1h-12,Higher,nov2022,1,12,4,no,0,A07,G11,medium,Eliminate a variable from simultaneous equations.,none,,
+nov2022-1h-13,Higher,nov2022,1,13,3,no,0,R02,,medium,Use proportion in a table to find the missing value.,none,,
+nov2022-1h-14,Higher,nov2022,1,14,3,no,0,S05,,high,Draw a histogram with frequency density.,none,,
+nov2022-1h-15,Higher,nov2022,1,15,3,no,0,G03,,medium,Find the sector angle from the arc length and radius.,none,,
+nov2022-1h-16,Higher,nov2022,1,16,4,no,2,A15,,high,Expand and simplify the sum of squares of odd numbers in algebra for proof.,none,,
+nov2022-1h-17,Higher,nov2022,1,17,2,no,0,N04,,medium,Take the cube root first and then raise the result to a power.,none,,
+nov2022-1h-18,Higher,nov2022,1,18,3,no,0,G09,,high,Use circle theorems with radius and tangent angles to show a result.,none,,
+nov2022-1h-19,Higher,nov2022,1,19,5,no,0,A06,A14,medium,Combine algebraic fractions in an equation and solve the resulting quadratic.,none,,
+nov2022-1h-20,Higher,nov2022,1,20,3,no,0,P02,P01,medium,"Probability of two cards of different colours without replacement, then solve for n.",none,,
+nov2022-1h-21,Higher,nov2022,1,21,2,no,0,A10,,medium,Give the minimum point of a trig graph from the graph.,none,,
+nov2022-1h-22,Higher,nov2022,1,22,4,no,0,G07,N05,high,Use the sine rule with the known sine of [value] for the angle.,visual-qa-sample,,
+nov2022-1h-23,Higher,nov2022,1,23,5,no,2,A12,,high,Find the common ratio of the geometric sequence and extend.,none,,
+nov2022-1h-24,Higher,nov2022,1,24,6,no,2,G04,R07,high,Equate the volumes and surface areas of the sphere and cone to find the ratio.,none,,
+nov2022-2h-1,Higher,nov2022,2,1,4,yes,3,S03,,high,Plot a point on the scatter graph and describe the negative correlation.,none,nov2022-2f-18,verified
+nov2022-2h-2,Higher,nov2022,2,2,2,yes,0,G14,,high,Draw the side elevation of the solid.,none,nov2022-2f-19,verified
+nov2022-2h-3,Higher,nov2022,2,3,4,yes,2,A12,,high,Find the nth term of a linear sequence and use it to test a term.,none,nov2022-2f-20,verified
+nov2022-2h-4,Higher,nov2022,2,4,5,yes,0,G02,G03,medium,Split the shape into sections and add their areas.,visual-qa-sample,nov2022-2f-21,verified
+nov2022-2h-5,Higher,nov2022,2,5,2,yes,0,G06,,medium,Use cosine in a right-angled triangle for a side.,none,nov2022-2f-22,verified
+nov2022-2h-6,Higher,nov2022,2,6,3,yes,0,N09,,medium,Compound interest over the years at a yearly rate.,none,nov2022-2f-23,verified
+nov2022-2h-7,Higher,nov2022,2,7,4,yes,3,A10,A06,medium,"Read the y-intercept, turning point and roots from the graph.",none,nov2022-2f-24,verified
+nov2022-2h-8,Higher,nov2022,2,8,3,yes,0,N09,,medium,Find the percentage change from the old and new amounts.,none,,
+nov2022-2h-9,Higher,nov2022,2,9,2,yes,0,A09,,medium,Rearrange the line equations and compare gradients to answer yes or no with support.,none,,
+nov2022-2h-10,Higher,nov2022,2,10,3,yes,0,N09,,medium,Work back through the yearly percentage changes to find the starting value.,none,,
+nov2022-2h-11,Higher,nov2022,2,11,3,yes,0,S04,,high,Draw a box plot from the five values.,none,,
+nov2022-2h-12,Higher,nov2022,2,12,3,yes,2,R06,S06,medium,Evaluate the growth expression for successive n and find the first n exceeding the value.,none,,
+nov2022-2h-13,Higher,nov2022,2,13,2,yes,0,G05,,high,Use Pythagoras with coordinate differences for the distance between two points.,none,,
+nov2022-2h-14,Higher,nov2022,2,14,3,yes,0,N08,A15,medium,Convert the recurring decimal to a fraction by multiplying and subtracting.,none,,
+nov2022-2h-15,Higher,nov2022,2,15,4,yes,2,S06,,high,Estimate the population from a capture-recapture ratio.,none,,
+nov2022-2h-16,Higher,nov2022,2,16,4,yes,0,A08,,high,"Draw the boundary lines and find the region from the inequalities, writing the missing inequality.",none,,
+nov2022-2h-17,Higher,nov2022,2,17,4,yes,0,G04,R07,high,"Find the volume scale factor, take the cube root and apply to find the length.",none,,
+nov2022-2h-18,Higher,nov2022,2,18,2,yes,0,G07,,medium,Use half the product of two sides and the sine of the included angle.,visual-qa-sample,,
+nov2022-2h-19,Higher,nov2022,2,19,3,yes,0,A06,,high,Solve the quadratic by factorising or the formula.,none,,
+nov2022-2h-20,Higher,nov2022,2,20,4,yes,0,G08,,medium,"Use Pythagoras to find a side, then trig for the angle in [value]",none,,
+nov2022-2h-21,Higher,nov2022,2,21,4,yes,2,R09,,medium,Draw a tangent at [value] and find its gradient.,none,,
+nov2022-2h-22,Higher,nov2022,2,22,3,yes,0,A13,,high,"Compose functions, then find the inverse of the composite.",none,,
+nov2022-2h-23,Higher,nov2022,2,23,5,yes,0,N12,R04,high,"Use bounds of the quantities for the time, and give the accuracy supported.",none,,
+nov2022-2h-24,Higher,nov2022,2,24,4,yes,0,A17,A09,high,"Find the radius gradient, the perpendicular gradient and the tangent equation.",none,,
+nov2022-3h-1,Higher,nov2022,3,1,2,yes,0,A05,,high,Rearrange the formula to make a the subject.,visual-qa-sample,nov2022-3f-21,verified
+nov2022-3h-2,Higher,nov2022,3,2,1,yes,0,R01,,medium,Identify the error in the ratio working.,none,nov2022-3f-22,verified
+nov2022-3h-3,Higher,nov2022,3,3,3,yes,0,S02,P01,medium,Use totals in the two-way table to find the number of students.,none,nov2022-3f-23,verified
+nov2022-3h-4,Higher,nov2022,3,4,4,yes,0,G04,R05,high,Compute the volume of a cylinder tank and compare with the required amount.,none,nov2022-3f-24,verified
+nov2022-3h-5,Higher,nov2022,3,5,4,yes,2,R07,G05,medium,"Use ratio of lengths to scale quantities, then find a related size.",none,nov2022-3f-25,verified
+nov2022-3h-6,Higher,nov2022,3,6,4,yes,2,P02,,medium,Complete the probability tree.,none,nov2022-3f-26,verified
+nov2022-3h-7,Higher,nov2022,3,7,4,yes,2,N13,,medium,"Convert units (km to m, hours to seconds) and find a rate.",none,nov2022-3f-27,verified
+nov2022-3h-8,Higher,nov2022,3,8,3,yes,0,S01,,medium,Find the total from means of two groups and subtract.,visual-qa-sample,nov2022-3f-28,verified
+nov2022-3h-9,Higher,nov2022,3,9,3,yes,2,N06,,high,Perform calculations with standard form.,none,nov2022-3f-29,verified
+nov2022-3h-10,Higher,nov2022,3,10,1,yes,0,A03,A01,medium,Explain the sign error in the expansion.,none,,
+nov2022-3h-11,Higher,nov2022,3,11,2,yes,0,A08,N03,medium,List the values satisfying the inequalities and give the combination.,none,,
+nov2022-3h-12,Higher,nov2022,3,12,2,yes,0,N11,,medium,Give lower and upper bounds of a rounded value.,none,,
+nov2022-3h-13,Higher,nov2022,3,13,2,yes,0,S04,,medium,Criticise the cumulative frequency diagram (missing labels).,none,,
+nov2022-3h-14,Higher,nov2022,3,14,5,yes,2,A02,A01;N04,high,Expand two brackets and apply index laws.,none,,
+nov2022-3h-15,Higher,nov2022,3,15,2,yes,0,N03,P01,medium,Show the number of choices by multiplying.,none,,
+nov2022-3h-16,Higher,nov2022,3,16,4,yes,0,G09,G01,high,Use the cyclic quadrilateral and angles at the centre to find the angle.,visual-qa-sample,,
+nov2022-3h-17,Higher,nov2022,3,17,4,yes,0,R01,N09,medium,Combine ratios of weights into one ratio.,none,,
+nov2022-3h-18,Higher,nov2022,3,18,2,yes,0,G11,,high,Describe the translation by the vector.,none,,
+nov2022-3h-19,Higher,nov2022,3,19,3,yes,0,P01,R01,high,Use the complement and ratio to find the number of counters.,none,,
+nov2022-3h-20,Higher,nov2022,3,20,3,yes,0,G10,,high,Prove congruent or similar triangles using the angle in a circle and isosceles triangle facts.,none,,
+nov2022-3h-21,Higher,nov2022,3,21,3,yes,0,A18,A06,medium,Complete the square for the turning point.,none,,
+nov2022-3h-22,Higher,nov2022,3,22,3,yes,0,A14,,medium,Combine algebraic fractions over a common denominator and match to the given form.,visual-qa-sample,,
+nov2022-3h-23,Higher,nov2022,3,23,2,yes,2,A13,G11,high,Sketch a cubic from its roots.,none,,
+nov2022-3h-24,Higher,nov2022,3,24,4,yes,0,G13,,high,Write vectors for the sides with the ratio and prove the result.,none,,
+nov2022-3h-25,Higher,nov2022,3,25,5,yes,0,G04,R05,high,Find the volume of the top then total mass from density.,none,,
+nov2022-3h-26,Higher,nov2022,3,26,5,yes,0,G07,G01,medium,Use the interior angle of a regular heptagon with trig or the cosine rule for the length.,none,,
+nov2023-1h-1,Higher,nov2023,1,1,3,no,0,N01,,high,Multiply decimals with correct place value.,none,nov2023-1f-18,verified
+nov2023-1h-2,Higher,nov2023,1,2,4,no,3,N04,,medium,Index laws with the combination of multiply and divide powers.,none,,
+nov2023-1h-3,Higher,nov2023,1,3,4,no,2,N02,,high,Prime factorisation of a number.,none,nov2023-1f-20,verified
+nov2023-1h-4,Higher,nov2023,1,4,4,no,2,S01,,high,Total length from the mean and find the missing stick length.,none,nov2023-1f-21,verified
+nov2023-1h-5,Higher,nov2023,1,5,2,no,0,G12,,high,Construct the required line or angle with compasses.,none,nov2023-1f-22,verified
+nov2023-1h-6,Higher,nov2023,1,6,4,no,0,G01,,high,Share [value] in the ratio for the angle.,none,nov2023-1f-23,verified
+nov2023-1h-7,Higher,nov2023,1,7,5,no,0,A04,A01,medium,"Form a perimeter equation in x and solve, then compute the required quantity.",none,nov2023-1f-24,verified
+nov2023-1h-8,Higher,nov2023,1,8,2,no,0,N09,,medium,Reverse percentage: divide the sale price by the multiplier.,none,,
+nov2023-1h-9,Higher,nov2023,1,9,4,no,3,A09,R01,high,Draw the given line on the grid.,none,,
+nov2023-1h-10,Higher,nov2023,1,10,3,no,0,G03,N05,medium,"Use the circumference to find the radius, then area.",none,,
+nov2023-1h-11,Higher,nov2023,1,11,5,no,3,S04,,high,Draw a box plot from the summary.,none,,
+nov2023-1h-12,Higher,nov2023,1,12,3,no,0,A09,,high,Find the perpendicular gradient and use it to find the line equation.,none,,
+nov2023-1h-13,Higher,nov2023,1,13,3,no,0,R07,G04,medium,Use the linear scale factor cubed for the volume ratio and scale the quantity.,visual-qa-sample,,
+nov2023-1h-14,Higher,nov2023,1,14,3,no,0,N04,,high,"Take the cube root first, then apply the negative or fractional power.",none,,
+nov2023-1h-15,Higher,nov2023,1,15,3,no,0,R09,A10,medium,Draw a tangent at [value] and find its gradient.,none,,
+nov2023-1h-16,Higher,nov2023,1,16,4,no,2,R06,S06,high,"Find the constant from the first pair, apply in the second case, and explain the assumption.",none,,
+nov2023-1h-17,Higher,nov2023,1,17,4,no,2,A02,A08,high,Factorise a quadratic and solve the related inequality.,none,,
+nov2023-1h-18,Higher,nov2023,1,18,4,no,0,P02,P01,medium,Use the probabilities on spinner A and B to form an equation for the unknown.,none,,
+nov2023-1h-19,Higher,nov2023,1,19,3,no,2,A10,G06,medium,Solve a trig equation by drawing a line on the sine graph and using symmetry.,none,,
+nov2023-1h-20,Higher,nov2023,1,20,4,no,0,G07,,medium,Use the cosine rule for the angle with the three sides.,none,,
+nov2023-1h-21,Higher,nov2023,1,21,5,no,2,A17,A07,medium,Draw the circle from its equation with centre and radius.,none,,
+nov2023-1h-22,Higher,nov2023,1,22,4,no,0,A12,N05,medium,Find the common ratio of a geometric sequence with surds and the next terms.,none,,
+nov2023-2h-1,Higher,nov2023,2,1,6,yes,3,A02,A05,high,Expand brackets and simplify.,none,nov2023-2f-22,verified
+nov2023-2h-2,Higher,nov2023,2,2,4,yes,0,N09,,high,Find income and outgoings and the profit or percentage.,none,nov2023-2f-23,verified
+nov2023-2h-3,Higher,nov2023,2,3,2,yes,0,N09,,medium,Compound interest at the yearly rate for the given years.,none,nov2023-2f-24,verified
+nov2023-2h-4,Higher,nov2023,2,4,3,yes,0,A04,,medium,Solve a linear equation by isolating x.,none,nov2023-2f-25,verified
+nov2023-2h-5,Higher,nov2023,2,5,4,yes,0,R01,,high,"Share in the given ratio, scale to find the amount.",none,nov2023-2f-26,verified
+nov2023-2h-6,Higher,nov2023,2,6,2,yes,0,R08,,high,"Use bearings and parallel line facts, with a diagram, to find a bearing.",none,nov2023-2f-27,verified
+nov2023-2h-7,Higher,nov2023,2,7,4,yes,0,G04,N13,high,"Volume of a cylinder container, then use the density or rate.",none,nov2023-2f-28,verified
+nov2023-2h-8,Higher,nov2023,2,8,2,yes,0,N11,,medium,Write the error interval for the rounded value.,none,,
+nov2023-2h-9,Higher,nov2023,2,9,3,yes,0,A02,,high,Expand two brackets and collect terms.,none,,
+nov2023-2h-10,Higher,nov2023,2,10,5,yes,2,P02,,medium,Complete the tree diagram and multiply along branches for the combination.,none,,
+nov2023-2h-11,Higher,nov2023,2,11,2,yes,0,R02,,medium,Match the relationships to their proportionality statements.,none,,
+nov2023-2h-12,Higher,nov2023,2,12,3,yes,0,A09,G05,medium,Find the midpoint or distance using coordinates.,none,,
+nov2023-2h-13,Higher,nov2023,2,13,3,yes,0,N08,A15,medium,Convert the recurring decimal to a fraction by multiplying and subtracting.,none,,
+nov2023-2h-14,Higher,nov2023,2,14,5,yes,0,R02,,medium,"Direct proportion to the square, find the constant and value.",none,,
+nov2023-2h-15,Higher,nov2023,2,15,6,yes,3,S05,,medium,Complete the histogram using frequency density.,none,,
+nov2023-2h-16,Higher,nov2023,2,16,4,yes,0,G07,G02,medium,Use the sine rule to find a length.,none,,
+nov2023-2h-17,Higher,nov2023,2,17,6,yes,3,A16,,medium,"Show a root lies between two values by evaluating the function, and iterate.",none,,
+nov2023-2h-18,Higher,nov2023,2,18,4,yes,0,G13,,medium,"Write vectors for each side in a, b and c and prove the shape's property.",none,,
+nov2023-2h-19,Higher,nov2023,2,19,4,yes,2,A13,,high,Compose functions and solve for the value.,none,,
+nov2023-2h-20,Higher,nov2023,2,20,4,yes,0,A14,A02,medium,Factorise and simplify the algebraic fraction.,none,,
+nov2023-2h-21,Higher,nov2023,2,21,4,yes,0,P03,A04,medium,Form an equation for the counters in terms of x and solve.,none,,
+nov2023-3h-1,Higher,nov2023,3,1,2,yes,2,N06,,medium,Write numbers in standard form.,none,nov2023-3f-20,verified
+nov2023-3h-2,Higher,nov2023,3,2,2,yes,0,P05,N10,medium,Estimate expected number from the probability.,none,nov2023-3f-21,verified
+nov2023-3h-3,Higher,nov2023,3,3,4,yes,2,S01,,high,Estimate the mean from grouped data with midpoints.,visual-qa-sample,nov2023-3f-22,verified
+nov2023-3h-4,Higher,nov2023,3,4,4,yes,2,A08,,high,Give two explanations of the correct statements about inequalities.,none,nov2023-3f-23,verified
+nov2023-3h-5,Higher,nov2023,3,5,3,yes,0,N02,,medium,Use common multiples of the two pack sizes to match packs and boxes.,none,nov2023-3f-24,verified
+nov2023-3h-6,Higher,nov2023,3,6,2,yes,0,R02,,medium,Use proportion in working rate.,none,nov2023-3f-25,verified
+nov2023-3h-7,Higher,nov2023,3,7,3,yes,0,R04,,high,"Use speed and distance to find time, and convert.",none,nov2023-3f-26,verified
+nov2023-3h-8,Higher,nov2023,3,8,3,yes,0,R05,G04,medium,Use the pressure formula with the area to show the result.,none,nov2023-3f-27,verified
+nov2023-3h-9,Higher,nov2023,3,9,3,yes,0,A09,,medium,Find the gradient and intercept from the graph and write the equation.,visual-qa-sample,nov2023-3f-28,verified
+nov2023-3h-10,Higher,nov2023,3,10,3,yes,0,A05,,medium,Rearrange the formula to make a letter the subject.,none,,
+nov2023-3h-11,Higher,nov2023,3,11,3,yes,0,R07,G02;R08,medium,Use the area scale factor to find the new area.,none,,
+nov2023-3h-12,Higher,nov2023,3,12,2,yes,0,G03,,high,"Find the sector angle from the area, then use it for the arc length.",none,,
+nov2023-3h-13,Higher,nov2023,3,13,6,yes,4,S04,,medium,Read from the cumulative frequency graph and find a probability.,none,,
+nov2023-3h-14,Higher,nov2023,3,14,2,yes,0,A12,,high,Constant second difference for the n squared term and the nth term.,none,,
+nov2023-3h-15,Higher,nov2023,3,15,2,yes,0,G10,R07,medium,Compare the ratios of corresponding sides to show similarity.,none,,
+nov2023-3h-16,Higher,nov2023,3,16,3,yes,0,N03,N02,medium,Multiply the numbers of options for the number of combinations.,none,,
+nov2023-3h-17,Higher,nov2023,3,17,7,yes,4,A06,A18,high,Complete the square and state the turning point.,none,,
+nov2023-3h-18,Higher,nov2023,3,18,3,yes,2,G11,,high,Enlarge the triangle with the given scale factor and centre.,none,,
+nov2023-3h-19,Higher,nov2023,3,19,4,yes,0,G04,R07,high,Use the scale factor for the small cone and subtract to find the frustum volume.,none,,
+nov2023-3h-20,Higher,nov2023,3,20,3,yes,2,A10,G11,medium,Transform the curve and give the new turning point and key points.,none,,
+nov2023-3h-21,Higher,nov2023,3,21,4,yes,0,G09,,high,Use circle theorem and angle facts to find the angle.,none,,
+nov2023-3h-22,Higher,nov2023,3,22,4,yes,0,N12,,high,Use bounds in the formula for the upper or lower value and state an answer to justified accuracy.,none,,
+nov2023-3h-23,Higher,nov2023,3,23,4,yes,0,R01,A15,medium,Clear fractions in the ratio equation and rearrange for the ratio x to y.,none,,
+nov2023-3h-24,Higher,nov2023,3,24,4,yes,0,G08,,medium,Use trig in the [value] right-angled triangle to find the length.,none,,
+nov2024-1h-1,Higher,nov2024,1,1,3,no,0,N01,,medium,Divide the decimals by building up or scaling.,none,nov2024-1f-18,verified
+nov2024-1h-2,Higher,nov2024,1,2,4,no,2,P01,,high,Use probabilities sum to one for the unknown.,none,nov2024-1f-19,verified
+nov2024-1h-3,Higher,nov2024,1,3,5,no,2,N07,,high,Subtract mixed numbers using a common denominator.,none,nov2024-1f-20,verified
+nov2024-1h-4,Higher,nov2024,1,4,3,no,0,G01,,high,Use angle facts with a letter e and show the result with reasons.,none,nov2024-1f-21,verified
+nov2024-1h-5,Higher,nov2024,1,5,4,no,2,R04,N10,high,Round the figures then use time equals distance over speed.,none,nov2024-1f-22,verified
+nov2024-1h-6,Higher,nov2024,1,6,4,no,0,G01,,high,Use the interior angle sum of the pentagon and angle facts for the unknown angle.,none,nov2024-1f-23,verified
+nov2024-1h-7,Higher,nov2024,1,7,1,no,0,R09,,medium,Explain what the gradient of the volume-time graph represents (rate of change of volume).,none,nov2024-1f-24,verified
+nov2024-1h-8,Higher,nov2024,1,8,3,no,0,R05,G04,medium,Find the area from the given relation and use it to find the missing length.,none,,
+nov2024-1h-9,Higher,nov2024,1,9,6,no,2,S04,,high,Draw a box plot from the summary values.,none,,
+nov2024-1h-10,Higher,nov2024,1,10,4,no,2,N04,N01,high,Take the roots and negative powers of the numbers.,none,,
+nov2024-1h-11,Higher,nov2024,1,11,5,no,3,A02,,high,Explain the error in the factorisation (sum and product mixed up).,none,,
+nov2024-1h-12,Higher,nov2024,1,12,4,no,0,R07,G04,medium,Cube-root the volume ratio for linear scale factor and square for areas.,none,,
+nov2024-1h-13,Higher,nov2024,1,13,5,no,0,G04,A06,high,Equate the volumes of the two solids in x and solve.,none,,
+nov2024-1h-14,Higher,nov2024,1,14,3,no,0,G07,,medium,Use the sine rule with the known sines of [value].,visual-qa-sample,,
+nov2024-1h-15,Higher,nov2024,1,15,4,no,0,G13,,medium,Write vectors for each segment with the ratios and find the ratio of lengths.,visual-qa-sample,,
+nov2024-1h-16,Higher,nov2024,1,16,6,no,2,N05,,high,Rationalise the denominator and simplify the surd.,none,,
+nov2024-1h-17,Higher,nov2024,1,17,4,no,0,G09,,high,Use isosceles triangles and the angle at the centre to find the angle.,visual-qa-sample,,
+nov2024-1h-18,Higher,nov2024,1,18,4,no,2,A13,,medium,"Rearrange the formula to make the other letter the subject, then compose or invert.",none,,
+nov2024-1h-19,Higher,nov2024,1,19,4,no,0,P02,,medium,Multiply probabilities across rounds of the competition and add.,none,,
+nov2024-1h-20,Higher,nov2024,1,20,4,no,0,A17,A09,medium,"Substitute a point to find p, then find the perpendicular line or tangent equation.",none,,
+nov2024-2h-1,Higher,nov2024,2,1,2,yes,0,N11,N01,medium,Evaluate on a calculator in stages to at least three decimals.,none,nov2024-2f-20,verified
+nov2024-2h-2,Higher,nov2024,2,2,3,yes,3,S03,,high,Describe the correlation and draw a line of best fit.,none,nov2024-2f-21,verified
+nov2024-2h-3,Higher,nov2024,2,3,3,yes,0,N13,R03,medium,Convert currencies and compare prices to choose the cheaper city.,none,nov2024-2f-22,verified
+nov2024-2h-4,Higher,nov2024,2,4,2,yes,0,P03,,high,Explain the Venn diagram error for the number [value] in terms of set regions.,none,nov2024-2f-23,verified
+nov2024-2h-5,Higher,nov2024,2,5,4,yes,2,A10,A11,medium,Complete a table of values and draw the graph.,none,nov2024-2f-24,verified
+nov2024-2h-6,Higher,nov2024,2,6,4,yes,0,N09,,high,Find the percentage change and show it supports the claim.,none,nov2024-2f-25,verified
+nov2024-2h-7,Higher,nov2024,2,7,5,yes,0,G02,A04,high,"Form an equation from the side expressions and perimeter, solve and find the area.",none,nov2024-2f-26,verified
+nov2024-2h-8,Higher,nov2024,2,8,2,yes,0,N06,,high,Divide numbers in standard form.,none,nov2024-2f-27,verified
+nov2024-2h-9,Higher,nov2024,2,9,3,yes,0,G01,,medium,Use the interior angle of a regular nonagon and angle facts to show the result.,none,,
+nov2024-2h-10,Higher,nov2024,2,10,4,yes,0,A07,,medium,Eliminate one variable in the simultaneous equations.,none,,
+nov2024-2h-11,Higher,nov2024,2,11,2,yes,0,G11,,high,Describe the enlargement with a fractional scale factor and centre.,none,,
+nov2024-2h-12,Higher,nov2024,2,12,5,yes,0,G04,R05,high,Find the volume of the cylinder and equate with another solid to find the height.,none,,
+nov2024-2h-13,Higher,nov2024,2,13,5,yes,3,R02,,medium,"Show the ratios are not equal, so the proportion claim fails.",none,,
+nov2024-2h-14,Higher,nov2024,2,14,2,yes,0,N03,,medium,Count combinations by multiplying choices and halving duplicate pairs.,visual-qa-sample,,
+nov2024-2h-15,Higher,nov2024,2,15,6,yes,2,A12,,high,Find the second difference for the n squared term and then the nth term.,none,,
+nov2024-2h-16,Higher,nov2024,2,16,4,yes,0,S05,,high,Find frequencies from histogram bar areas and the missing bar.,none,,
+nov2024-2h-17,Higher,nov2024,2,17,3,yes,0,A14,A15,medium,Subtract algebraic fractions over a common denominator to show the result.,none,,
+nov2024-2h-18,Higher,nov2024,2,18,3,yes,0,G09,G10,medium,Prove congruent triangles using radii and tangent facts.,none,,
+nov2024-2h-19,Higher,nov2024,2,19,5,yes,0,N12,,high,Use bounds on each quantity in the formula and justify the conclusion.,none,,
+nov2024-2h-20,Higher,nov2024,2,20,3,yes,0,G08,,medium,"Use tangent to find a side, then trig or Pythagoras for the length.",none,,
+nov2024-2h-21,Higher,nov2024,2,21,5,yes,0,G05,A09,medium,Use gradients of two sides being perpendicular to find the unknown coordinates.,none,,
+nov2024-2h-22,Higher,nov2024,2,22,5,yes,0,P02,A06,medium,Write the without-replacement probabilities in n and form the equation for the total.,none,,
+nov2024-3h-1,Higher,nov2024,3,1,2,yes,0,S04,S02,medium,Plot a frequency polygon with straight segments.,none,nov2024-3f-17,verified
+nov2024-3h-2,Higher,nov2024,3,2,2,yes,2,N06,,medium,Convert between ordinary and standard form.,none,nov2024-3f-18,verified
+nov2024-3h-3,Higher,nov2024,3,3,2,yes,0,G12,,high,Construct the required line or angle bisector with compasses.,none,nov2024-3f-19,verified
+nov2024-3h-4,Higher,nov2024,3,4,4,yes,2,P02,,high,Complete the probability tree.,none,nov2024-3f-20,verified
+nov2024-3h-5,Higher,nov2024,3,5,5,yes,0,N09,R01,high,Share the total in a ratio and apply a percentage.,visual-qa-sample,nov2024-3f-21,verified
+nov2024-3h-6,Higher,nov2024,3,6,4,yes,0,S01,S02,high,Find the median and compare the two schools' results.,none,nov2024-3f-22,verified
+nov2024-3h-7,Higher,nov2024,3,7,2,yes,0,N11,,medium,Give lower and upper bounds of the rounded value.,none,,
+nov2024-3h-8,Higher,nov2024,3,8,2,yes,0,G06,,medium,Use the tangent ratio for the height.,none,nov2024-3f-24,verified
+nov2024-3h-9,Higher,nov2024,3,9,3,yes,2,A01,N04,medium,Simplify the product with index laws.,none,nov2024-3f-25,verified
+nov2024-3h-10,Higher,nov2024,3,10,2,yes,0,N09,,medium,Reverse percentage by dividing by the multiplier.,none,,
+nov2024-3h-11,Higher,nov2024,3,11,3,yes,0,G03,,high,Find the arc length from the sector angle and perimeter.,none,,
+nov2024-3h-12,Higher,nov2024,3,12,6,yes,2,N09,,high,Compound interest over two years.,none,,
+nov2024-3h-13,Higher,nov2024,3,13,3,yes,0,G02,R07,high,"Use the length scale factor to find the sides in similar figures, then area.",none,,
+nov2024-3h-14,Higher,nov2024,3,14,3,yes,0,N08,A15,medium,Convert the recurring decimal to a fraction by multiplying and subtracting.,none,,
+nov2024-3h-15,Higher,nov2024,3,15,4,yes,0,A05,,medium,Clear the fraction and make p the subject.,none,,
+nov2024-3h-16,Higher,nov2024,3,16,5,yes,0,A09,G02,medium,"Find the gradient of OB, the equation of line DE and its intersection point.",none,,
+nov2024-3h-17,Higher,nov2024,3,17,4,yes,0,G07,,medium,Use the cosine rule for an angle then trig for the required value.,none,,
+nov2024-3h-18,Higher,nov2024,3,18,4,yes,2,S06,,medium,Estimate population by the capture-recapture ratio.,none,,
+nov2024-3h-19,Higher,nov2024,3,19,4,yes,0,G04,G05,high,"Define height and radius, use Pythagoras and volume relations to find the value.",none,,
+nov2024-3h-20,Higher,nov2024,3,20,4,yes,0,A07,A06,medium,Substitute one equation into the other to get a quadratic and solve.,none,,
+nov2024-3h-21,Higher,nov2024,3,21,4,yes,2,A13,A10,medium,Sketch the reflected function in the x axis.,none,,
+nov2024-3h-22,Higher,nov2024,3,22,3,yes,0,R09,A17,medium,Estimate the area under the curve with trapezia.,none,,
+nov2024-3h-23,Higher,nov2024,3,23,5,yes,0,A10,A18,high,Sketch the transformed curve with the intercept and turning point.,none,,
