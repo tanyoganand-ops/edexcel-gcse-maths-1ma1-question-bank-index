@@ -46,7 +46,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": false,
   "hardestOverall15pct": false,
-  "methodNote": "Question-specific working omitted from the public note; see the marks, scheme file and PDF page cited."
+  "methodNote": "(a) Process mark for finding the sum of the unknown probabilities from 1 minus the known one (any two probabilities with that sum earn it); accuracy mark for the values in any equivalent form. (b) Process mark for a complete process to the total number of items from a known count and its probability (or stating what a stated probability equals); accuracy mark for the total."
  },
  {
   "id": "jun2019-1h-2",
@@ -94,7 +94,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Scale amounts proportionally from the given value biscuits, find flour and butter from the sugar multiples, then convert butter to whole packs."
+  "methodNote": "Scale amounts proportionally from the recipe quantity given, find flour and butter from multiples of the sugar, then convert to whole packs."
  },
  {
   "id": "jun2019-1h-3",
@@ -1876,7 +1876,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": true,
-  "methodNote": "Combine right-angled triangle trig with Pythagoras in a given value solid to find the angle."
+  "methodNote": "Combine right-angled triangle trig with Pythagoras in the solid to find the angle."
  },
  {
   "id": "jun2019-2h-20",
@@ -3095,7 +3095,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Question-specific working omitted from the public note; see the marks, scheme file and PDF page cited."
+  "methodNote": "Multi-stage ratio and percentage problem. Process mark for sharing the total in the ratio. Process mark for the share. Process mark for a step using that share (a part of it, or a percentage of it), or for combining a fraction and a percentage. Process mark for a complete process to the number in the remaining category. Accuracy mark. A correct answer with no supporting working scores nothing."
  },
  {
   "id": "jun2022-1h-4",
@@ -3473,7 +3473,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Total from the given probability of one colour, then form and solve an equation for the missing quantity."
+  "methodNote": "Find the total from the probability of one colour, then form and solve an equation for the missing quantity."
  },
  {
   "id": "jun2022-1h-12",
@@ -3923,7 +3923,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": true,
-  "methodNote": "Find sector area and triangle area using angles of the given value and subtract for the segment."
+  "methodNote": "Find the sector area and the triangle area using the angle, then subtract to get the segment."
  },
  {
   "id": "jun2022-2h-1",
@@ -6546,7 +6546,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Write a fraction as a power of the given value and evaluate fractional powers."
+  "methodNote": "Write a fraction as a power of a base and evaluate fractional powers."
  },
  {
   "id": "jun2023-1h-15",
@@ -6899,7 +6899,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Use a right-angled triangle in the given value solid, set up sine of the angle from two known lengths."
+  "methodNote": "Use a right-angled triangle in the solid and set up the sine of the angle from two known lengths."
  },
  {
   "id": "jun2023-1h-23",
@@ -7211,7 +7211,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Write the area of each shape in x, equate with the given difference and solve the linear equation."
+  "methodNote": "Write the area of each shape in x, equate them using the stated difference and solve the linear equation."
  },
  {
   "id": "jun2023-2h-6",
@@ -7259,7 +7259,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": false,
   "hardestOverall15pct": false,
-  "methodNote": "Split the total in the given ratio, apply a percentage, then combine to compare quantities."
+  "methodNote": "Split the total in the stated ratio, apply a percentage, then combine to compare quantities."
  },
  {
   "id": "jun2023-2h-7",
@@ -8165,7 +8165,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Work with the given value of the number of people, then scale for two groups and total."
+  "methodNote": "Work with the number of people in one group, then scale for two groups and find the total."
  },
  {
   "id": "jun2023-3h-3",
@@ -9887,7 +9887,7 @@
   ],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Write the two without-replacement probabilities as fractions in n and show the product equals the given value."
+  "methodNote": "Write the two without-replacement probabilities as fractions in n and show the product equals the stated result."
  },
  {
   "id": "jun2024-1h-17",
@@ -10067,7 +10067,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Write each variable as a power of the given value and add the indices."
+  "methodNote": "Write each variable as a power of the same base and add the indices."
  },
  {
   "id": "jun2024-1h-21",
@@ -10302,7 +10302,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Prime factorisation of the given value and LCM using the given factorisations."
+  "methodNote": "Prime factorisation of a number and the lowest common multiple using the given factorisations."
  },
  {
   "id": "jun2024-2h-3",
@@ -10392,7 +10392,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Use the given probability of yellow to find the total, then the number of the other colours."
+  "methodNote": "Use the probability of yellow to find the total, then the number of the other colours."
  },
  {
   "id": "jun2024-2h-5",
@@ -12623,7 +12623,7 @@
   ],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": true,
-  "methodNote": "Write consecutive even numbers as the given value form the expression and show a result."
+  "methodNote": "Write consecutive even numbers in algebraic form, form the expression and show the result."
  },
  {
   "id": "jun2025-1h-11",
@@ -17549,7 +17549,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Multiply both sides by the given value first and solve the linear equation."
+  "methodNote": "Multiply both sides to clear the fraction first and solve the linear equation."
  },
  {
   "id": "nov2019-3h-11",
@@ -17764,7 +17764,7 @@
   ],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Write two consecutive even numbers, expand the sum of squares and show it is divisible by the given value"
+  "methodNote": "Write two consecutive even numbers, expand the sum of squares and show it is divisible by the stated number"
  },
  {
   "id": "nov2019-3h-16",
@@ -17850,7 +17850,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Draw the line the given value on the grid and read the intersections for the equation's solutions."
+  "methodNote": "Draw the line on the grid and read the intersections for the equation's solutions."
  },
  {
   "id": "nov2019-3h-18",
@@ -17944,7 +17944,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Draw a tangent at the given value and find its gradient as change in y over change in x."
+  "methodNote": "Draw a tangent to the curve at the stated point and find its gradient as change in y over change in x."
  },
  {
   "id": "nov2019-3h-20",
@@ -19196,7 +19196,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": true,
-  "methodNote": "Use the fractions of the total number of cards and a common total of the given value"
+  "methodNote": "Use the fractions of the total number of cards and a common total."
  },
  {
   "id": "nov2020-2h-1",
@@ -20705,7 +20705,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Rotate the given value about the given centre and place the image."
+  "methodNote": "Rotate the shape about the stated centre and place the image."
  },
  {
   "id": "nov2020-3h-12",
@@ -21024,7 +21024,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": true,
-  "methodNote": "Use bounds with Pythagoras in the given value for the diagonal and give the length to a stated accuracy."
+  "methodNote": "Use bounds with Pythagoras for the diagonal and give the length to a stated accuracy."
  },
  {
   "id": "nov2020-3h-19",
@@ -21117,7 +21117,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Write the largest number with the given digit conditions."
+  "methodNote": "Write the largest number that meets the digit conditions."
  },
  {
   "id": "nov2020-3h-21",
@@ -21162,7 +21162,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": true,
-  "methodNote": "Rearrange the given equation into a ratio and simplify."
+  "methodNote": "Rearrange the equation into a ratio and simplify."
  },
  {
   "id": "nov2021-1h-1",
@@ -21669,7 +21669,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Form an equation from the given relation and rearrange to make a letter the subject."
+  "methodNote": "Form an equation from the relationship and rearrange to make a letter the subject."
  },
  {
   "id": "nov2021-1h-12",
@@ -22026,7 +22026,7 @@
   ],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": true,
-  "methodNote": "Question-specific working omitted from the public note; see the marks, scheme file and PDF page cited."
+  "methodNote": "Show that a surd expression simplifies to a stated result. Independent method mark for writing the root as a multiple of a simpler surd. Method mark for rationalising the denominator (multiplying top and bottom by the conjugate). Method mark, dependent on that, for expanding the terms (one error condoned). Accuracy mark for a complete chain of reasoning to the stated result."
  },
  {
   "id": "nov2021-1h-20",
@@ -22119,7 +22119,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": true,
-  "methodNote": "Compose functions in the given order, then solve or compare."
+  "methodNote": "Compose the functions in the stated order, then solve or compare."
  },
  {
   "id": "nov2021-1h-22",
@@ -22810,7 +22810,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": true,
-  "methodNote": "Divide the given expression or value by the ratio parts to find angles, then circle theorem reasoning."
+  "methodNote": "Divide by the ratio parts to find angles, then use circle theorem reasoning."
  },
  {
   "id": "nov2021-2h-15",
@@ -22857,7 +22857,7 @@
   ],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Use the cosine rule with the given angle and sides."
+  "methodNote": "Use the cosine rule with the known angle and sides."
  },
  {
   "id": "nov2021-2h-16",
@@ -23182,7 +23182,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Draw a line of best fit and read an estimate for the given value."
+  "methodNote": "Draw a line of best fit and read an estimate from it."
  },
  {
   "id": "nov2021-3h-2",
@@ -23816,7 +23816,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": false,
   "hardestOverall15pct": false,
-  "methodNote": "Draw a tangent at the given value and find the gradient for the rate of change."
+  "methodNote": "Draw a tangent at the stated point and find the gradient for the rate of change."
  },
  {
   "id": "nov2021-3h-16",
@@ -25168,7 +25168,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": true,
-  "methodNote": "Use the sine rule with the known sine of the given value for the angle."
+  "methodNote": "Use the sine rule with the known sine of the angle."
  },
  {
   "id": "nov2022-1h-23",
@@ -26163,7 +26163,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": true,
-  "methodNote": "Use Pythagoras to find a side, then trig for the angle in the given value"
+  "methodNote": "Use Pythagoras to find a side, then trigonometry for the angle."
  },
  {
   "id": "nov2022-2h-21",
@@ -26213,7 +26213,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Draw a tangent at the given value and find its gradient."
+  "methodNote": "Draw a tangent at the stated point and find its gradient."
  },
  {
   "id": "nov2022-2h-22",
@@ -27349,7 +27349,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Combine algebraic fractions over a common denominator and match to the given form."
+  "methodNote": "Combine algebraic fractions over a common denominator and match to the stated form."
  },
  {
   "id": "nov2022-3h-23",
@@ -27803,7 +27803,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Share the given value in the ratio for the angle."
+  "methodNote": "Share an amount in a ratio, then use angle facts to find the angle."
  },
  {
   "id": "nov2023-1h-7",
@@ -27941,7 +27941,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": false,
   "hardestOverall15pct": false,
-  "methodNote": "Draw the given line on the grid."
+  "methodNote": "Draw the line on the grid from its equation."
  },
  {
   "id": "nov2023-1h-10",
@@ -28218,7 +28218,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Draw a tangent at the given value and find its gradient."
+  "methodNote": "Draw a tangent at the stated point and find its gradient."
  },
  {
   "id": "nov2023-1h-16",
@@ -28690,7 +28690,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": false,
   "hardestOverall15pct": false,
-  "methodNote": "Compound interest at the yearly rate for the given years."
+  "methodNote": "Compound interest at the yearly rate for the stated number of years."
  },
  {
   "id": "nov2023-2h-4",
@@ -28775,7 +28775,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Share in the given ratio, scale to find the amount."
+  "methodNote": "Share in a ratio, then scale to find the amount."
  },
  {
   "id": "nov2023-2h-6",
@@ -30304,7 +30304,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Enlarge the triangle with the given scale factor and centre."
+  "methodNote": "Enlarge the triangle with the stated scale factor and centre."
  },
  {
   "id": "nov2023-3h-19",
@@ -30576,7 +30576,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": true,
-  "methodNote": "Use trig in the given value right-angled triangle to find the length."
+  "methodNote": "Use trigonometry in the right-angled triangle to find the length."
  },
  {
   "id": "nov2024-1h-1",
@@ -30952,7 +30952,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Find the area from the given relation and use it to find the missing length."
+  "methodNote": "Find the area from the stated relationship and use it to find the missing length."
  },
  {
   "id": "nov2024-1h-9",
@@ -31234,7 +31234,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Use the sine rule with the known sines of the given value."
+  "methodNote": "Use the sine rule with the known sines."
  },
  {
   "id": "nov2024-1h-15",
@@ -31683,7 +31683,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Explain the Venn diagram error for the number the given value in terms of set regions."
+  "methodNote": "Explain the Venn diagram error for the stated number in terms of set regions."
  },
  {
   "id": "nov2024-2h-5",
