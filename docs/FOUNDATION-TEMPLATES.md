@@ -14,8 +14,8 @@ Seen-in counts come in two kinds. The pattern count requires a primary topic in 
 - When it appears: A percentage of a quantity feeds a longer chain (people, cups, grams, or profit).
 - Teaching advice (ours, set-out skeleton): 1 Write the percentage as a multiplier. 2 Apply it to the starting amount. 3 Carry the result through each later step, labelling every number. 4 Give the final answer with units and, if asked, state the assumption in words.
 - What the example schemes show (one line per scheme; conditions apply to that scheme only):
-    - jun2023-3f-21 (scheme file June-2023__1ma1-3f-rms-20230824.pdf, PDF page 12; marks P1 P1 P1 A1 C1): Three process marks: working with [value] (at any stage), any other correct process step, and the full process to the total grams; an accuracy mark for an answer from [value] (full marks if a correct value in range is shown then wrongly rounded); a communication mark for a correct statement about the effect of the assumption (for example that more coffee would be needed).
-    - nov2024-3f-21 (scheme file November-2024__1ma1-3f-rms-20250109.pdf, PDF page 15; marks P1 P1 P1 P1 A1): Process marks in order: start working with the ratio; a complete process for the number of pens and pencils (or for the cost or selling amount of one item); a process for the total cost or total amount sold (or the profit) for both; a complete process for the profit as a percentage or decimal; accuracy for [value]
+    - jun2023-3f-21 (scheme file June-2023__1ma1-3f-rms-20230824.pdf, PDF page 12; marks P1 P1 P1 A1 C1): Three process marks: working with the given value (at any stage), any other correct process step, and the full process to the total grams; an accuracy mark for an answer from the given value (full marks if a correct value in range is shown then wrongly rounded); a communication mark for a correct statement about the effect of the assumption (for example that more coffee would be needed).
+    - nov2024-3f-21 (scheme file November-2024__1ma1-3f-rms-20250109.pdf, PDF page 15; marks P1 P1 P1 P1 A1): Process marks in order: start working with the ratio; a complete process for the number of pens and pencils (or for the cost or selling amount of one item); a process for the total cost or total amount sold (or the profit) for both; a complete process for the profit as a percentage or decimal; accuracy for the given value
 
 </section>
 
@@ -54,7 +54,7 @@ Seen-in counts come in two kinds. The pattern count requires a primary topic in 
 - Teaching advice (ours, set-out skeleton): 1 Convert minutes to hours first. 2 Pick the formula (distance = speed x time, or speed = distance / time). 3 Substitute with units. 4 Combine legs if there are several. 5 State the final speed with units.
 - What the example schemes show (one line per scheme; conditions apply to that scheme only):
     - jun2022-3f-27 (scheme file June-2022__1ma1-3f-rms-20220825.pdf, PDF page 14; marks P1 P1 P1 A1): Process marks for one distance from speed and time, for adding the two distances, for dividing by the right time with consistent units, then accuracy.
-    - nov2019-3f-27 (scheme file November-2019__1ma1-3f-msc-20200116.pdf, PDF page 14; marks B1 P1 P1 A1): A B1 for the time difference, a process mark for converting minutes to hours, a process mark for distance divided by the time difference, then accuracy; a special case B2 exists for [value] seen as the answer.
+    - nov2019-3f-27 (scheme file November-2019__1ma1-3f-msc-20200116.pdf, PDF page 14; marks B1 P1 P1 A1): A B1 for the time difference, a process mark for converting minutes to hours, a process mark for distance divided by the time difference, then accuracy; a special case B2 exists for the given value seen as the answer.
 
 </section>
 
@@ -94,7 +94,7 @@ Seen-in counts come in two kinds. The pattern count requires a primary topic in 
 - Teaching advice (ours, set-out skeleton): 1 Index laws: add powers when multiplying, multiply them for a power of a power. 2 Expand each bracket fully, then collect. 3 For factorising take out the highest common factor (number and letters). 4 Expand back to check.
 - What the example schemes show (one line per scheme; conditions apply to that scheme only):
     - jun2022-2f-21 (scheme file June-2022__1ma1-2f-rms-20220825.pdf, PDF page 11; marks B1 M1 A1 M1 A1): A B1 for the power of a power; a method mark for expanding one bracket or collecting like terms, then accuracy; a method mark for any partial factorisation then accuracy for full factorisation.
-    - nov2019-3f-22 (scheme file November-2019__1ma1-3f-msc-20200116.pdf, PDF page 13; marks M1 A1 B2): Expanding two brackets: method for [value] of the [value] terms right (or all four with signs wrong), then accuracy. Factorising: two marks for the full factor, one for a partial factor.
+    - nov2019-3f-22 (scheme file November-2019__1ma1-3f-msc-20200116.pdf, PDF page 13; marks M1 A1 B2): Expanding two brackets: method for a number of the terms right (or all four with signs wrong), then accuracy. Factorising: two marks for the full factor, one for a partial factor.
     - nov2020-3f-23 (scheme file November-2020__1ma1-3f-msc-20210114.pdf, PDF page 12; marks B1 M1 A1 M1 A1): A B1 for the index result; a method mark for partial simplification, then accuracy; for the inequality, a method mark that needs the working carried out (not only intended), then accuracy.
 
 </section>
@@ -133,7 +133,7 @@ Seen-in counts come in two kinds. The pattern count requires a primary topic in 
 - Teaching advice (ours, set-out skeleton): 1 For a ratio on a segment: differences in x and y, split, add to the start. 2 For an equation: gradient first, then intercept. 3 Write y = mx + c.
 - What the example schemes show (one line per scheme; conditions apply to that scheme only):
     - jun2022-2f-25 (scheme file June-2022__1ma1-2f-rms-20220825.pdf, PDF page 13; marks P1 P1 P1 A1): Process marks for the coordinate differences, for the ratio step, for one finished coordinate; accuracy for both.
-    - jun2024-1f-25 (scheme file June-2024__1ma1-1f-rms-20240822.pdf, PDF page 19; marks M1 M1 A1 B1): Method mark for the gradient from two points (just circling a value is not enough), second method mark for starting the equation with their gradient or a correct point form, accuracy for a correct equation in any equivalent form, and a separate B1 for a second line with gradient [value] and a non-zero intercept.
+    - jun2024-1f-25 (scheme file June-2024__1ma1-1f-rms-20240822.pdf, PDF page 19; marks M1 M1 A1 B1): Method mark for the gradient from two points (just circling a value is not enough), second method mark for starting the equation with their gradient or a correct point form, accuracy for a correct equation in any equivalent form, and a separate B1 for a second line with gradient the given value and a non-zero intercept.
 
 </section>
 
@@ -146,7 +146,7 @@ Seen-in counts come in two kinds. The pattern count requires a primary topic in 
 - Teaching advice (ours, set-out skeleton): 1 Mark each angle on the diagram. 2 Write the fact (alternate, co-interior, angles on a line, sum of interior angles). 3 Calculate. 4 State the reason beside each step.
 - What the example schemes show (one line per scheme; conditions apply to that scheme only):
     - jun2023-3f-22 (scheme file June-2023__1ma1-3f-rms-20230824.pdf, PDF page 13; marks M1 M1 A1 C1 C1): Method marks for a first and a second angle using parallel-line facts (angles must be labelled or identified), accuracy for both angles, and two communication marks: one parallel-lines reason, and one other correct reason, each linked to their method.
-    - jun2019-3f-28 (scheme file June-2019__1ma1-3f-rms-20190822.pdf, PDF page 15, 16; marks M1 M1 M1 C1): Three method marks: an interior-angle sum (hexagon, or pentagon with the halving shown) or an angle such as AFC or BCF found; using the [value] : [value] ratio correctly (the scheme sets minimum sizes for the angle sums used); and finding angle FED or CDE or a complete process to AFE. Then a communication mark for accurate working leading to AFE = [value]
+    - jun2019-3f-28 (scheme file June-2019__1ma1-3f-rms-20190822.pdf, PDF page 15, 16; marks M1 M1 M1 C1): Three method marks: an interior-angle sum (hexagon, or pentagon with the halving shown) or an angle such as AFC or BCF found; using the given ratio ratio correctly (the scheme sets minimum sizes for the angle sums used); and finding angle FED or CDE or a complete process to AFE. Then a communication mark for accurate working leading to AFE
 
 </section>
 
@@ -210,7 +210,7 @@ Seen-in counts come in two kinds. The pattern count requires a primary topic in 
 - When it appears: Probabilities that sum to 1, then a count from a given frequency.
 - Teaching advice (ours, set-out skeleton): 1 Add the known probabilities. 2 Subtract from 1. 3 Share the rest as the question says. 4 To get a total, divide a known frequency by its probability.
 - What the example schemes show (one line per scheme; conditions apply to that scheme only):
-    - jun2025-1f-20 (scheme file June-2025__1ma1-1f-rms-20250821.pdf, PDF page 15; marks P1 P1 A1 M1 A1): Process marks for subtracting from [value] and for sharing the remainder, accuracy; a method mark for the total count, accuracy.
+    - jun2025-1f-20 (scheme file June-2025__1ma1-1f-rms-20250821.pdf, PDF page 15; marks P1 P1 A1 M1 A1): Process marks for subtracting from the given value and for sharing the remainder, accuracy; a method mark for the total count, accuracy.
     - jun2019-1f-22 (scheme file June-2019__1ma1-1f-rms-20190822.pdf, PDF page 13; marks P1 A1 P1 A1): Process mark for the sum of unknowns, accuracy; process mark for the total from frequency divided by probability, accuracy.
 
 </section>
@@ -237,7 +237,7 @@ Seen-in counts come in two kinds. The pattern count requires a primary topic in 
 - Teaching advice (ours, set-out skeleton): 1 Plot or read. 2 Draw a line of best fit through the middle of the trend. 3 Read across and down. 4 Describe the correlation in words, and say whether a point fits the trend.
 - What the example schemes show (one line per scheme; conditions apply to that scheme only):
     - nov2021-3f-21 (scheme file November-2021__1ma1-3f-rms-20220113.pdf, PDF page 10; marks B1 M1 A1 C1): A B1 for the plotted point, method for reading from the line of best fit, accuracy for an answer in a range, communication for the decision about the point.
-    - nov2022-2f-18 (scheme file November-2022__1ma1-2f-rms-20230112.pdf, PDF page 10; marks B1 C1 M1 A1): A B1 for a plotted point, a communication mark for a correct description (negative correlation accepted), a method mark for a line of best fit or a horizontal read-across at [value] and accuracy for an answer in a range.
+    - nov2022-2f-18 (scheme file November-2022__1ma1-2f-rms-20230112.pdf, PDF page 10; marks B1 C1 M1 A1): A B1 for a plotted point, a communication mark for a correct description (negative correlation accepted), a method mark for a line of best fit or a horizontal read-across at the given value and accuracy for an answer in a range.
 
 </section>
 
@@ -276,7 +276,7 @@ Seen-in counts come in two kinds. The pattern count requires a primary topic in 
 - Teaching advice (ours, set-out skeleton): 1 Round each value to 1 significant figure. 2 Calculate with the rounded values. 3 Compare with the exact. 4 Say whether it is an over- or under-estimate and why.
 - What the example schemes show (one line per scheme; conditions apply to that scheme only):
     - jun2022-2f-24 (scheme file June-2022__1ma1-2f-rms-20220825.pdf, PDF page 12; marks P1 P1 P1 A1 C1): Process marks for the area of one site, for the area per person at one site, and at both; accuracy for an answer in a range; a communication mark for a valid statement about how square units scale (the scheme lists acceptable and non-acceptable wording).
-    - jun2024-1f-24 (scheme file June-2024__1ma1-1f-rms-20240822.pdf, PDF page 18; marks P1 P1 A1 C1): Process mark for using values rounded to [value], a process mark for the full process to the total amount, accuracy following through their rounded values, and a communication mark that must relate to estimation (over- or under-estimate), following through from part (a).
+    - jun2024-1f-24 (scheme file June-2024__1ma1-1f-rms-20240822.pdf, PDF page 18; marks P1 P1 A1 C1): Process mark for using values rounded to the given value, a process mark for the full process to the total amount, accuracy following through their rounded values, and a communication mark that must relate to estimation (over- or under-estimate), following through from part (a).
 
 </section>
 
@@ -328,7 +328,7 @@ Seen-in counts come in two kinds. The pattern count requires a primary topic in 
 - Teaching advice (ours, set-out skeleton): 1 Learn the facts: any number to the power 0 is 1, a negative power is a reciprocal. 2 For the same base add the powers when multiplying and subtract when dividing. 3 Give the answer in the form asked.
 - What the example schemes show (one line per scheme; conditions apply to that scheme only):
     - nov2023-1f-19 (scheme file November-2023__1ma1-1f-rms-20240111.pdf, PDF page 12; marks B1 B1 M1 A1): Separate B1 marks for the zero power and the negative power; for combining indices, a method mark for a correct first step using an index rule (or expanding fully), then accuracy for the final power.
-    - nov2020-3f-9 (scheme file November-2020__1ma1-3f-msc-20210114.pdf, PDF page 7; marks B1 B1 B1): Three separate B1 marks: one for the value [value] one for the value [value] and one for a reciprocal.
+    - nov2020-3f-9 (scheme file November-2020__1ma1-3f-msc-20210114.pdf, PDF page 7; marks B1 B1 B1): Three separate B1 marks: one for each of the required values and one for a reciprocal.
 
 </section>
 
@@ -340,7 +340,7 @@ Seen-in counts come in two kinds. The pattern count requires a primary topic in 
 - When it appears: Estimate a calculation by rounding, or use a given product to find a related one.
 - Teaching advice (ours, set-out skeleton): 1 Round each number to one significant figure. 2 Calculate with the rounded values and show the working. 3 Never compute the exact answer first. 4 For a related product, compare the sizes of the factors.
 - What the example schemes show (one line per scheme; conditions apply to that scheme only):
-    - jun2022-1f-15 (scheme file June-2022__1ma1-1f-rms-20220825.pdf, PDF page 9; marks M1 A1 B1): Part (a): a method mark for rounding one figure appropriately, accuracy for an estimate from a listed set; part (b): one B1 for [value]
+    - jun2022-1f-15 (scheme file June-2022__1ma1-1f-rms-20220825.pdf, PDF page 9; marks M1 A1 B1): Part (a): a method mark for rounding one figure appropriately, accuracy for an estimate from a listed set; part (b): one B1 for the given value
     - nov2020-1f-18 (scheme file November-2020__1ma1-1f-msc-20210114.pdf, PDF page 12, 13; marks M1 M1 A1): A method mark for rounding at least two figures, a dependent method mark for a correct calculation with the rounded values, accuracy for an answer in a stated range; the scheme says any exact calculation scores no marks.
 
 </section>
@@ -483,7 +483,7 @@ Seen-in counts come in two kinds. The pattern count requires a primary topic in 
 - Teaching advice (ours, set-out skeleton): 1 Percentage: write over 100. 2 Decimal: write over 10, 100 or 1000. 3 Simplify if asked. 4 Say which form the answer is in.
 - What the example schemes show (one line per scheme; conditions apply to that scheme only):
     - jun2019-2f-1 (scheme file June-2019__1ma1-2f-rms-20190822.pdf, PDF page 6; marks B1): One B1 for the fraction or any equivalent fraction.
-    - jun2022-3f-1 (scheme file June-2022__1ma1-3f-rms-20220825.pdf, PDF page 6; marks B1): One B1 for the fraction or any equivalent fraction, over [value] or simplified.
+    - jun2022-3f-1 (scheme file June-2022__1ma1-3f-rms-20220825.pdf, PDF page 6; marks B1): One B1 for the fraction or any equivalent fraction, over the given value or simplified.
 
 </section>
 
@@ -509,7 +509,7 @@ Seen-in counts come in two kinds. The pattern count requires a primary topic in 
 - Teaching advice (ours, set-out skeleton): 1 Total work = number x time. 2 Divide by the new number. 3 Check that fewer workers take longer.
 - What the example schemes show (one line per scheme; conditions apply to that scheme only):
     - nov2022-2f-16 (scheme file November-2022__1ma1-2f-rms-20230112.pdf, PDF page 10; marks P1 P1 A1): Process marks for one calculation from the listed routes, for a complete process, accuracy.
-    - jun2023-3f-23 (scheme file June-2023__1ma1-3f-rms-20230824.pdf, PDF page 13; marks P1 A1): A process mark for a first step (total work or a unit time), accuracy; an answer of [value] scores no marks.
+    - jun2023-3f-23 (scheme file June-2023__1ma1-3f-rms-20230824.pdf, PDF page 13; marks P1 A1): A process mark for a first step (total work or a unit time), accuracy; an answer of the given value scores no marks.
 
 </section>
 
@@ -521,7 +521,7 @@ Seen-in counts come in two kinds. The pattern count requires a primary topic in 
 - When it appears: Money growing by a percentage each year.
 - Teaching advice (ours, set-out skeleton): 1 Multiplier = 1 + rate. 2 Raise to the number of years. 3 Multiply by the start amount. 4 Subtract the start if asked for interest.
 - What the example schemes show (one line per scheme; conditions apply to that scheme only):
-    - nov2024-3f-26 (scheme file November-2024__1ma1-3f-rms-20250109.pdf, PDF page 17, 18; marks M1 M1 A1): A method mark for the value or interest after one year, a method mark for the value after three years, accuracy for the interest; a special-case B1 for [value] if no method mark was scored.
+    - nov2024-3f-26 (scheme file November-2024__1ma1-3f-rms-20250109.pdf, PDF page 17, 18; marks M1 M1 A1): A method mark for the value or interest after one year, a method mark for the value after three years, accuracy for the interest; a special-case B1 for the given value if no method mark was scored.
 
 </section>
 
@@ -545,7 +545,7 @@ Seen-in counts come in two kinds. The pattern count requires a primary topic in 
 - When it appears: Column or grid multiplication and division with decimals, bills, and checking a sales figure by rounding.
 - Teaching advice (ours, set-out skeleton): Multiplying decimals: 1 Count the decimal places in both numbers (for 3.67 x 4.2 that is 2 + 1 = 3). 2 Multiply as whole numbers (367 x 42). 3 Give the product that many decimal places (3 places). 4 Check with an estimate (about 4 x 4 = 16). Dividing by a decimal: 1 Multiply both numbers by the same power of 10 so the divisor is a whole number (59.84 / 1.6 becomes 598.4 / 16). 2 Divide, keeping the decimal point above the point in the dividend. 3 Check with an estimate. Bills: add each line, then the total; line up the pence. Estimates: round each number to one significant figure first.
 - What the example schemes show (one line per scheme; conditions apply to that scheme only):
-    - jun2023-1f-11 (scheme file June-2023__1ma1-1f-rms-20230824.pdf, PDF page 9; marks P1 A1 P1 P1 A1 C1): Part (a): a process mark for [value] then accuracy. Part (b): a process mark for rounding to one significant figure, a dependent process mark for starting the calculation with rounded values, accuracy for an answer in a range, then a communication mark for an over-estimate with a reason about estimation.
+    - jun2023-1f-11 (scheme file June-2023__1ma1-1f-rms-20230824.pdf, PDF page 9; marks P1 A1 P1 P1 A1 C1): Part (a): a process mark for the correct value then accuracy. Part (b): a process mark for rounding to one significant figure, a dependent process mark for starting the calculation with rounded values, accuracy for an answer in a range, then a communication mark for an over-estimate with a reason about estimation.
     - nov2021-1f-20 (scheme file November-2021__1ma1-1f-rms-20220113.pdf, PDF page 14; marks M1 A1 A1 M1 A1 A1): Each of the two decimal calculations: a method mark for a complete method with correct relative place value, then an accuracy mark for the digits, and a dependent follow-through mark for the decimal point; for the division, a method mark for starting a division method with a correct first digit.
 
 </section>

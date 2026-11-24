@@ -32,3 +32,11 @@ Official Pearson sources only. Nothing below has been filled in from memory or f
 - jun2019-3f-28 communication-mark wording now taken from the scheme page itself.
 
 - Foundation methodNote: the 707 questions without a verified Higher twin carry own-words notes written from each question's scheme entry (generated structural notes were withdrawn). Status in questions-foundation.json: 707 written from the full scheme entry, 0 partial (jun2022-3f-15 and nov2021-3f-28 were resolved from the question page images), 0 unfinished; 236 inherited from verified Higher twins. Several nov2019 paper 2F/3F notes say 'question text lost; scheme only'. Extraction faults found and resolved by reading the scheme PDF text directly: nov2023-2f-17 (cut off before the key mark), nov2023-2f-18 (stray fragments), nov2023-2f-19 and jun2025-3f-30 (text ran into other questions); the notes now rest on the correct entries but the stored boundaries were corrected with repo/code/apply_ms_fix.py after reading the scheme pages as images. nov2024-3f-23: the stored text and source pages are corrected (page 19 only; it had started inside question 22 on page 18).
+
+## Public note wording after scrubbing (24 Nov 2026)
+
+Question-specific figures were removed from the public method notes so no scheme figures or answers are reproduced. A second repair pass (code/repair_public_notes.py) then rewrote leftover placeholders into plain wording ("the correct value", "the given value") and removed clauses that could not be made readable without the figures.
+
+- 158 Foundation and Higher notes (all but a few Foundation) now carry only a pointer to the cited marks, scheme file and PDF page, because their wording depended on figures. Their full method detail is not recoverable from the public repo; it lives in the scheme file cited on each row.
+- Some remaining notes still read generically (for example "the given value"). That is deliberate: the figure belongs to the Pearson scheme.
+- One damaged cross-reference in docs/TEMPLATES.md (nov2022-1h-12) was restored to jun2024-1h-10, the only June 2024 scheme in that template group. Treat that link as inferred.
