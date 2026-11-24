@@ -380,7 +380,7 @@ Seen-in counts come in two kinds. The pattern count requires a primary topic in 
 - Teaching advice (ours, set-out skeleton): 1 Match corresponding sides. 2 Find the scale factor from a known pair. 3 Multiply or divide the other length. 4 Check the answer is smaller or larger as the shapes suggest.
 - What the example schemes show (one line per scheme; conditions apply to that scheme only):
     - nov2022-3f-25 (scheme file November-2022__1ma1-3f-rms-20230112.pdf, PDF page 13; marks M1 A1 M1 A1): Use ratio of lengths to scale quantities, then find a related size.
-    - nov2019-1f-29 (scheme file November-2019__1ma1-1f-msc-20200116.pdf, PDF page 16; marks M1 A1 P1 A1): (a) Similar triangles: method mark for a correct ratio or scale factor of the corresponding sides, accuracy mark for the correct value (b) Congruent triangles: process mark for showing that matching sides are equal (EG with KG, or HG with FG) and using that to get an unknown length, accuracy mark for the correct value
+    - nov2019-1f-29 (scheme file November-2019__1ma1-1f-msc-20200116.pdf, PDF page 16; marks M1 A1 P1 A1): (a) Similar triangles: method mark for a correct statement of the corresponding sides or a scale factor in fraction form (equivalent fractions or decimals to two places accepted), accuracy mark for the length. (b) Congruent triangles: process mark for showing that matching sides are equal and using that to find an unknown length (any unambiguous statement, or matching of corresponding angles), accuracy mark for the length.
 
 </section>
 
@@ -419,7 +419,7 @@ Seen-in counts come in two kinds. The pattern count requires a primary topic in 
 - Teaching advice (ours, set-out skeleton): 1 Find the radius or diameter first. 2 Pick the formula. 3 Substitute and keep pi unrounded until the end. 4 Round as asked and give units.
 - What the example schemes show (one line per scheme; conditions apply to that scheme only):
     - nov2023-3f-29 (scheme file November-2023__1ma1-3f-rms-20240111.pdf, PDF page 15; marks P1 P1 P1 A1): Circle round a square. Process mark for starting Pythagoras for the diagonal (a correct statement). Process mark for completing the diameter or radius. Process mark for circumference as pi times diameter. Accuracy mark for the circumference.
-    - nov2019-3f-30 (scheme file November-2019__1ma1-3f-msc-20200116.pdf, PDF page 16; marks M1 M1 C1): Method mark for the area of A or of B (with or without pi); second method mark for both areas.
+    - nov2019-3f-30 (scheme file November-2019__1ma1-3f-msc-20200116.pdf, PDF page 16; marks M1 M1 C1): Show that an area relation holds with two quarter or part circles. Method mark for the area of one circle part (with or without pi, or an approximation). Method mark for the area of both. Communication mark for a complete argument reaching the stated result.
 
 </section>
 
@@ -521,7 +521,7 @@ Seen-in counts come in two kinds. The pattern count requires a primary topic in 
 - When it appears: Money growing by a percentage each year.
 - Teaching advice (ours, set-out skeleton): 1 Multiplier = 1 + rate. 2 Raise to the number of years. 3 Multiply by the start amount. 4 Subtract the start if asked for interest.
 - What the example schemes show (one line per scheme; conditions apply to that scheme only):
-    - nov2024-3f-26 (scheme file November-2024__1ma1-3f-rms-20250109.pdf, PDF page 17, 18; marks M1 M1 A1): Accuracy mark for the correct value Special case: one mark for the correct value
+    - nov2024-3f-26 (scheme file November-2024__1ma1-3f-rms-20250109.pdf, PDF page 17, 18; marks M1 M1 A1): Compound interest over three years. Method mark for the value or interest after one year (multiplier or percentage). Method mark for the value after three years (repeated multiplication or a power; seeing the interest figure implies both method marks). Accuracy mark for the interest, allowing a truncated value. A special case gives one mark for a close wrong value if no method mark was scored.
 
 </section>
 
@@ -558,7 +558,7 @@ Seen-in counts come in two kinds. The pattern count requires a primary topic in 
 - When it appears: Journey times from a timetable, waiting time, currency spending, and multi-step money problems.
 - Teaching advice (ours, set-out skeleton): 1 Subtract times in the right order, writing hours and minutes. 2 Check you read the right columns. 3 For money, find each cost, add, then compare with the amount. 4 State the decision with the figures.
 - What the example schemes show (one line per scheme; conditions apply to that scheme only):
-    - jun2025-1f-12 (scheme file June-2025__1ma1-1f-rms-20250821.pdf, PDF page 9; marks M1 M1 C1 P1 A1): Accuracy mark for the correct value with an embedded answer scoring the process mark only.
+    - jun2025-1f-12 (scheme file June-2025__1ma1-1f-rms-20250821.pdf, PDF page 9; marks M1 M1 C1 P1 A1): (a) Train timetable. Method mark for the journey time of one train (subtraction in the right order, no misread of the timetable). Method mark for a complete method to the answer. Accuracy mark. (b) Further timetable steps with a communication mark for the supported conclusion; an answer written as an embedded value earns the process mark only.
     - nov2019-1f-12 (scheme file November-2019__1ma1-1f-msc-20200116.pdf, PDF page 8; marks P1 P1 C1 P1 C1): (a) Shopping with a budget. Process marks: a first step (adding two or more items or subtracting from the budget), then the full cost of the main items (or the change); communication mark for a conclusion from correct figures. (b) Process mark for a further stage (for example with the jacket or the change left), communication mark for the final comparison or decision from correct figures.
 
 </section>
