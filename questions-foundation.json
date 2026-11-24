@@ -15384,7 +15384,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": false,
   "hardestOverall15pct": true,
-  "methodNote": "Compare two percentages of different amounts. Process mark for a first step towards comparable figures (a percentage of one amount). Process mark for both comparable figures. Communication mark for the correct decision from correct figures; a wrong difference after a correct decision is not penalised in the scheme read.",
+  "methodNote": "Compare two percentages of different amounts to decide which is bigger. Process mark for a first step towards comparable figures (a percentage of one amount, as a decimal or as a product before dividing by 100). Process mark for both comparable figures found by the same route. Communication mark for the correct decision supported by correct figures. An incorrect stated difference is ignored if the decision is right and the figures are right, unless it contradicts.",
   "methodNoteStatus": "written from scheme (full entry read)"
  },
  {
@@ -24756,7 +24756,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": false,
   "hardestOverall15pct": true,
-  "methodNote": "Two successive percentage reductions. Process mark for finding the first percentage of the starting price (or its multiplier). Dependent process mark for applying the reduction. Process mark for the second percentage of the new price (or its multiplier). Further marks for the final price and the conclusion.",
+  "methodNote": "Two successive percentage reductions, then a yes/no decision. Process mark for finding the first reduction as a fraction or percentage of the starting price (or its multiplier). Dependent process mark for reducing the starting price by it. Process mark for the second percentage of the new price (or the matching multiplier), dependent on the previous mark. Process mark for a fully correct process to the final price. Communication mark for the conclusion (Yes) supported by correct figures.",
   "methodNoteStatus": "written from scheme (full entry read)"
  },
  {
