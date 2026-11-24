@@ -171,7 +171,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": false,
   "hardestOverall15pct": false,
-  "methodNote": "One mark for the correct value; not awarded if other numbers are also given, but both together are accepted.",
+  "methodNote": "Choosing a number from a list to meet a stated condition (the scheme accepts two valid values). One mark for either valid value; not awarded if any other number is also given, but awarded if both valid values are shown.",
   "methodNoteStatus": "written from scheme (full entry read)"
  },
  {
@@ -1020,7 +1020,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Probability from a table with missing entries. First process mark for using the fact that probabilities sum to one to find the combined unknown share; accuracy mark for two probabilities that fit (equivalent fractions or percentages accepted). Second process mark for a full process to find the total number of items from a known count and its probability (or a scaling statement); accuracy mark for the final total.",
+  "methodNote": "(a) Process mark for finding the sum of the unknown probabilities from 1 minus the known one (any two probabilities with that sum earn it); accuracy mark for the values in any equivalent form. (b) Process mark for a complete process to the total number of items from a known count and its probability (or stating what a stated probability equals); accuracy mark for the total.",
   "methodNoteStatus": "inherited from verified Higher twin"
  },
  {
@@ -1070,7 +1070,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": true,
-  "methodNote": "Recipe scaling. Process mark for starting to find the flour from the sugar ratio, a complete process, accuracy mark for the flour. Process mark for working out the butter amount or the number of packs of butter, accuracy mark for the whole number of packs (the butter amount must be stated or calculated and not from incorrect working).",
+  "methodNote": "(a) Flour amount. Process mark for starting the scaling (a multiplier from the recipe, or working out the sugar needed). Process mark for a complete process to the flour. Accuracy mark. (b) Process mark for the butter amount (or the number of packs needed, with the butter amount stated or calculated, possibly in part (a)). Accuracy mark for the number of packs.",
   "methodNoteStatus": "inherited from verified Higher twin"
  },
  {
@@ -5201,7 +5201,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": true,
-  "methodNote": "Sharing a total in a ratio and combining fractions or percentages. Four process marks: finding one share of the ratio; a correct amount for the largest group; a step using that amount for the other two groups, or combining fraction and percentage parts in a common form; a complete process for the final group. Accuracy mark for the final count. A correct answer with no working scores nothing. Special case: two marks for the wrong-group answer if no process mark was scored.",
+  "methodNote": "Multi-stage ratio and percentage problem. Process mark for sharing the total in the ratio. Process mark for the share. Process mark for a step using that share (a part of it, or a percentage of it), or for combining a fraction and a percentage. Process mark for a complete process to the number in the remaining category. Accuracy mark. A correct answer with no supporting working scores nothing.",
   "methodNoteStatus": "inherited from verified Higher twin"
  },
  {
@@ -6597,7 +6597,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": true,
-  "methodNote": "Dividing a line segment in a given ratio. Process mark for the coordinate differences, process mark for using the ratio to find a share of each difference, process mark for a complete process to either coordinate (or both shares). Accuracy mark for both coordinates.",
+  "methodNote": "Dividing a line in a ratio. Process mark for the coordinate differences (either order, signs allowed). Process mark for using the ratio on a difference. Process mark for a complete process to the x or y coordinate of the point. Accuracy mark for both coordinates.",
   "methodNoteStatus": "inherited from verified Higher twin"
  },
  {
@@ -10639,7 +10639,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": true,
-  "methodNote": "Write the area of each shape in x, equate with the given difference and solve the linear equation.",
+  "methodNote": "Areas in x. Process mark for an expression for the area of one shape. Process mark for expressions for both. Process mark for an equation using the stated difference in areas. Method and accuracy marks for solving the linear equation (check the scheme page for the exact split).",
   "methodNoteStatus": "inherited from verified Higher twin"
  },
  {
@@ -10689,7 +10689,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": false,
   "hardestOverall15pct": true,
-  "methodNote": "Splitting a total in a ratio, applying a percentage, then combining. Process mark for a start (the percentage of the total, or one ratio share). Process mark for a further stage (the ratio share of the part, or a share of one group). Accuracy mark for the final value.",
+  "methodNote": "Ratio and percentage. Process mark for a start (a share by ratio, or a percentage of the total). Process mark for a complete process to the weight needed. Accuracy mark for an answer in a stated range. A special case gives two marks for a close wrong value from a misuse of the ratio.",
   "methodNoteStatus": "inherited from verified Higher twin"
  },
  {
@@ -11778,7 +11778,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": true,
-  "methodNote": "Percentage of a group and scaling. Process mark for finding a percentage of the number of people. Process mark for another correct step, such as multiplying by the quantity per person or by two groups. Process mark for a full process to the amount needed. Accuracy mark for the amount. Communication mark for a conclusion about the amount available.",
+  "methodNote": "(a) Coffee needed for a group. Process mark for working with the percentage of the people (any stage). Process mark for a correct other process step, such as doubling for two servings or multiplying by the per-person amount. Process mark for the full process to the amount of coffee. Accuracy mark for an answer in a stated range (correct values from working but wrongly rounded still get full marks). (b) One communication mark for a correct statement about whether the amount is enough or an underestimate, with any figures correct.",
   "methodNoteStatus": "inherited from verified Higher twin"
  },
  {
@@ -14361,7 +14361,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Prime factorisation and an LCM from given factorisations. Method mark for a complete factor tree or division by primes (one error allowed, 1 condoned), accuracy mark for the product of prime factors (index form accepted). One further mark for the correct LCM (index form or expanded product accepted).",
+  "methodNote": "(a) Prime factorisation: method mark for a complete method (a factor tree or division by primes, no more than one error, or listing the prime factors; including 1 is condoned), accuracy mark for the product of primes (index form accepted). (b) One mark for the lowest common multiple, from the given factorisations (index or product form accepted).",
   "methodNoteStatus": "inherited from verified Higher twin"
  },
  {
@@ -14455,7 +14455,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": true,
-  "methodNote": "Use the given probability of yellow to find the total, then the number of the other colours.",
+  "methodNote": "Probability with a ratio. Process mark for the total number from a known probability and count (or the total probability of the other colours). Process mark for sharing the rest in the ratio. Process mark for a complete process to the number of one colour. Accuracy mark.",
   "methodNoteStatus": "inherited from verified Higher twin"
  },
  {
@@ -31590,7 +31590,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Scatter graph. One mark for a point plotted. Method mark for a method to read off the line of best fit. Accuracy mark for an estimate in a tolerance range. Communication mark for a decision and statement about whether the estimate is reliable.",
+  "methodNote": "(a) One mark for a correct point plotted or read. (b) Estimate from a line of best fit. Method mark for reading from the line (or a point on the grid at the given x within a range). Accuracy mark for an answer in a range. (c) One communication mark for a decision and statement about an outlier (for example that the trend or correlation is still visible and the point can be ignored); statements saying yes are not accepted.",
   "methodNoteStatus": "inherited from verified Higher twin"
  },
  {
@@ -36768,7 +36768,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": true,
-  "methodNote": "Angles in a ratio with angle facts. Process mark for using the ratio (parts or an algebraic form). Process mark for an equation from angle facts. Process mark for solving (x or y found earns both). Accuracy mark for the required angle.",
+  "methodNote": "Angles in a ratio. Process mark for using the ratio (parts or algebraic form). Process mark for an angle-facts equation. Process mark for a complete process to the required angle. Accuracy mark. Solving for the unknown angle gets two process marks together.",
   "methodNoteStatus": "inherited from verified Higher twin"
  },
  {
@@ -38063,7 +38063,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": false,
   "hardestOverall15pct": false,
-  "methodNote": "Compound interest at the yearly rate for the given years.",
+  "methodNote": "Compound interest. Method mark for a full method for one year, or for two years as a single multiplier. Accuracy mark for the final amount (rounded or unrounded to the nearest penny).",
   "methodNoteStatus": "inherited from verified Higher twin"
  },
  {
@@ -38152,7 +38152,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": true,
-  "methodNote": "Sharing in a ratio then in a second ratio. Process mark for working correctly with the first ratio (the total can be implied). Process mark for the value of one part in the new ratio. Process mark for using it to find the needed amount. Accuracy mark for the final value.",
+  "methodNote": "Ratio then a second ratio. Process mark for working correctly with the first ratio. Process mark for the value of one part of the new ratio. Process mark for a complete process to both values needed. Accuracy mark.",
   "methodNoteStatus": "inherited from verified Higher twin"
  },
  {
@@ -41930,7 +41930,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": true,
-  "methodNote": "Explaining an error on a Venn diagram. Communication marks for identifying that a number belongs only in the overlap of two sets and explaining its placement, using set notation if desired.",
+  "methodNote": "Two communication marks for describing two faults in a Venn diagram: the number that should appear only in the intersection (stated in words, or with set notation, or by crossing it out on the diagram), and a number that is missing and belongs outside the circles. Statements giving a wrong correction are not accepted.",
   "methodNoteStatus": "inherited from verified Higher twin"
  },
  {

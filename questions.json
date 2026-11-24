@@ -94,7 +94,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Scale amounts proportionally from the recipe quantity given, find flour and butter from multiples of the sugar, then convert to whole packs."
+  "methodNote": "(a) Flour amount. Process mark for starting the scaling (a multiplier from the recipe, or working out the sugar needed). Process mark for a complete process to the flour. Accuracy mark. (b) Process mark for the butter amount (or the number of packs needed, with the butter amount stated or calculated, possibly in part (a)). Accuracy mark for the number of packs."
  },
  {
   "id": "jun2019-1h-3",
@@ -780,7 +780,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": true,
-  "methodNote": "Form an equation from the given condition, rearrange to a quadratic equal to zero, factorise or use the formula."
+  "methodNote": "Quadratic from a condition. Process mark for forming the equation. Process mark for writing it in a form ready to solve. Process mark, dependent on the first, for solving it (factorising or the formula). Accuracy mark for both solutions."
  },
  {
   "id": "jun2019-1h-18",
@@ -1660,7 +1660,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Draw a tangent to the curve at the given time and find its gradient as the rate of change."
+  "methodNote": "(a)(i) Unconditional mark for a tangent drawn at the stated time. Method mark for a full method for its gradient. Accuracy mark in a range. (ii) One communication mark for saying what the gradient represents (a rate of change of speed). (b) Process marks for splitting the area under the graph into strips or shapes and finding the area; see the cited scheme page."
  },
  {
   "id": "jun2019-2h-15",
@@ -1743,7 +1743,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Find the gradient of the given line, use the negative reciprocal for the perpendicular, and form the equation through the given point."
+  "methodNote": "Equation of a perpendicular line through a point. Method mark for the gradient of the given line (ignore the constant). Method mark for starting to find the perpendicular gradient (the negative reciprocal; may follow through). Accuracy mark for an equation of the line through the point, in any equivalent form."
  },
  {
   "id": "jun2019-2h-17",
@@ -3473,7 +3473,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Find the total from the probability of one colour, then form and solve an equation for the missing quantity."
+  "methodNote": "Probability to a total. Process mark for a start (the probability set equal to a fraction of the unknown total, or stating the total). Process mark for forming a correct equation without fractions (or subtracting known counts). Accuracy mark for the missing quantity."
  },
  {
   "id": "jun2022-1h-12",
@@ -3657,7 +3657,7 @@
   ],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": true,
-  "methodNote": "Express vectors in terms of the given ones and show one is a multiple of the other, so the points are collinear."
+  "methodNote": "(a) Method mark for expressing the required vectors in terms of the given ones. Communication mark for a correct reason (one vector is a multiple of the other, so the points are collinear; saying only that they are multiples is accepted but incorrect working voids it). See the cited scheme page for part (b)."
  },
  {
   "id": "jun2022-1h-16",
@@ -3923,7 +3923,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": true,
-  "methodNote": "Find the sector area and the triangle area using the angle, then subtract to get the segment."
+  "methodNote": "Shaded area from circle pieces. Process mark for identifying the angle at the centre of a sector. Process mark for the sector area as a fraction of the circle. Process mark for the area of the (equilateral or isosceles) triangle, by a trig area formula or by Pythagoras. Process mark for sector minus triangle to give a segment. Accuracy mark for the final area in exact form, which need not be fully simplified."
  },
  {
   "id": "jun2022-2h-1",
@@ -4158,7 +4158,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Use coordinate differences and the given ratio to divide a line segment and find the end point."
+  "methodNote": "Dividing a line in a ratio. Process mark for the coordinate differences (either order, signs allowed). Process mark for using the ratio on a difference. Process mark for a complete process to the x or y coordinate of the point. Accuracy mark for both coordinates."
  },
  {
   "id": "jun2022-2h-6",
@@ -4650,7 +4650,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Fill the eight regions of a three-set Venn diagram from the given counts, working inwards from the intersections."
+  "methodNote": "(a) Venn diagram with three sets: four communication marks for a fully correct diagram, three for six or seven of the eight regions correct, two for four or five, one for two or three; a blank region accepted for 0. (b) Method mark for a probability fraction with the correct numerator from the diagram and a total above it, following through. Accuracy mark for any equivalent fraction or decimal."
  },
  {
   "id": "jun2022-2h-17",
@@ -6546,7 +6546,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Write a fraction as a power of a base and evaluate fractional powers."
+  "methodNote": "(a) One mark for writing a reciprocal power as a negative index. (b) Method mark for rewriting a fractional power as a root and a power (roots first is the easier route). Method mark for evaluating the root or the power correctly. Accuracy mark for the value."
  },
  {
   "id": "jun2023-1h-15",
@@ -6899,7 +6899,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Use a right-angled triangle in the solid and set up the sine of the angle from two known lengths."
+  "methodNote": "Angle in a 3D solid. Process mark for a correct trigonometric statement for the required angle in a right-angled triangle (working may be on the diagram; the sine form of the triangle works from two known lengths). Accuracy mark for the angle."
  },
  {
   "id": "jun2023-1h-23",
@@ -7211,7 +7211,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Write the area of each shape in x, equate them using the stated difference and solve the linear equation."
+  "methodNote": "Areas in x. Process mark for an expression for the area of one shape. Process mark for expressions for both. Process mark for an equation using the stated difference in areas. Method and accuracy marks for solving the linear equation (check the scheme page for the exact split)."
  },
  {
   "id": "jun2023-2h-6",
@@ -7259,7 +7259,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": false,
   "hardestOverall15pct": false,
-  "methodNote": "Split the total in the stated ratio, apply a percentage, then combine to compare quantities."
+  "methodNote": "Ratio and percentage. Process mark for a start (a share by ratio, or a percentage of the total). Process mark for a complete process to the weight needed. Accuracy mark for an answer in a stated range. A special case gives two marks for a close wrong value from a misuse of the ratio."
  },
  {
   "id": "jun2023-2h-7",
@@ -7794,7 +7794,7 @@
   ],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": true,
-  "methodNote": "Use the given ratios to link variables then prove the required relationship algebraically."
+  "methodNote": "Show that, from ratios. Method mark for a ratio connecting two of the variables (or combining the ratios over a common term). Method mark for the three-way ratio (or both sums in terms of one variable). Accuracy mark for the required ratio of sums, leading to the stated result."
  },
  {
   "id": "jun2023-2h-19",
@@ -7926,7 +7926,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Draw the transformed curve by translating the given turning points."
+  "methodNote": "Two sketch parts. (a) One mark for the sketch of the curve after a transformation (freehand allowed if intention is clear), with the new turning points. (b) One mark for the sketch after the other transformation."
  },
  {
   "id": "jun2023-2h-22",
@@ -8165,7 +8165,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Work with the number of people in one group, then scale for two groups and find the total."
+  "methodNote": "(a) Coffee needed for a group. Process mark for working with the percentage of the people (any stage). Process mark for a correct other process step, such as doubling for two servings or multiplying by the per-person amount. Process mark for the full process to the amount of coffee. Accuracy mark for an answer in a stated range (correct values from working but wrongly rounded still get full marks). (b) One communication mark for a correct statement about whether the amount is enough or an underestimate, with any figures correct."
  },
  {
   "id": "jun2023-3h-3",
@@ -8842,7 +8842,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Draw a tangent at the given time and use its gradient as the rate of change."
+  "methodNote": "(a) Method mark for drawing a tangent at the stated time (the tangent must be seen for any marks). Dependent method mark for a complete method for its gradient. Accuracy mark in a range, or following through. A correct value with no or wrong working scores nothing. (b) One communication mark for saying what the gradient represents (speed or velocity)."
  },
  {
   "id": "jun2023-3h-18",
@@ -9887,7 +9887,7 @@
   ],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Write the two without-replacement probabilities as fractions in n and show the product equals the stated result."
+  "methodNote": "Show that. Method mark for one correct probability written as a fraction in n. Accuracy mark, dependent, for the product of the two probabilities simplified to the stated form; do not award it if errors are seen."
  },
  {
   "id": "jun2024-1h-17",
@@ -10067,7 +10067,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Write each variable as a power of the same base and add the indices."
+  "methodNote": "Index laws with an unknown. Process mark for rewriting each variable as a power of the same base, or giving each exponent as an expression in n. Process mark for combining them into one power by adding indices. Accuracy mark for the exponent as an equivalent fraction."
  },
  {
   "id": "jun2024-1h-21",
@@ -10211,7 +10211,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": true,
-  "methodNote": "Use the circle equation and the given point to find the radius, the other intersection and line equation."
+  "methodNote": "Circle and line through a given point. Process mark for the equation of the circle with the radius squared. Process mark for the y-coordinate of the other intersection by substitution. Process mark for choosing the correct sign. Process mark, dependent, for the y-intercept from the line's gradient through the given point. Accuracy mark."
  },
  {
   "id": "jun2024-2h-1",
@@ -10302,7 +10302,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Prime factorisation of a number and the lowest common multiple using the given factorisations."
+  "methodNote": "(a) Prime factorisation: method mark for a complete method (a factor tree or division by primes, no more than one error, or listing the prime factors; including 1 is condoned), accuracy mark for the product of primes (index form accepted). (b) One mark for the lowest common multiple, from the given factorisations (index or product form accepted)."
  },
  {
   "id": "jun2024-2h-3",
@@ -10392,7 +10392,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Use the probability of yellow to find the total, then the number of the other colours."
+  "methodNote": "Probability with a ratio. Process mark for the total number from a known probability and count (or the total probability of the other colours). Process mark for sharing the rest in the ratio. Process mark for a complete process to the number of one colour. Accuracy mark."
  },
  {
   "id": "jun2024-2h-5",
@@ -10848,7 +10848,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Draw a tangent at the given time and find its gradient for the acceleration."
+  "methodNote": "(a) Method mark for a tangent at the stated time (none drawn scores zero). Dependent method mark for a complete method for the gradient. Accuracy mark in a range (a negative gradient for a decelerating graph). (b) Method mark for an estimate of area using at least one trapezium or equivalent shapes; see the cited scheme page for the full split."
  },
  {
   "id": "jun2024-2h-15",
@@ -12623,7 +12623,7 @@
   ],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": true,
-  "methodNote": "Write consecutive even numbers in algebraic form, form the expression and show the result."
+  "methodNote": "Algebraic proof about consecutive even numbers. Method mark for writing two consecutive even numbers as expressions (any linear expressions with a difference of two are accepted). Method mark, dependent on that, for expanding both squares correctly (not necessarily simplified), or a correct difference-of-two-squares expression. Communication mark for a complete proof, without errors, ending in a factorised form that shows the stated property."
  },
  {
   "id": "jun2025-1h-11",
@@ -13976,7 +13976,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": true,
-  "methodNote": "Use the cosine rule with the given angle and then the sine rule or an area result."
+  "methodNote": "Cosine rule, then the sine rule. Process mark for starting the cosine rule. Process mark for correct order of operations to find the length. Two process marks for working with the sine rule (in either order). Accuracy mark in a range. See the cited scheme page for the last step."
  },
  {
   "id": "jun2025-3h-1",
@@ -16393,7 +16393,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Add the areas of the faces of the cuboid and compare with the given amount."
+  "methodNote": "Compare a cuboid's surface area with that of a cube. Process mark for finding the area of at least three faces and adding. Process mark for a complete process to the cuboid's surface area. Process marks for the cube side length by a process from its surface area and from the cuboid's volume (see the cited scheme page for the exact split). Communication mark for a conclusion from supported figures."
  },
  {
   "id": "nov2019-2h-10",
@@ -17549,7 +17549,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Multiply both sides to clear the fraction first and solve the linear equation."
+  "methodNote": "(a) Solve a linear equation with a fraction. Method mark for multiplying both sides by the denominator as a first step (writing the multiplier beside the equation is not enough; dividing each term is also accepted). Dependent method mark for collecting the x terms on one side. Accuracy mark. (b) One mark for factorising an expression with a common factor (the expanded form also earns it)."
  },
  {
   "id": "nov2019-3h-11",
@@ -17764,7 +17764,7 @@
   ],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Write two consecutive even numbers, expand the sum of squares and show it is divisible by the stated number"
+  "methodNote": "Algebraic proof about consecutive even numbers. Method mark for expressions for two consecutive even numbers. Method mark, dependent, for expanding both squares (at least one expansion fully correct, or factorising both and showing intention to square). Accuracy mark for a complete proof showing a common factor."
  },
  {
   "id": "nov2019-3h-16",
@@ -17850,7 +17850,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Draw the line on the grid and read the intersections for the equation's solutions."
+  "methodNote": "Solve a quadratic equation graphically. Method mark for forming the linear equation to be drawn alongside the quadratic, or completing the square to find the translation. Dependent method mark for drawing the correct line. Method mark for showing where the line meets the curve (marks or read-offs from the x-axis). Accuracy mark for both solutions within a tolerance. A correct answer with no supportive working scores nothing. A special case gives two marks for plotting a wrong line and reading its intersections."
  },
  {
   "id": "nov2019-3h-18",
@@ -17944,7 +17944,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Draw a tangent to the curve at the stated point and find its gradient as change in y over change in x."
+  "methodNote": "Rate of change from a curve. Method mark for drawing a suitable tangent at the stated point. Method mark for a full method for its gradient (change in y over change in x). Accuracy mark for an answer in a tolerance range. A reading of the curve itself at that point scores no marks."
  },
  {
   "id": "nov2019-3h-20",
@@ -19196,7 +19196,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": true,
-  "methodNote": "Use the fractions of the total number of cards and a common total."
+  "methodNote": "Fractions of a total. Process mark for working with the two fractions as the share of a common total (a total that suits both denominators, or both fractions written over one total). Process mark for dividing or multiplying fractions to relate the two quantities. Accuracy mark for the fraction in any equivalent form; giving the answer as a ratio instead earns two of the three marks."
  },
  {
   "id": "nov2020-2h-1",
@@ -20705,7 +20705,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Rotate the shape about the stated centre and place the image."
+  "methodNote": "(a) Describe a transformation that takes one shape to another via a second image. Method mark for the position of the intermediate or final image (a drawn shape, or a correct description with at least two of the three aspects). Two accuracy marks for the full description (rotation, angle and centre, or the equivalent enlargement); one for any two of the three aspects; a combination of transformations cannot earn accuracy marks. (b) One mark for the centre, following through from (a) unless (a) was a combined transformation."
  },
  {
   "id": "nov2020-3h-12",
@@ -21024,7 +21024,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": true,
-  "methodNote": "Use bounds with Pythagoras for the diagonal and give the length to a stated accuracy."
+  "methodNote": "Bounds with Pythagoras in 3D. Unconditional mark for the correct bound of the given length. Method mark for the diagonal-squared relationship. Method mark for forming an equation in the side length with the bound. Accuracy mark for an answer in a tolerance range; an answer in range with no supportive working scores nothing."
  },
  {
   "id": "nov2020-3h-19",
@@ -21117,7 +21117,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Write the largest number that meets the digit conditions."
+  "methodNote": "One unconditional mark for the correct number, which must be clear and unambiguous."
  },
  {
   "id": "nov2020-3h-21",
@@ -21162,7 +21162,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": true,
-  "methodNote": "Rearrange the equation into a ratio and simplify."
+  "methodNote": "(a) Ratio from an equation in two letters. Process mark for a start (collecting the terms in one letter or dividing through by the other). Accuracy mark for the ratio in any equivalent form. (b) Ratio from a quadratic in two letters. Process mark for a start (all terms to one side, dividing by a square, or substituting a value). Process mark for a second step (factorising, or a quadratic in the ratio). Accuracy mark for the ratio in any equivalent form."
  },
  {
   "id": "nov2021-1h-1",
@@ -21669,7 +21669,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Form an equation from the relationship and rearrange to make a letter the subject."
+  "methodNote": "Rearrange to make y the subject when y appears twice. Process mark for forming the equation (missing brackets condoned). Process mark for expanding and gathering one letter's terms or isolating the y terms in a correct equation. Process mark, dependent on two y terms, for factorising out y. Accuracy mark for y in terms of w, in any equivalent form."
  },
  {
   "id": "nov2021-1h-12",
@@ -22119,7 +22119,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": true,
-  "methodNote": "Compose the functions in the stated order, then solve or compare."
+  "methodNote": "Functions. (a) Method mark for evaluating the first function at the stated value and clearly intending to apply the second to the result (or for stating the composite). Accuracy mark. (b) Method mark for forming the composite in the other order. Method mark for starting the inverse (swap the letters or rearrange for the input). Method mark for continuing to make the subject. Accuracy mark."
  },
  {
   "id": "nov2021-1h-22",
@@ -22810,7 +22810,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": true,
-  "methodNote": "Divide by the ratio parts to find angles, then use circle theorem reasoning."
+  "methodNote": "Circle theorems with an angle ratio. Method mark for finding one angle by dividing in the ratio. Method mark for finding the required angle by angle sums (do not award if it is unclear which angle is being found). Two communication marks for the correct angle with both reasons stated (cyclic quadrilateral opposite angles, alternate segment theorem), one for one reason dependent on the method; reasons must be linked to the working."
  },
  {
   "id": "nov2021-2h-15",
@@ -22857,7 +22857,7 @@
   ],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Use the cosine rule with the known angle and sides."
+  "methodNote": "(a) Side by the cosine rule. Method mark for a correct start. Dependent method mark for correct order of operations. Accuracy mark for an answer in a range. (b) Area by half ab sin C: method mark, accuracy mark for an answer in a range. Answers in range seen in working but wrongly rounded earn full marks."
  },
  {
   "id": "nov2021-2h-16",
@@ -23182,7 +23182,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Draw a line of best fit and read an estimate from it."
+  "methodNote": "(a) One mark for a correct point plotted or read. (b) Estimate from a line of best fit. Method mark for reading from the line (or a point on the grid at the given x within a range). Accuracy mark for an answer in a range. (c) One communication mark for a decision and statement about an outlier (for example that the trend or correlation is still visible and the point can be ignored); statements saying yes are not accepted."
  },
  {
   "id": "nov2021-3h-2",
@@ -23816,7 +23816,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": false,
   "hardestOverall15pct": false,
-  "methodNote": "Draw a tangent at the stated point and find the gradient for the rate of change."
+  "methodNote": "Method mark for drawing a tangent at the stated time. Method mark for its gradient. Accuracy mark for an answer in a range, dependent on the tangent. Negative signs are ignored."
  },
  {
   "id": "nov2021-3h-16",
@@ -25168,7 +25168,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": true,
-  "methodNote": "Use the sine rule with the known sine of the angle."
+  "methodNote": "Sine rule with a surd answer. Unconditional mark for the exact value of the sine of the known angle. Process mark for substituting into the sine rule. Process mark for rearranging to the sine of the unknown angle (using the exact value). Accuracy mark for an answer in the required fraction form."
  },
  {
   "id": "nov2022-1h-23",
@@ -26163,7 +26163,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": true,
-  "methodNote": "Use Pythagoras to find a side, then trigonometry for the angle."
+  "methodNote": "Angle in a 3D shape. Process mark for finding one side with Pythagoras. Process mark for a second length with trigonometry. Process mark for a correct trigonometric statement for the angle. Accuracy mark for an answer in a range (a correct answer in range in working but wrongly rounded earns full marks)."
  },
  {
   "id": "nov2022-2h-21",
@@ -26213,7 +26213,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Draw a tangent at the stated point and find its gradient."
+  "methodNote": "(a) Method mark for a tangent drawn at the stated time (none drawn scores zero). Method mark for a complete method for the gradient (change in y over change in x). Accuracy mark in a range. (b) One communication mark for a suitable explanation of what the gradient represents."
  },
  {
   "id": "nov2022-2h-22",
@@ -27349,7 +27349,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Combine algebraic fractions over a common denominator and match to the stated form."
+  "methodNote": "Combining algebraic fractions. Method mark for writing at least one of the three terms over the common denominator (the difference of two squares). Method mark for all terms combined over it. Accuracy mark for both required constants."
  },
  {
   "id": "nov2022-3h-23",
@@ -27803,7 +27803,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Share an amount in a ratio, then use angle facts to find the angle."
+  "methodNote": "Angles in a ratio. Process mark for using the ratio (parts or algebraic form). Process mark for an angle-facts equation. Process mark for a complete process to the required angle. Accuracy mark. Solving for the unknown angle gets two process marks together."
  },
  {
   "id": "nov2023-1h-7",
@@ -27941,7 +27941,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": false,
   "hardestOverall15pct": false,
-  "methodNote": "Draw the line on the grid from its equation."
+  "methodNote": "(a) Draw a straight line from a described rate: two marks for the correct line, one for stating or plotting two points on it or giving its equation. (b)(i) One mark for a gradient-type value read from the line (follow-through allowed). (ii) One communication mark for explaining what the value means in context, in words."
  },
  {
   "id": "nov2023-1h-10",
@@ -28218,7 +28218,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Draw a tangent at the stated point and find its gradient."
+  "methodNote": "Method mark for a tangent at the stated point (must be seen). Method mark for a complete method for the gradient (awardable even if the tangent is at another point). Accuracy mark for an answer in a range, or following through from an acceptable tangent. A correct answer with no working scores nothing."
  },
  {
   "id": "nov2023-1h-16",
@@ -28690,7 +28690,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": false,
   "hardestOverall15pct": false,
-  "methodNote": "Compound interest at the yearly rate for the stated number of years."
+  "methodNote": "Compound interest. Method mark for a full method for one year, or for two years as a single multiplier. Accuracy mark for the final amount (rounded or unrounded to the nearest penny)."
  },
  {
   "id": "nov2023-2h-4",
@@ -28775,7 +28775,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Share in a ratio, then scale to find the amount."
+  "methodNote": "Ratio then a second ratio. Process mark for working correctly with the first ratio. Process mark for the value of one part of the new ratio. Process mark for a complete process to both values needed. Accuracy mark."
  },
  {
   "id": "nov2023-2h-6",
@@ -30304,7 +30304,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Enlarge the triangle with the stated scale factor and centre."
+  "methodNote": "(a) Enlargement with a negative fractional scale factor about a given centre on a grid. Two marks for all three aspects correct (enlargement, scale factor, centre), one for two aspects. Other parts of this question are not summarised here; see the cited scheme file and page."
  },
  {
   "id": "nov2023-3h-19",
@@ -30576,7 +30576,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": true,
-  "methodNote": "Use trigonometry in the right-angled triangle to find the length."
+  "methodNote": "Angle between a line and a plane. Process mark for finding the first length by a ratio of the figure's lengths. Process mark for a second length by Pythagoras, or for the length to the top by 3D Pythagoras. Process mark for a trig ratio for the required angle. Accuracy mark for an angle in a range (a correct answer in range seen then wrongly rounded earns full marks)."
  },
  {
   "id": "nov2024-1h-1",
@@ -30952,7 +30952,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Find the area from the stated relationship and use it to find the missing length."
+  "methodNote": "Area from a stated relationship. Process mark for the area, from the relationship given for it. Process mark for a complete process to the missing length. Accuracy mark for the length in any equivalent form."
  },
  {
   "id": "nov2024-1h-9",
@@ -31234,7 +31234,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Use the sine rule with the known sines."
+  "methodNote": "Sine rule with exact values. Method mark for writing the exact value for either sine. Method mark for the sine rule equation. Accuracy mark."
  },
  {
   "id": "nov2024-1h-15",
@@ -31683,7 +31683,7 @@
   "flags": [],
   "hardestPartPerPaperTopic": true,
   "hardestOverall15pct": false,
-  "methodNote": "Explain the Venn diagram error for the stated number in terms of set regions."
+  "methodNote": "Two communication marks for describing two faults in a Venn diagram: the number that should appear only in the intersection (stated in words, or with set notation, or by crossing it out on the diagram), and a number that is missing and belongs outside the circles. Statements giving a wrong correction are not accepted."
  },
  {
   "id": "nov2024-2h-5",
